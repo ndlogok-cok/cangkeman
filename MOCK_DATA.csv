@@ -1,501 +1,501 @@
-date,gender,vacation_package_type,package_price,tickets_sold,customer_id,origin_city
-3/26/2022,Female,adventure,1828.54,90,1,Kuršėnai
-7/11/2022,Female,beach,3312.96,531,2,Napierville
-3/29/2022,Female,adventure,1863.99,175,3,Liwonde
-2/11/2022,Female,adventure,1901.27,5,4,Kagoro
-7/16/2022,Female,luxury,3252.58,320,5,Al Masallamiyya
-5/9/2022,Male,luxury,3183.45,186,6,Jiadingzhen
-8/4/2022,Female,beach,1377.36,621,7,Liangwa
-9/29/2022,Male,beach,1623.15,96,8,Huangqiao
-4/30/2022,Female,beach,1206.22,810,9,Bagou
-4/1/2022,Male,adventure,1012.32,974,10,Roissy Charles-de-Gaulle
-10/18/2022,Female,adventure,993.52,722,11,Accha
-8/20/2022,Polygender,adventure,3616.77,139,12,Beraim
-1/27/2022,Male,adventure,3715.93,718,13,Złoty Stok
-10/1/2022,Female,adventure,4168.96,813,14,Mombetsu
-8/7/2022,Female,beach,1813.49,944,15,Bal Chirāgh
-7/3/2022,Female,adventure,3736.06,509,16,Novosineglazovskiy
-3/22/2022,Female,beach,4570.99,62,17,Groznyy
-10/6/2022,Male,adventure,4952.42,553,18,Houyu
-8/11/2022,Female,luxury,3980.16,566,19,‘Ibrī
-5/10/2022,Male,adventure,4472.81,881,20,Cimara
-1/2/2022,Male,luxury,2545.34,711,21,Moscavide
-9/6/2022,Female,luxury,1823.07,993,22,Normanton
-8/10/2022,Male,beach,656.5,452,23,Lian
-2/28/2022,Male,beach,4364.74,481,24,Argir
-5/19/2022,Male,luxury,3036.94,743,25,Caimitillo
-10/12/2022,Female,luxury,2480.43,843,26,Rawaapu
-3/18/2022,Male,luxury,2978.18,515,27,Neochóri
-6/23/2022,Female,adventure,4127.22,842,28,Santo Ângelo
-1/29/2022,Female,luxury,1040.14,546,29,Juhut
-4/27/2022,Female,adventure,3466.28,568,30,Miami
-10/4/2022,Male,luxury,2627.06,45,31,Chantilly
-6/24/2022,Female,luxury,4845.35,14,32,Glushkovo
-9/14/2022,Male,beach,587.85,174,33,Yepocapa
-8/27/2022,Male,adventure,4755.71,975,34,Kholm
-3/25/2022,Polygender,beach,149.66,610,35,Caramanta
-12/26/2022,Male,luxury,4075.7,506,36,Makiwalo
-8/16/2022,Female,luxury,3691.47,277,37,Stony Plain
-2/24/2022,Female,adventure,902.95,740,38,Malilipot
-10/5/2022,Male,adventure,1046.56,934,39,Dragomer
-1/10/2022,Male,beach,4675.31,186,40,Ar Rumaythah
-3/17/2022,Genderqueer,beach,2631.1,973,41,Czerwonak
-3/9/2022,Male,beach,1909.62,609,42,Nova Prata
-5/16/2022,Genderfluid,adventure,1868.92,740,43,Pā’īn-e Bāzār-e Rūdbār
-6/6/2022,Female,adventure,4712.54,659,44,Laç
-5/27/2022,Non-binary,adventure,4284.64,156,45,Itororó
-4/21/2022,Female,adventure,3677.37,733,46,Zhonghualu
-4/4/2022,Male,luxury,661.73,809,47,Nagpandayan
-11/1/2022,Male,adventure,363.94,526,48,Disūq
-8/16/2022,Female,adventure,2354.33,232,49,Nanmu
-8/22/2022,Female,beach,4307.69,450,50,Tegalgunung
-7/7/2022,Female,beach,1440.71,867,51,Mahuta
-11/20/2022,Female,beach,1018.68,324,52,Alto de la Estancia
-6/4/2022,Female,adventure,4479.34,250,53,Além do Rio
-7/6/2022,Female,luxury,1281.04,146,54,Chengdong
-12/18/2022,Male,adventure,3086.14,182,55,Fangyan
-4/23/2022,Non-binary,adventure,2185.73,629,56,Eskilstuna
-2/9/2022,Female,beach,1389.6,348,57,Semibratovo
-11/4/2022,Female,adventure,716.18,427,58,Ismailia
-12/26/2022,Agender,adventure,4892.79,710,59,Soledad
-1/20/2022,Female,luxury,3779.86,834,60,Yima
-10/21/2022,Female,luxury,2985.46,924,61,Petoa
-9/4/2022,Male,luxury,1193.97,187,62,Borlänge
-7/8/2022,Non-binary,beach,3522.3,88,63,La Huerta
-1/14/2022,Female,adventure,2142.9,298,64,Riangderi
-3/3/2022,Female,adventure,179.77,46,65,Bogdaniec
-8/2/2022,Female,luxury,3632.48,341,66,Poříčany
-1/29/2022,Female,beach,3241.35,890,67,Huachos
-1/31/2022,Female,beach,2927.87,704,68,Duraznopampa
-7/13/2022,Female,beach,1714.52,81,69,Alkmaar
-5/14/2022,Female,beach,832.08,166,70,Rio Negro
-8/7/2022,Male,luxury,3899.84,537,71,Puhechang
-3/16/2022,Female,adventure,4609.78,115,72,Plaju
-3/7/2022,Male,luxury,4674.51,105,73,Daping
-12/5/2022,Male,adventure,2564.72,962,74,Norman Wells
-2/10/2022,Female,luxury,3167.77,596,75,Aţ Ţafīlah
-10/18/2022,Genderqueer,luxury,2669.55,291,76,Radzyń Chełmiński
-5/4/2022,Male,luxury,4100.81,482,77,Saint-Quentin
-6/8/2022,Female,adventure,4344.09,757,78,San Fernando de Atabapo
-12/14/2022,Male,luxury,2791.32,576,79,Farmahīn
-11/1/2022,Male,luxury,2166.77,593,80,Yangjia
-8/5/2022,Male,adventure,3892.77,485,81,Pshekhskaya
-7/17/2022,Male,luxury,4067.3,516,82,Tietê
-5/26/2022,Male,adventure,4442.74,115,83,Sainte-Luce-sur-Loire
-2/23/2022,Bigender,beach,1309.33,29,84,Ping’an
-5/8/2022,Female,adventure,2929.96,549,85,Aqaba
-1/25/2022,Male,beach,718.0,962,86,Dalazi
-5/16/2022,Female,adventure,4022.82,497,87,Kazanskaya
-4/30/2022,Female,luxury,4993.19,916,88,Chãos
-5/24/2022,Female,beach,1398.31,6,89,Vitanje
-9/6/2022,Male,beach,4608.44,489,90,Mādārīpur
-9/17/2022,Male,adventure,762.28,261,91,Weifen
-9/1/2022,Female,beach,1450.67,600,92,Phoenix
-9/19/2022,Female,adventure,372.84,126,93,Rockford
-1/10/2022,Male,luxury,2841.9,699,94,Shah Alam
-6/22/2022,Male,luxury,3405.12,575,95,Otaslavice
-4/8/2022,Male,beach,2962.77,203,96,Fenoarivo Be
-5/19/2022,Male,beach,3327.04,242,97,Yamazakichō-nakabirose
-6/5/2022,Female,luxury,2213.72,635,98,Areeiro
-8/26/2022,Female,luxury,4196.12,447,99,Sapeken
-10/28/2022,Non-binary,adventure,4525.79,121,100,Mangaratiba
-2/18/2022,Female,beach,4039.59,556,101,Calauan
-5/7/2022,Male,adventure,4318.97,516,102,Kluki
-6/28/2022,Female,luxury,3607.57,712,103,Hexi
-4/26/2022,Male,luxury,4827.71,409,104,Hưng Nguyên
-7/23/2022,Female,luxury,3951.5,487,105,Cibalung
-9/3/2022,Bigender,luxury,3415.75,368,106,Buea
-9/1/2022,Male,adventure,3515.72,623,107,Pentecoste
-4/22/2022,Male,beach,278.37,69,108,Gaxung
-9/14/2022,Female,luxury,2676.42,820,109,Las Americas
-4/1/2022,Male,luxury,4446.47,227,110,Sernur
-5/1/2022,Female,adventure,734.17,356,111,Hammam-Lif
-11/14/2022,Male,adventure,516.73,426,112,Hongmen
-5/23/2022,Male,luxury,1167.97,200,113,Oetua
-5/20/2022,Female,adventure,3074.85,47,114,Würzburg
-12/19/2022,Female,luxury,1863.72,494,115,Nova Kakhovka
-2/14/2022,Male,luxury,4859.73,338,116,Ledeunu
-3/19/2022,Male,adventure,318.62,746,117,Mantes-la-Jolie
-8/7/2022,Male,beach,1503.71,810,118,Huineno
-11/22/2022,Female,beach,1302.64,733,119,Jabat
-12/16/2022,Bigender,adventure,3497.32,888,120,Nankengzi
-7/27/2022,Male,adventure,374.66,782,121,Midrand
-10/3/2022,Female,luxury,2182.95,1,122,Srubec
-9/23/2022,Non-binary,beach,3709.73,177,123,Xuedian
-5/10/2022,Female,beach,4295.16,675,124,Lom Kao
-10/31/2022,Female,luxury,2472.53,970,125,Fujioka
-2/14/2022,Polygender,luxury,4853.6,314,126,Lazo
-7/27/2022,Male,luxury,1717.63,968,127,Boršice
-9/21/2022,Male,adventure,1404.39,697,128,Buri
-2/19/2022,Female,beach,581.96,296,129,Sabnova
-8/8/2022,Male,adventure,2648.4,597,130,Bonik
-12/1/2022,Female,beach,3309.43,889,131,Chayuan
-6/1/2022,Male,adventure,510.25,373,132,Ponggok
-4/4/2022,Female,luxury,4023.67,173,133,Nuing
-1/28/2022,Female,adventure,882.34,402,134,Qukës-Skënderbe
-4/21/2022,Male,adventure,618.07,964,135,Mozzozzin Sur
-11/29/2022,Female,beach,2590.01,554,136,Pingli
-11/30/2022,Genderqueer,beach,2283.15,578,137,Liuzhi
-12/15/2022,Female,adventure,3518.86,255,138,Pocsi
-6/10/2022,Male,adventure,3125.06,883,139,Sosnovka
-5/28/2022,Male,beach,4028.02,676,140,Puan
-3/10/2022,Non-binary,luxury,4637.36,301,141,Kan
-7/4/2022,Female,beach,679.38,960,142,Heshe
-9/12/2022,Genderfluid,adventure,2706.23,716,143,Nueva Guinea
-7/12/2022,Male,beach,4829.08,180,144,Tongkiling
-8/1/2022,Male,adventure,2801.03,444,145,Báguanos
-12/3/2022,Male,beach,4255.3,327,146,Cabeço
-4/26/2022,Female,beach,364.6,109,147,Parista
-12/20/2022,Female,luxury,1881.89,595,148,Bytkiv
-7/24/2022,Female,luxury,3519.53,823,149,Baicun
-3/24/2022,Male,luxury,784.79,799,150,Honolulu
-7/21/2022,Male,beach,1891.58,608,151,Ushi
-6/5/2022,Genderqueer,beach,863.46,910,152,Linköping
-6/11/2022,Female,adventure,4347.17,497,153,Lyubymivka
-1/31/2022,Female,luxury,405.99,397,154,Kohtla-Järve
-10/23/2022,Female,beach,3239.47,758,155,Mishkino
-5/14/2022,Male,luxury,3588.54,313,156,Żółkiewka
-7/16/2022,Male,luxury,2233.53,638,157,Fort Worth
-6/22/2022,Male,luxury,2589.82,319,158,Fort Pierce
-7/6/2022,Female,luxury,4459.1,761,159,Ålesund
-8/4/2022,Female,beach,2480.57,541,160,Nanhuatang
-12/12/2022,Male,beach,2383.54,285,161,Uba
-3/4/2022,Male,luxury,678.33,975,162,Banjar Geriana Kangin
-8/17/2022,Female,beach,4159.34,510,163,Ajaccio
-2/9/2022,Female,luxury,4768.69,423,164,Várzea Alegre
-5/25/2022,Male,adventure,2380.19,587,165,San Antonio
-2/12/2022,Female,beach,2638.1,429,166,Ondo
-10/23/2022,Male,adventure,1830.11,60,167,Kosiv
-12/29/2022,Non-binary,beach,591.46,209,168,Stanisław Dolny
-11/19/2022,Male,luxury,3423.18,729,169,Villa Altagracia
-6/19/2022,Female,beach,1008.14,237,170,Gubat
-11/11/2022,Male,beach,117.23,643,171,Rimba Sekampung
-4/24/2022,Female,adventure,4912.17,397,172,Cruzeiro do Oeste
-10/26/2022,Male,beach,1934.68,337,173,Soukkouma
-2/26/2022,Non-binary,luxury,299.91,842,174,Az̧ Z̧alī‘ah
-8/11/2022,Male,adventure,2568.61,381,175,Hantsport
-8/7/2022,Bigender,beach,1406.99,516,176,Desa Gegempalan
-3/25/2022,Male,luxury,3471.89,509,177,Sierpc
-5/22/2022,Male,adventure,2115.97,367,178,Świebodzice
-8/6/2022,Male,beach,4549.92,992,179,Novo Cruzeiro
-3/6/2022,Female,beach,3480.76,456,180,Borek
-11/17/2022,Genderfluid,beach,4894.32,48,181,Santa Rosa de Lima
-12/7/2022,Polygender,beach,830.9,820,182,Talashkino
-1/11/2022,Female,luxury,222.07,475,183,Guohe
-11/12/2022,Female,beach,3556.5,325,184,Wrocław
-7/28/2022,Male,adventure,1675.12,221,185,Oksa
-6/4/2022,Male,adventure,3433.98,706,186,Colima
-8/24/2022,Female,luxury,2099.71,917,187,Skatepark
-11/18/2022,Male,adventure,3870.13,582,188,Klobuky
-1/4/2022,Male,beach,2688.33,862,189,Risālpur
-8/18/2022,Female,luxury,3739.98,197,190,Pancoran
-2/10/2022,Female,beach,4749.33,962,191,Iparia
-4/25/2022,Female,adventure,2565.6,130,192,Koga
-11/5/2022,Female,adventure,4143.25,28,193,Changning
-9/17/2022,Female,adventure,1745.84,741,194,Extrema
-2/7/2022,Genderfluid,beach,1904.26,174,195,Pallanchacra
-10/16/2022,Female,beach,3820.44,312,196,Itajuípe
-4/19/2022,Female,beach,3838.87,617,197,Leigongmiao
-1/25/2022,Female,luxury,2969.55,219,198,Pindangan Centro
-5/13/2022,Female,adventure,842.07,174,199,Yukou
-9/22/2022,Male,beach,507.44,396,200,Baidoa
-1/23/2022,Female,luxury,2243.59,27,201,Sukamaju
-4/20/2022,Male,adventure,4236.18,538,202,Gif-sur-Yvette
-11/3/2022,Non-binary,adventure,670.08,297,203,Lākshām
-5/15/2022,Female,adventure,3360.32,968,204,Vales
-12/14/2022,Female,luxury,2638.27,14,205,Kill
-4/3/2022,Female,adventure,371.32,433,206,Zhongba
-5/4/2022,Male,adventure,3890.85,315,207,Gaojia
-12/19/2022,Male,adventure,864.21,871,208,Uherské Hradiště
-3/15/2022,Male,beach,101.42,612,209,Chaodi
-6/11/2022,Female,luxury,2335.33,846,210,Bangolo
-3/27/2022,Female,beach,4234.53,388,211,Añatuya
-2/2/2022,Male,luxury,3669.32,681,212,Tečovice
-2/3/2022,Female,luxury,4393.02,166,213,Bayan Hot
-5/3/2022,Male,luxury,2826.59,790,214,Dziadkowice
-11/21/2022,Female,adventure,3224.98,933,215,Brzączowice
-9/1/2022,Female,adventure,462.59,110,216,Ribeira Grande
-4/20/2022,Female,adventure,2208.99,410,217,Boston
-8/6/2022,Male,luxury,1106.59,206,218,Volgorechensk
-11/22/2022,Genderqueer,beach,3863.5,950,219,Patos de Minas
-9/15/2022,Male,beach,4665.04,361,220,Nong Bun Nak
-2/12/2022,Male,beach,4385.74,503,221,Cabinteely
-12/24/2022,Male,adventure,1333.7,979,222,Yangdian
-7/14/2022,Agender,beach,1637.31,639,223,Luci
-9/1/2022,Male,adventure,4666.97,99,224,Daming
-10/5/2022,Male,luxury,3532.96,974,225,Aūa
-9/9/2022,Agender,adventure,3425.4,87,226,Laguna Paiva
-3/12/2022,Non-binary,beach,1094.87,19,227,Kolodeznyy
-9/5/2022,Female,beach,3977.76,242,228,Niushou
-11/10/2022,Male,beach,958.89,159,229,Bandundu
-8/3/2022,Female,luxury,3339.5,848,230,Khiv
-5/17/2022,Male,beach,2129.1,673,231,Shiyang
-11/12/2022,Female,adventure,290.98,852,232,Ad Dasmah
-10/27/2022,Female,luxury,4729.44,823,233,Åhus
-2/4/2022,Female,adventure,3752.51,685,234,Bamenda
-9/5/2022,Female,luxury,1973.0,362,235,Wodzierady
-6/2/2022,Male,luxury,1828.57,824,236,Stýpsi
-6/8/2022,Female,beach,2786.11,721,237,Munkedal
-6/21/2022,Male,beach,2193.94,553,238,Geneng Tengah
-4/2/2022,Female,adventure,3816.67,890,239,Lintaca
-7/7/2022,Female,beach,3622.14,343,240,Timbaúba
-6/1/2022,Female,adventure,177.41,49,241,Chortkiv
-10/8/2022,Male,luxury,3164.26,99,242,Putina
-7/28/2022,Male,adventure,4167.41,741,243,Viligili
-2/22/2022,Male,beach,3666.83,921,244,Puyo
-7/28/2022,Female,luxury,1045.08,18,245,Charlotte
-2/2/2022,Male,beach,763.83,271,246,Kamen’-na-Obi
-4/25/2022,Female,luxury,4547.61,67,247,Piribebuy
-2/27/2022,Female,beach,2941.91,668,248,Maramag
-10/25/2022,Male,adventure,1091.41,527,249,Wilkołaz
-6/2/2022,Female,luxury,1727.73,956,250,Plei Kần
-10/2/2022,Male,beach,4006.52,646,251,Khān Arnabah
-8/2/2022,Male,luxury,4501.15,316,252,Casais de Vera Cruz
-8/8/2022,Male,beach,740.28,544,253,Johor Bahru
-2/6/2022,Female,luxury,1003.65,229,254,Rudnichnyy
-2/4/2022,Female,beach,2371.88,492,255,Krasnoarmeysk
-12/2/2022,Female,beach,1057.06,922,256,Kraljevica
-12/21/2022,Bigender,adventure,4754.48,785,257,Prochowice
-10/7/2022,Genderfluid,beach,957.38,970,258,Ricardo Palma
-1/22/2022,Female,adventure,1254.62,493,259,Riangbaring
-1/4/2022,Male,luxury,835.22,723,260,Juhaynah
-2/24/2022,Female,adventure,3952.14,875,261,Changjiang
-3/15/2022,Female,luxury,1827.39,99,262,São João de Caparica
-2/9/2022,Female,luxury,2256.94,874,263,El Cocuy
-2/1/2022,Female,beach,903.87,804,264,Agraharam
-12/13/2022,Male,luxury,4410.83,336,265,Alíartos
-12/10/2022,Male,luxury,263.39,765,266,Hearst
-11/16/2022,Female,luxury,3631.05,996,267,Kudamatsu
-7/21/2022,Polygender,luxury,3475.13,521,268,Doumen
-2/20/2022,Female,luxury,530.97,355,269,Heimahe
-6/21/2022,Male,luxury,2807.29,614,270,Cipolletti
-1/28/2022,Female,beach,3174.46,557,271,Chunoyar
-5/24/2022,Male,adventure,388.88,74,272,Quận Mười
-2/27/2022,Female,beach,2423.68,475,273,Sedinginan
-1/5/2022,Male,luxury,2274.0,593,274,Geshan
-5/30/2022,Female,adventure,1201.24,281,275,Mem Martins
-5/17/2022,Male,beach,3571.3,921,276,Arauco
-9/20/2022,Female,luxury,4458.71,856,277,Agdangan
-1/31/2022,Female,adventure,4757.86,105,278,Pinheiro
-8/5/2022,Female,luxury,1006.82,503,279,Utabi
-7/26/2022,Female,beach,1736.3,369,280,Boulogne-Billancourt
-3/3/2022,Female,adventure,214.12,977,281,Socorro
-7/9/2022,Male,luxury,3563.09,706,282,Whakatane
-12/12/2022,Female,adventure,2549.74,54,283,Xianxi
-3/28/2022,Male,luxury,2600.69,466,284,San Isidro
-6/19/2022,Male,beach,625.19,415,285,Luso
-5/7/2022,Male,adventure,4263.47,660,286,Tyoply Stan
-9/5/2022,Female,luxury,622.08,265,287,Yangzi
-10/16/2022,Male,beach,3773.7,656,288,Lenešice
-3/8/2022,Female,beach,2930.32,394,289,Yongdong
-12/15/2022,Male,adventure,643.07,895,290,Las Piñas
-2/26/2022,Female,luxury,4125.68,566,291,Lazaro Cardenas
-9/6/2022,Female,luxury,2045.16,70,292,Arnhem
-4/13/2022,Male,beach,724.14,500,293,Qingminghe
-3/17/2022,Non-binary,beach,4980.24,704,294,Kampot
-11/27/2022,Male,adventure,4020.82,391,295,Kafr Qūd
-1/27/2022,Male,adventure,3260.21,362,296,Buenos Aires
-3/15/2022,Bigender,beach,703.66,11,297,Atsipópoulon
-7/4/2022,Female,adventure,2046.75,886,298,Xiangqiao
-2/4/2022,Male,luxury,4264.77,104,299,Mancos
-6/2/2022,Female,luxury,2525.93,839,300,Ewirgol
-9/29/2022,Male,beach,3352.39,547,301,New York City
-10/30/2022,Male,adventure,398.61,789,302,Lumby
-8/1/2022,Agender,beach,2709.13,421,303,Vineuil
-11/12/2022,Female,adventure,125.07,450,304,Yiqian
-3/19/2022,Male,adventure,2507.29,951,305,Bar-le-Duc
-9/9/2022,Male,luxury,556.53,574,306,Villanueva
-9/7/2022,Female,adventure,1107.63,848,307,Cartagena
-4/4/2022,Female,adventure,2749.98,954,308,Xiuyu
-11/23/2022,Agender,luxury,4554.38,194,309,Padang
-7/14/2022,Male,luxury,1275.95,85,310,Butare
-2/20/2022,Male,adventure,4290.04,655,311,Sam Ngam
-2/26/2022,Polygender,adventure,3615.27,886,312,Chunoyar
-4/13/2022,Male,adventure,2669.75,205,313,San Jacinto
-2/1/2022,Agender,luxury,4331.71,793,314,Niamey
-6/5/2022,Bigender,adventure,4337.25,389,315,Chacapalpa
-9/2/2022,Female,adventure,3721.63,936,316,Imaichi
-10/15/2022,Male,beach,3681.66,917,317,Toulon
-2/22/2022,Male,beach,732.51,443,318,Béja
-10/13/2022,Female,adventure,1506.83,676,319,Atbasar
-1/1/2022,Female,adventure,3059.93,487,320,Haodian
-12/23/2022,Female,adventure,834.89,624,321,Gaoping
-11/15/2022,Female,adventure,1543.94,472,322,Chelles
-3/16/2022,Male,beach,2277.33,152,323,Évry
-12/4/2022,Female,adventure,799.06,813,324,Anau
-11/3/2022,Male,luxury,1346.62,282,325,Fergana
-5/31/2022,Male,adventure,3937.12,470,326,Machov
-9/25/2022,Male,adventure,197.83,798,327,San Agustin
-4/6/2022,Male,adventure,2507.99,589,328,Kornyn
-12/11/2022,Male,beach,122.34,597,329,Sumberingin Kulon
-12/22/2022,Male,luxury,4730.87,920,330,Łobżenica
-8/9/2022,Male,luxury,4792.25,117,331,El Realejo
-11/10/2022,Male,luxury,2144.34,881,332,Nantes
-7/16/2022,Male,adventure,3406.63,414,333,Los Lotes
-6/28/2022,Male,beach,1890.48,829,334,Lumbangan
-4/22/2022,Genderfluid,adventure,1677.26,756,335,Xingdian
-4/23/2022,Male,beach,1793.52,887,336,Falënki
-7/24/2022,Female,adventure,176.33,994,337,Pangao
-6/14/2022,Male,adventure,1331.48,370,338,Iles
-5/13/2022,Female,beach,617.14,1000,339,Hobor
-10/27/2022,Male,beach,3548.68,201,340,Neringa
-5/27/2022,Female,adventure,1569.08,427,341,Lukićevo
-6/13/2022,Female,luxury,4312.69,916,342,Laya
-8/4/2022,Male,adventure,2534.25,236,343,Burträsk
-12/17/2022,Genderfluid,luxury,3292.54,424,344,Manalu
-8/2/2022,Female,beach,3125.1,574,345,Shangganshan
-9/20/2022,Bigender,luxury,2261.56,476,346,Pavia
-1/25/2022,Male,beach,1253.77,372,347,Vostochnyy
-8/19/2022,Male,adventure,1314.4,224,348,Waterbury
-3/4/2022,Female,beach,994.28,407,349,Huxi
-9/11/2022,Bigender,luxury,1594.71,15,350,Imus
-1/30/2022,Female,adventure,4683.6,173,351,Lidong
-3/21/2022,Female,adventure,1051.45,295,352,Donji Dobrić
-6/13/2022,Male,adventure,4465.01,477,353,Viljoenskroon
-6/21/2022,Genderqueer,beach,4057.13,223,354,Bajiao
-10/21/2022,Female,adventure,2521.4,375,355,Itamarandiba
-8/5/2022,Male,luxury,3882.88,659,356,San Nicolas
-4/28/2022,Female,adventure,3404.89,462,357,Igreja
-12/21/2022,Male,adventure,4475.61,414,358,Troyes
-4/15/2022,Male,adventure,1217.44,64,359,Clanwilliam
-8/28/2022,Male,beach,726.49,949,360,Borås
-11/25/2022,Female,adventure,4558.46,325,361,Kumalarang
-11/18/2022,Female,luxury,2145.02,63,362,Altares
-2/13/2022,Female,beach,2728.88,594,363,Warwick
-9/19/2022,Male,luxury,4491.74,437,364,Villa Ojo de Agua
-11/8/2022,Male,luxury,3678.48,610,365,Caseros
-10/14/2022,Female,adventure,4447.44,83,366,Or Yehuda
-7/17/2022,Female,adventure,1626.63,802,367,Wolfsberg
-2/1/2022,Female,beach,4217.49,585,368,Shazi
-3/5/2022,Male,beach,2298.57,797,369,Camabatela
-1/8/2022,Female,beach,4927.36,591,370,Gampingan
-9/6/2022,Male,adventure,3767.08,155,371,Tanumshede
-2/20/2022,Male,adventure,3624.22,896,372,Warungpeuteuy
-11/9/2022,Male,beach,1857.36,44,373,Bystřice nad Pernštejnem
-7/10/2022,Female,adventure,2102.77,148,374,Liangshuijing
-6/22/2022,Female,adventure,4780.39,208,375,Nahāvand
-11/18/2022,Female,adventure,4324.12,402,376,Zaki Biam
-10/9/2022,Female,beach,3991.93,945,377,Daugavgrīva
-4/19/2022,Male,beach,4122.7,276,378,Muzhijie
-7/2/2022,Female,beach,2816.99,755,379,Runović
-9/21/2022,Male,luxury,983.04,811,380,Cibolang
-10/8/2022,Female,beach,4252.89,729,381,Vicente Guerrero
-12/17/2022,Female,luxury,1689.81,461,382,Wangyi Zhendian
-10/31/2022,Male,luxury,2220.31,209,383,Verdizela
-7/27/2022,Male,luxury,1607.03,512,384,Além
-6/24/2022,Male,luxury,1727.46,246,385,Sibulan
-10/29/2022,Female,beach,4857.8,843,386,Changzheng
-12/5/2022,Female,luxury,3763.12,218,387,Panjakent
-10/21/2022,Agender,adventure,2482.08,25,388,P’asanauri
-9/7/2022,Male,adventure,3325.84,9,389,Rizómilos
-11/28/2022,Male,adventure,4731.16,427,390,Tarlac City
-11/9/2022,Female,luxury,2795.42,474,391,Kolomyagi
-10/19/2022,Male,luxury,3797.36,845,392,Gradil
-5/8/2022,Female,luxury,697.69,238,393,Padangtiji
-11/26/2022,Male,adventure,362.28,770,394,Varberg
-12/8/2022,Female,beach,2259.23,659,395,Suwaru
-11/6/2022,Female,adventure,121.33,874,396,Arraial do Cabo
-8/9/2022,Agender,adventure,3176.58,30,397,Xiguantun Muguzu Manzuxiang
-5/14/2022,Male,beach,1752.11,360,398,Akhfennir
-10/9/2022,Female,beach,3749.85,516,399,Meziměstí
-12/23/2022,Male,luxury,4685.91,416,400,Pasco
-10/6/2022,Female,luxury,394.96,418,401,Kotadukuh
-7/16/2022,Female,beach,1017.07,494,402,Geshan
-4/7/2022,Female,beach,333.75,539,403,Södertälje
-8/14/2022,Female,adventure,4991.04,848,404,Patsi
-10/8/2022,Male,adventure,675.5,427,405,Khlong Khuean
-4/28/2022,Male,luxury,4138.88,746,406,Metsemotlhaba
-10/16/2022,Male,beach,2992.62,739,407,Stari Grad
-11/21/2022,Genderqueer,adventure,2354.37,663,408,Mońki
-5/28/2022,Genderqueer,adventure,608.08,838,409,Campo de la Cruz
-6/3/2022,Male,luxury,4247.19,503,410,Abakaliki
-3/5/2022,Male,luxury,2916.69,482,411,Waoundé
-10/19/2022,Female,beach,3708.01,300,412,Nancun
-2/11/2022,Female,beach,4219.12,767,413,Bīleh Savār
-7/24/2022,Female,beach,2234.87,867,414,Lembang
-11/4/2022,Female,adventure,1750.93,103,415,Matai
-10/30/2022,Male,beach,4514.49,812,416,Zavoronezhskoye
-4/8/2022,Female,beach,1693.14,250,417,Tonglin
-6/9/2022,Male,luxury,2704.69,939,418,Vaiusu
-7/13/2022,Male,adventure,2345.45,369,419,Segoro
-7/12/2022,Male,beach,2314.13,447,420,Paso de los Libres
-1/3/2022,Male,adventure,3541.93,95,421,Hachinohe
-2/17/2022,Female,beach,1130.22,358,422,Yongxing
-1/27/2022,Female,luxury,2512.97,882,423,Lanipao
-5/20/2022,Female,beach,101.7,247,424,Sindi
-12/1/2022,Male,beach,1301.53,407,425,Pakham
-11/28/2022,Female,adventure,844.42,29,426,Lazaro Cardenas
-8/28/2022,Bigender,beach,982.41,387,427,Kvänum
-2/12/2022,Male,beach,3339.07,211,428,Winburg
-3/18/2022,Female,luxury,4722.44,390,429,San Luis Ixcán
-6/11/2022,Male,beach,3988.34,874,430,Zhanghua
-6/7/2022,Female,beach,845.87,51,431,Ðà Lạt
-7/27/2022,Male,luxury,4251.15,246,432,Kokkári
-5/27/2022,Female,beach,3611.44,661,433,Akhaldaba
-5/2/2022,Male,luxury,4891.59,239,434,Cosquín
-6/18/2022,Female,adventure,4259.6,978,435,Lázně Kynžvart
-5/10/2022,Genderqueer,adventure,2142.27,388,436,Nova Prata
-1/11/2022,Male,luxury,2249.24,52,437,Gardēz
-10/8/2022,Female,adventure,2267.98,136,438,Bayan Gol
-4/25/2022,Male,beach,3741.34,544,439,Ayrihuanca
-5/15/2022,Female,beach,3045.33,602,440,La Reforma
-4/1/2022,Female,luxury,1092.03,472,441,Tomingad
-10/29/2022,Male,adventure,2954.98,666,442,Sucre
-1/27/2022,Genderqueer,adventure,1905.91,245,443,Veinticinco de Mayo
-11/10/2022,Female,adventure,4709.7,459,444,Jovellar
-6/24/2022,Male,luxury,4211.41,587,445,La Tour-du-Pin
-9/15/2022,Female,beach,1001.09,840,446,Dolinsk
-8/26/2022,Male,beach,4619.96,224,447,Bearna
-1/6/2022,Male,beach,1198.22,219,448,Shijia
-10/25/2022,Female,luxury,2538.97,610,449,Ufa
-12/27/2022,Male,beach,357.1,938,450,Az Zāhir
-11/12/2022,Male,beach,516.1,306,451,Kuvshinovo
-9/7/2022,Female,beach,619.84,744,452,Gombong
-11/8/2022,Male,adventure,1459.47,128,453,Angered
-11/1/2022,Genderqueer,beach,1666.07,388,454,Jhumra
-2/24/2022,Female,beach,1507.2,10,455,Nytva
-3/14/2022,Female,beach,1490.04,83,456,Kaputian
-4/11/2022,Female,adventure,4006.32,175,457,San Agustin
-1/13/2022,Female,adventure,415.67,365,458,Uchaly
-7/21/2022,Male,beach,3576.92,166,459,Koshki
-1/4/2022,Male,luxury,4756.86,720,460,Pringgoboyo
-4/9/2022,Male,beach,3772.45,937,461,Ciputih
-8/13/2022,Female,adventure,4922.4,503,462,Bajina Bašta
-2/10/2022,Male,beach,4831.43,315,463,Nioro du Rip
-6/25/2022,Female,beach,792.96,911,464,Malalag
-1/29/2022,Female,beach,3611.43,219,465,Balud
-12/5/2022,Male,beach,3500.24,769,466,Turi
-10/15/2022,Female,luxury,2368.55,468,467,Taiping
-12/2/2022,Genderqueer,luxury,536.99,796,468,Hanfeng
-6/4/2022,Male,beach,456.34,263,469,Acandí
-11/9/2022,Female,adventure,2906.87,804,470,Viline
-10/11/2022,Non-binary,adventure,1560.09,143,471,San Antonio
-3/6/2022,Female,beach,4101.79,774,472,Annecy
-7/15/2022,Male,adventure,3145.79,667,473,Dicun
-4/16/2022,Non-binary,luxury,4570.81,166,474,Shanjiao
-2/25/2022,Male,luxury,613.94,554,475,Xiacaoqiao
-8/21/2022,Female,beach,2121.17,768,476,Luangwa
-10/10/2022,Male,luxury,3429.97,457,477,Wuyang
-12/24/2022,Male,beach,4606.89,279,478,Kungshamn
-9/24/2022,Male,luxury,2910.93,475,479,Iguape
-7/11/2022,Male,beach,4599.16,717,480,Marbel
-11/19/2022,Male,luxury,3133.65,108,481,Columbeira
-7/23/2022,Male,luxury,3468.23,428,482,Huskvarna
-7/12/2022,Female,beach,710.7,378,483,Lindavista
-6/5/2022,Female,beach,4271.22,734,484,Slavs’ke
-9/5/2022,Female,adventure,4942.22,611,485,Sillamäe
-10/31/2022,Male,adventure,2398.99,164,486,Zhangjiawo
-9/17/2022,Female,luxury,3235.71,832,487,Almeria
-7/30/2022,Male,luxury,1494.59,415,488,Krajan Gajihan
-4/25/2022,Female,luxury,3717.2,401,489,El Progreso
-7/26/2022,Female,luxury,4574.59,323,490,Neftçala
-2/16/2022,Female,luxury,1723.07,949,491,Niugan
-11/10/2022,Female,beach,3900.03,843,492,Tugulym
-11/13/2022,Polygender,luxury,1737.37,218,493,Kiruna
-3/4/2022,Female,beach,4045.06,945,494,Jatipamor
-3/26/2022,Female,adventure,1501.22,479,495,Paris 02
-1/30/2022,Female,beach,3730.74,590,496,Kushar
-1/4/2022,Male,adventure,3667.01,8,497,Sviadnov
-6/19/2022,Agender,adventure,2975.44,431,498,Renfrew
-11/13/2022,Male,adventure,4605.75,733,499,Cibenda
-9/30/2022,Female,adventure,224.57,489,500,El Quiteño
+customer_id,hometown,gender,date,vacation_package_type,package_options,tickets_sold
+1,Otavalo,Female,9/12/2022,beach,5500k,147
+2,Perístasi,Female,3/26/2022,adventure,5500k,896
+3,Ban Phaeo,Genderfluid,1/15/2022,adventure,1800k,523
+4,Croix,Female,2/26/2022,luxury,3300k,328
+5,Szubin,Genderfluid,1/11/2022,beach,1800k,79
+6,Huanxi,Male,6/10/2022,adventure,5500k,842
+7,Yishi,Female,10/2/2022,adventure,5500k,517
+8,Gashua,Female,9/14/2022,adventure,1800k,598
+9,Dayanggezhuang,Male,7/10/2022,luxury,3300k,508
+10,Himeville,Female,10/11/2022,beach,1800k,641
+11,Dongfeng,Female,10/26/2022,adventure,3300k,319
+12,Bulalacao,Female,11/30/2022,adventure,1800k,616
+13,Offa,Female,10/15/2022,beach,1800k,559
+14,Sumberkemuning,Female,3/29/2022,adventure,1800k,792
+15,Otutara,Female,11/5/2022,beach,3300k,898
+16,Silongin,Female,7/31/2022,adventure,1800k,931
+17,Jaroměřice,Female,6/29/2022,adventure,5500k,326
+18,Yu’erhong,Female,5/21/2022,adventure,3300k,389
+19,Xingxi,Male,3/5/2022,luxury,5500k,46
+20,Lodan Wetan,Female,4/12/2022,adventure,5500k,838
+21,Jackson,Male,7/20/2022,beach,1800k,728
+22,‘Awaj,Female,1/17/2022,adventure,1800k,809
+23,Timpas,Female,5/2/2022,luxury,3300k,963
+24,Kuala Lumpur,Male,4/30/2022,adventure,5500k,562
+25,Tsiroanomandidy,Male,3/9/2022,adventure,5500k,572
+26,Neofbaun,Female,2/13/2022,beach,3300k,18
+27,Yayao,Female,12/19/2022,luxury,5500k,63
+28,Yangchengzhuang,Male,9/28/2022,adventure,1800k,987
+29,Jiangtian,Genderfluid,2/10/2022,adventure,3300k,489
+30,Presnenskiy,Female,7/16/2022,beach,3300k,586
+31,Karaundi,Male,12/24/2022,adventure,3300k,845
+32,Issenye,Agender,2/14/2022,luxury,1800k,477
+33,Jubb Ramlah,Male,8/22/2022,adventure,3300k,914
+34,Zhonghuopu,Female,11/11/2022,luxury,5500k,266
+35,Fort Wayne,Female,12/26/2022,beach,3300k,886
+36,Novaya Igirma,Male,8/12/2022,beach,5500k,643
+37,Simpang,Female,4/30/2022,luxury,5500k,595
+38,Okpo,Female,12/27/2022,beach,5500k,848
+39,Gori,Female,9/20/2022,adventure,1800k,945
+40,Bogorejo,Male,5/27/2022,luxury,1800k,33
+41,Vancouver,Male,5/16/2022,beach,5500k,469
+42,Sinamar,Female,10/17/2022,adventure,5500k,524
+43,Qingsong,Male,12/12/2022,adventure,3300k,913
+44,Guanay,Male,4/16/2022,beach,3300k,441
+45,Bhopālwāla,Female,10/1/2022,beach,5500k,399
+46,Xihongmen,Female,7/29/2022,adventure,5500k,631
+47,Kabul,Female,11/23/2022,beach,3300k,177
+48,Kedungwaru,Female,7/12/2022,adventure,1800k,334
+49,Larochette,Male,5/19/2022,luxury,1800k,955
+50,Xingang,Male,7/6/2022,adventure,3300k,490
+51,Nowy Tomyśl,Male,3/19/2022,beach,5500k,594
+52,Frampol,Male,3/3/2022,beach,1800k,358
+53,Baojia,Male,1/24/2022,adventure,3300k,984
+54,Aygezard,Female,12/30/2022,adventure,5500k,239
+55,Yamen,Female,6/23/2022,adventure,1800k,884
+56,Jieshou,Male,11/21/2022,adventure,3300k,395
+57,Valdemarsvik,Male,7/13/2022,luxury,5500k,539
+58,Xinglong,Genderfluid,7/18/2022,beach,3300k,876
+59,Xia Dawo,Male,1/12/2022,adventure,1800k,830
+60,Jijiga,Female,5/15/2022,beach,5500k,143
+61,Cafayate,Female,5/21/2022,adventure,5500k,92
+62,Pangani,Female,3/25/2022,beach,3300k,948
+63,Buriti Bravo,Male,4/29/2022,luxury,3300k,666
+64,Vratsa,Male,5/23/2022,beach,3300k,999
+65,Suvorovo,Agender,8/29/2022,adventure,3300k,820
+66,Wangjing,Female,2/7/2022,beach,5500k,355
+67,Nuwaybi‘a,Male,12/10/2022,luxury,5500k,479
+68,Oslo,Female,5/1/2022,adventure,1800k,566
+69,Daixi,Male,9/25/2022,beach,1800k,477
+70,Xinjie,Female,6/20/2022,beach,1800k,845
+71,Rakek,Female,7/17/2022,adventure,5500k,617
+72,Sovetskaya,Female,5/16/2022,beach,1800k,75
+73,Lipka,Female,3/16/2022,luxury,5500k,999
+74,Ożarowice,Female,7/9/2022,beach,5500k,535
+75,Zhenjiang,Female,11/11/2022,adventure,3300k,944
+76,Zürich,Male,6/22/2022,beach,5500k,252
+77,Zhangduangu,Male,7/27/2022,adventure,3300k,616
+78,Oberá,Female,9/14/2022,beach,3300k,401
+79,Portobelo,Male,4/14/2022,adventure,3300k,129
+80,Tashanta,Male,2/28/2022,adventure,1800k,807
+81,Rrapë,Female,7/7/2022,adventure,3300k,570
+82,Kedungwungu,Female,4/12/2022,beach,1800k,983
+83,Embu Guaçu,Male,9/29/2022,luxury,5500k,631
+84,Sanchahe,Non-binary,5/12/2022,luxury,5500k,754
+85,Chiţcani,Male,5/11/2022,beach,5500k,926
+86,Şafāshahr,Female,11/6/2022,luxury,5500k,264
+87,Ostroměř,Female,3/17/2022,luxury,5500k,288
+88,Mas‘adah,Female,4/19/2022,beach,1800k,175
+89,Raposos,Male,12/27/2022,adventure,5500k,598
+90,Dobroměřice,Male,8/24/2022,beach,5500k,271
+91,Wuyun,Male,7/12/2022,beach,3300k,988
+92,Madrid,Male,6/26/2022,adventure,1800k,553
+93,Sandakan,Male,1/19/2022,luxury,1800k,846
+94,Barra do Corda,Non-binary,1/26/2022,adventure,5500k,302
+95,Gungguh,Female,8/7/2022,luxury,1800k,323
+96,Stanley,Bigender,8/8/2022,adventure,1800k,543
+97,Santo Tomás,Male,5/18/2022,beach,5500k,925
+98,El Crucero,Male,3/15/2022,beach,1800k,634
+99,Jieshou,Male,2/26/2022,beach,3300k,176
+100,Erandique,Female,12/21/2022,adventure,5500k,651
+101,Sollefteå,Female,10/2/2022,beach,1800k,486
+102,Jiyang,Male,7/18/2022,adventure,3300k,63
+103,Shuanglong,Polygender,2/27/2022,beach,1800k,858
+104,Newton,Female,5/30/2022,adventure,1800k,386
+105,Vyaz’ma,Female,12/16/2022,luxury,1800k,742
+106,Da’an,Male,1/31/2022,adventure,5500k,527
+107,Taypano,Female,12/29/2022,adventure,1800k,258
+108,Teluksantong,Female,3/13/2022,adventure,5500k,646
+109,Nong Chik,Female,3/23/2022,adventure,5500k,648
+110,Ayaviri,Male,3/26/2022,beach,5500k,17
+111,Chenghe,Male,8/13/2022,beach,5500k,575
+112,Villanueva,Male,10/8/2022,adventure,1800k,481
+113,Cantuk Kidul,Genderfluid,10/20/2022,luxury,3300k,441
+114,Tombatu,Male,12/10/2022,adventure,1800k,995
+115,Cabo Frio,Female,11/11/2022,adventure,5500k,367
+116,Penanggapan,Male,10/1/2022,luxury,1800k,240
+117,les Escaldes,Female,9/19/2022,adventure,5500k,158
+118,Bilicenii Vechi,Genderfluid,6/27/2022,adventure,3300k,818
+119,São José de Ribamar,Genderqueer,2/13/2022,adventure,3300k,208
+120,Rennes,Male,5/14/2022,adventure,5500k,872
+121,Longlisuo,Female,6/30/2022,adventure,5500k,92
+122,Shibi,Genderqueer,12/19/2022,adventure,1800k,903
+123,Santa Catalina,Female,6/11/2022,luxury,5500k,602
+124,Zonghan,Male,8/8/2022,adventure,3300k,192
+125,Miryang,Male,1/6/2022,adventure,3300k,107
+126,Yōkaichiba,Male,10/6/2022,beach,1800k,50
+127,Horní Bečva,Genderqueer,12/27/2022,beach,3300k,315
+128,Soras,Polygender,1/30/2022,luxury,5500k,683
+129,Shizuoka-shi,Male,12/19/2022,adventure,1800k,973
+130,Caticugan,Agender,8/1/2022,adventure,3300k,754
+131,Mölndal,Genderfluid,7/12/2022,adventure,1800k,263
+132,San Marcos,Male,8/5/2022,adventure,1800k,247
+133,Rizokárpaso,Male,4/30/2022,beach,5500k,350
+134,Pangrumasan,Female,6/4/2022,beach,1800k,106
+135,Bafia,Female,1/6/2022,adventure,5500k,168
+136,Pittsburgh,Male,5/3/2022,luxury,1800k,449
+137,Magdalena,Male,6/17/2022,adventure,3300k,588
+138,Qiaosi,Male,1/4/2022,beach,3300k,371
+139,Nangakeo,Male,11/23/2022,luxury,1800k,513
+140,Ranilug,Polygender,2/15/2022,beach,5500k,829
+141,Porto Alto,Male,1/19/2022,adventure,1800k,236
+142,Hữu Lũng,Non-binary,3/25/2022,luxury,3300k,298
+143,Xiahan,Bigender,1/6/2022,adventure,5500k,851
+144,Eystur,Male,9/17/2022,adventure,5500k,660
+145,Tiout,Female,4/18/2022,adventure,1800k,840
+146,Sukadana,Female,1/1/2022,beach,1800k,136
+147,Nanjie,Female,7/29/2022,adventure,3300k,173
+148,Nezhinka,Female,7/3/2022,beach,3300k,982
+149,Araguaína,Female,7/26/2022,adventure,1800k,544
+150,Leye,Female,6/14/2022,beach,3300k,205
+151,Zhelin,Genderqueer,9/11/2022,luxury,1800k,479
+152,Gózd,Male,5/19/2022,luxury,3300k,848
+153,Moravský Písek,Male,8/25/2022,adventure,1800k,781
+154,Tha Mai,Female,6/1/2022,beach,1800k,535
+155,Pangkalan Kasai,Male,5/24/2022,beach,5500k,583
+156,Qingshan,Female,2/11/2022,beach,3300k,666
+157,Toledo,Non-binary,12/23/2022,beach,1800k,758
+158,Le Grand-Quevilly,Male,7/28/2022,adventure,5500k,25
+159,Hanggan,Female,1/21/2022,luxury,3300k,495
+160,Figueira,Female,5/12/2022,luxury,3300k,429
+161,Río Gallegos,Female,12/10/2022,adventure,5500k,78
+162,Vrdy,Male,12/23/2022,luxury,1800k,838
+163,Opochka,Agender,12/14/2022,luxury,3300k,276
+164,Vermil,Female,11/13/2022,luxury,1800k,669
+165,Bun Barat,Male,6/7/2022,adventure,1800k,484
+166,Zhaizigou,Female,5/20/2022,beach,1800k,916
+167,Oula Xiuma,Female,11/27/2022,adventure,5500k,990
+168,Taza,Male,1/5/2022,adventure,3300k,534
+169,Pôsto Fiscal Rolim de Moura,Female,3/22/2022,luxury,3300k,924
+170,Maştağa,Female,7/12/2022,adventure,3300k,681
+171,Nanhe,Male,1/1/2022,luxury,1800k,555
+172,Älvdalen,Female,1/29/2022,luxury,5500k,406
+173,Zhoushan,Female,5/24/2022,luxury,1800k,799
+174,Biqiao,Male,12/14/2022,luxury,3300k,419
+175,Yelenendorf,Female,3/27/2022,luxury,1800k,722
+176,Pyhäjoki,Female,3/10/2022,beach,5500k,269
+177,Gaoyi,Female,1/31/2022,beach,5500k,513
+178,Baiquesi,Male,8/24/2022,luxury,1800k,449
+179,Karengan,Male,1/9/2022,adventure,1800k,151
+180,Lyuban’,Male,3/1/2022,adventure,5500k,447
+181,Alicante/Alacant,Male,1/22/2022,beach,1800k,849
+182,Klapagada,Female,9/19/2022,beach,5500k,122
+183,Serra D'El Rei,Female,4/5/2022,adventure,3300k,54
+184,Dindima,Female,11/22/2022,luxury,1800k,757
+185,Gigant,Female,1/11/2022,adventure,3300k,927
+186,Colombia,Male,8/28/2022,luxury,1800k,533
+187,Ash Shaddādah,Female,9/11/2022,luxury,3300k,494
+188,Šoštanj,Female,5/11/2022,beach,3300k,608
+189,Dongmafang,Male,10/21/2022,luxury,5500k,11
+190,Wenjī,Male,11/8/2022,luxury,3300k,249
+191,Resende,Male,5/25/2022,beach,3300k,139
+192,Cova Figueira,Male,5/10/2022,luxury,3300k,372
+193,Babug,Non-binary,7/13/2022,luxury,5500k,3
+194,Hoxtolgay,Male,8/4/2022,adventure,1800k,612
+195,Qarchī Gak,Male,12/19/2022,beach,3300k,829
+196,Lyon,Male,1/5/2022,luxury,3300k,639
+197,Taoyuan,Male,1/7/2022,luxury,3300k,701
+198,Zhongshan,Male,12/17/2022,luxury,5500k,736
+199,Bafilo,Male,6/29/2022,adventure,3300k,917
+200,Yaypan,Female,6/21/2022,adventure,3300k,821
+201,Anju,Female,8/9/2022,beach,1800k,681
+202,Keleng,Male,4/13/2022,adventure,1800k,554
+203,Ząbkowice Śląskie,Female,2/1/2022,beach,3300k,173
+204,Waitakere,Male,7/27/2022,adventure,5500k,913
+205,Huangshanguan,Male,8/4/2022,luxury,3300k,770
+206,Severobaykal’sk,Female,2/10/2022,beach,1800k,638
+207,Cox’s Bāzār,Female,7/19/2022,luxury,3300k,686
+208,Krajan Dua Putukrejo,Female,1/17/2022,luxury,1800k,6
+209,Taiyang,Female,11/29/2022,adventure,1800k,474
+210,Potęgowo,Male,3/30/2022,beach,5500k,906
+211,Jiuxian,Polygender,9/12/2022,adventure,3300k,502
+212,Popovi,Female,11/19/2022,beach,3300k,664
+213,Suibara,Female,2/28/2022,adventure,3300k,66
+214,Gondar,Female,3/27/2022,adventure,1800k,59
+215,María la Baja,Male,5/4/2022,luxury,5500k,330
+216,Niort,Male,7/11/2022,beach,3300k,743
+217,Andramasina,Female,12/7/2022,adventure,1800k,144
+218,Danxi,Male,12/12/2022,luxury,5500k,718
+219,Santol,Female,3/10/2022,adventure,5500k,603
+220,Luhačovice,Female,1/9/2022,beach,1800k,730
+221,Villejuif,Male,9/3/2022,beach,5500k,594
+222,Palagao Norte,Female,1/29/2022,luxury,3300k,153
+223,Arvika,Genderfluid,1/25/2022,beach,1800k,590
+224,Sonsorol Village,Female,5/19/2022,beach,1800k,990
+225,Pondohan,Male,3/22/2022,adventure,1800k,298
+226,Jialu,Female,3/27/2022,luxury,5500k,170
+227,Brodósqui,Female,5/29/2022,adventure,1800k,553
+228,Ladysmith,Female,2/17/2022,adventure,3300k,680
+229,Ad Dīs ash Sharqīyah,Non-binary,4/27/2022,adventure,5500k,39
+230,Molsheim,Female,8/27/2022,luxury,5500k,899
+231,Odiongan,Male,1/20/2022,luxury,3300k,559
+232,Sigavé,Male,11/19/2022,luxury,3300k,844
+233,Danxi,Female,8/31/2022,luxury,5500k,849
+234,Agarsin,Female,7/30/2022,luxury,1800k,187
+235,Karlskrona,Agender,7/25/2022,beach,3300k,952
+236,Chicama,Female,4/12/2022,luxury,5500k,641
+237,Xianxi,Female,12/20/2022,adventure,1800k,867
+238,Ljungby,Female,3/17/2022,adventure,5500k,961
+239,Burujul,Bigender,2/24/2022,luxury,5500k,850
+240,Sokyryany,Male,11/29/2022,beach,5500k,490
+241,Redcliff,Male,4/23/2022,luxury,1800k,875
+242,Huancheng,Genderfluid,9/11/2022,luxury,5500k,896
+243,Luodian,Male,7/21/2022,beach,3300k,793
+244,Nong Don,Genderfluid,8/14/2022,adventure,3300k,378
+245,Varva,Male,1/26/2022,beach,1800k,367
+246,Doljo,Female,12/27/2022,luxury,3300k,840
+247,Weifang,Male,11/10/2022,luxury,1800k,888
+248,Trajouce,Female,4/14/2022,beach,5500k,312
+249,Velas,Male,11/25/2022,beach,1800k,286
+250,Brunssum,Non-binary,3/7/2022,adventure,3300k,149
+251,Iksan,Male,5/30/2022,luxury,5500k,916
+252,Fengtang,Male,8/29/2022,beach,3300k,648
+253,Monte de Fralães,Female,12/11/2022,luxury,3300k,292
+254,Sakchu-ŭp,Female,5/27/2022,luxury,3300k,182
+255,Sicamous,Male,4/17/2022,beach,5500k,581
+256,Santa Lucía,Male,6/20/2022,luxury,1800k,789
+257,Karakabak,Male,5/31/2022,adventure,3300k,414
+258,Kuniran,Male,7/3/2022,adventure,1800k,765
+259,Szydłowo,Male,7/16/2022,luxury,1800k,758
+260,Siennica Różana,Male,3/23/2022,adventure,3300k,497
+261,Besko,Female,1/12/2022,adventure,1800k,979
+262,Le Cannet,Male,8/10/2022,luxury,5500k,953
+263,Magog,Male,10/4/2022,luxury,3300k,13
+264,Purral,Male,1/17/2022,luxury,1800k,230
+265,Larache,Genderqueer,5/28/2022,beach,3300k,796
+266,Maria Aurora,Female,4/8/2022,luxury,1800k,276
+267,Orekhovo-Borisovo,Female,11/5/2022,adventure,5500k,352
+268,Narawayong,Male,7/16/2022,adventure,5500k,685
+269,Açu,Genderfluid,10/23/2022,adventure,1800k,848
+270,Tubod,Female,7/11/2022,luxury,5500k,823
+271,Querobamba,Polygender,2/16/2022,adventure,3300k,0
+272,Muricay,Male,12/5/2022,luxury,1800k,511
+273,Trstenik,Female,5/14/2022,luxury,3300k,327
+274,Bichena,Male,10/22/2022,beach,1800k,197
+275,Nakhon Sawan,Male,12/16/2022,luxury,3300k,569
+276,Martapura,Female,8/15/2022,adventure,5500k,281
+277,Virginia,Male,12/20/2022,luxury,5500k,24
+278,Narva,Female,3/8/2022,adventure,3300k,592
+279,Cagwait,Male,12/13/2022,beach,5500k,242
+280,Liandu,Female,2/20/2022,luxury,1800k,850
+281,‘Anātā,Male,11/7/2022,luxury,5500k,899
+282,La Maná,Female,7/10/2022,luxury,1800k,564
+283,Henglin,Female,10/10/2022,luxury,5500k,999
+284,Mazyr,Female,1/30/2022,beach,5500k,462
+285,Cherëmushki,Male,9/16/2022,beach,3300k,175
+286,Hausjärvi,Male,1/27/2022,adventure,3300k,34
+287,El Hamma,Male,7/28/2022,luxury,1800k,923
+288,Undurkhaan,Female,8/2/2022,beach,5500k,252
+289,Minian,Male,1/30/2022,beach,3300k,24
+290,Dolní Čermná,Male,8/17/2022,luxury,1800k,599
+291,Areeiro,Male,2/11/2022,luxury,1800k,503
+292,Radocza,Male,2/8/2022,adventure,3300k,135
+293,Vychegodskiy,Male,10/9/2022,luxury,5500k,181
+294,Keffin Hausa,Female,2/1/2022,adventure,5500k,28
+295,Mosteiro,Female,8/17/2022,luxury,3300k,299
+296,Jianqiao,Male,7/11/2022,beach,3300k,602
+297,Dankama,Male,7/18/2022,luxury,5500k,335
+298,Bergen,Female,4/25/2022,adventure,3300k,993
+299,Yoiqag,Male,10/21/2022,beach,1800k,355
+300,Zaklików,Non-binary,3/25/2022,beach,1800k,339
+301,Huangmu,Male,2/22/2022,luxury,3300k,447
+302,Mueang Suang,Female,11/11/2022,beach,3300k,816
+303,Salgar,Female,10/19/2022,adventure,3300k,329
+304,Goussainville,Male,8/21/2022,luxury,1800k,200
+305,Nagrog Wetan,Male,5/2/2022,adventure,5500k,848
+306,Vlissingen,Female,1/10/2022,luxury,3300k,68
+307,Kladruby,Male,4/25/2022,beach,5500k,121
+308,Neẖalim,Female,9/13/2022,adventure,5500k,218
+309,Kibiya,Female,4/30/2022,beach,5500k,714
+310,Laojunpo,Male,11/28/2022,luxury,3300k,315
+311,Zilupe,Female,5/14/2022,adventure,5500k,930
+312,Sigavé,Female,1/31/2022,luxury,1800k,770
+313,Walichnowy,Male,1/23/2022,adventure,5500k,662
+314,Opuzen,Female,7/27/2022,luxury,1800k,771
+315,São Mateus do Sul,Female,2/6/2022,beach,1800k,880
+316,Amphawa,Female,5/24/2022,luxury,5500k,786
+317,Zürich,Male,1/6/2022,beach,3300k,550
+318,San Miguel,Female,6/30/2022,luxury,1800k,189
+319,Bakıxanov,Male,4/21/2022,adventure,5500k,680
+320,Alubijid,Female,4/29/2022,beach,3300k,978
+321,Huangben,Male,9/8/2022,adventure,5500k,465
+322,Liucheng,Female,4/11/2022,beach,3300k,432
+323,Mamara,Male,8/31/2022,luxury,5500k,505
+324,Bratislava,Genderfluid,5/29/2022,beach,1800k,207
+325,Pitumarca,Female,10/7/2022,luxury,3300k,75
+326,Demak,Female,12/6/2022,adventure,5500k,898
+327,Saryözek,Male,6/19/2022,luxury,5500k,912
+328,Mersam,Female,10/15/2022,luxury,1800k,512
+329,Buriwutung,Female,2/6/2022,beach,1800k,93
+330,Loutráki,Male,6/2/2022,luxury,3300k,194
+331,Bachowice,Male,3/4/2022,adventure,1800k,527
+332,Pucheng,Female,1/29/2022,adventure,5500k,736
+333,San Carlos,Male,8/25/2022,luxury,3300k,871
+334,Järfälla,Male,5/17/2022,adventure,1800k,487
+335,Svetlyy,Female,5/25/2022,luxury,1800k,966
+336,Huanfeng,Male,7/22/2022,adventure,1800k,82
+337,Kuanping,Female,1/7/2022,adventure,5500k,179
+338,Mishan,Male,9/2/2022,adventure,3300k,471
+339,Aţ Ţafīlah,Male,8/22/2022,luxury,5500k,618
+340,Tungdor,Male,6/18/2022,beach,5500k,869
+341,Las Matas de Santa Cruz,Male,11/17/2022,adventure,5500k,187
+342,Laspezia,Male,3/5/2022,adventure,3300k,659
+343,Gaofeng,Male,4/30/2022,beach,1800k,803
+344,Longhua,Female,5/9/2022,luxury,5500k,224
+345,Apucarana,Bigender,12/15/2022,luxury,3300k,241
+346,Jokkmokk,Female,3/3/2022,adventure,3300k,508
+347,Kallífytos,Male,7/3/2022,beach,3300k,178
+348,Estefania,Female,1/29/2022,beach,3300k,808
+349,Ualog,Male,3/10/2022,luxury,5500k,297
+350,Miaoquan,Male,11/7/2022,adventure,5500k,703
+351,Ekerö,Male,3/6/2022,luxury,1800k,954
+352,Lutowiska,Female,7/18/2022,luxury,3300k,84
+353,Söderhamn,Male,4/25/2022,adventure,1800k,874
+354,Boston,Male,6/5/2022,adventure,5500k,532
+355,Shengci,Male,7/17/2022,adventure,5500k,707
+356,Botevgrad,Male,2/9/2022,luxury,5500k,898
+357,Milicz,Male,9/3/2022,luxury,1800k,333
+358,Cabuyaro,Male,6/16/2022,adventure,5500k,604
+359,Sidem,Male,8/31/2022,adventure,3300k,220
+360,Zhoujiadian,Male,7/28/2022,luxury,3300k,102
+361,Yefimovskiy,Female,7/20/2022,luxury,1800k,956
+362,Qiaotou,Male,12/7/2022,beach,1800k,681
+363,Ust-Kamenogorsk,Female,7/21/2022,beach,5500k,365
+364,Zhexiao,Female,9/26/2022,adventure,3300k,351
+365,Ust’-Ulagan,Female,9/9/2022,beach,1800k,878
+366,Shangsha,Male,12/4/2022,beach,5500k,16
+367,Alae,Male,8/30/2022,luxury,5500k,681
+368,Shangtang,Female,1/14/2022,luxury,5500k,30
+369,Ḩarastā,Male,10/23/2022,luxury,3300k,554
+370,Tanahmerah,Male,7/6/2022,beach,3300k,414
+371,Jetis,Male,2/24/2022,adventure,3300k,994
+372,Yushan,Female,4/2/2022,luxury,5500k,878
+373,Tetandara,Male,9/1/2022,luxury,3300k,548
+374,Pohang,Genderfluid,6/8/2022,luxury,5500k,491
+375,Rio Preto da Eva,Female,10/27/2022,adventure,1800k,193
+376,Guyam Malaki,Female,4/19/2022,beach,1800k,714
+377,Vlycháda,Female,7/4/2022,adventure,3300k,253
+378,Gubskaya,Female,11/13/2022,adventure,5500k,261
+379,Xianghu,Female,8/14/2022,adventure,5500k,349
+380,Nkove,Male,10/22/2022,adventure,5500k,932
+381,Skanör,Female,8/10/2022,luxury,3300k,312
+382,Termas de Río Hondo,Female,1/4/2022,luxury,5500k,785
+383,Gonghe,Non-binary,7/6/2022,luxury,5500k,927
+384,Dinahican,Female,10/10/2022,beach,1800k,523
+385,Miass,Female,8/27/2022,beach,5500k,309
+386,Sishiba,Male,10/15/2022,beach,1800k,79
+387,Józefosław,Male,5/9/2022,beach,5500k,313
+388,Oued Zem,Male,1/26/2022,luxury,3300k,458
+389,Talalora,Female,3/14/2022,beach,3300k,237
+390,Bourges,Male,11/18/2022,adventure,1800k,6
+391,Nizhniye Achaluki,Female,12/25/2022,adventure,3300k,266
+392,Xiangfu,Female,2/19/2022,adventure,3300k,243
+393,Kumberg,Male,8/6/2022,luxury,1800k,107
+394,Barra do Bugres,Male,8/22/2022,luxury,5500k,934
+395,Dzhankoy,Female,2/25/2022,luxury,5500k,447
+396,Adassil,Male,12/26/2022,luxury,5500k,760
+397,Gaopi,Female,2/5/2022,luxury,1800k,790
+398,Asprángeloi,Male,12/2/2022,adventure,3300k,605
+399,Sosnówka,Female,8/15/2022,luxury,3300k,687
+400,Kłomnice,Female,8/31/2022,beach,5500k,607
+401,Santo Domingo Este,Female,10/21/2022,adventure,1800k,197
+402,Amadeo,Agender,8/28/2022,beach,3300k,273
+403,Noisy-le-Grand,Male,6/5/2022,luxury,5500k,947
+404,Semīrom,Female,3/8/2022,luxury,5500k,649
+405,Amurzet,Female,4/16/2022,beach,5500k,302
+406,Haixing,Female,1/10/2022,beach,5500k,135
+407,Atyrau,Genderqueer,2/11/2022,beach,5500k,597
+408,Nordeste,Female,1/14/2022,adventure,3300k,585
+409,Callao,Female,11/15/2022,adventure,3300k,91
+410,Anton,Female,12/14/2022,adventure,5500k,310
+411,Stěbořice,Female,10/29/2022,adventure,1800k,890
+412,Janakkala,Male,12/27/2022,beach,1800k,838
+413,Sedkyrkeshch,Female,7/14/2022,luxury,5500k,193
+414,Atibaia,Female,6/26/2022,beach,1800k,860
+415,Santana do Ipanema,Female,6/6/2022,luxury,3300k,126
+416,Sambir,Male,8/25/2022,beach,3300k,404
+417,Caohezhang,Female,7/15/2022,luxury,5500k,833
+418,Kebonbencoy,Male,3/3/2022,beach,3300k,77
+419,Jose Maria Morelos,Male,9/21/2022,adventure,1800k,624
+420,Saitama,Female,6/15/2022,adventure,5500k,702
+421,Okhotsk,Female,4/23/2022,adventure,3300k,795
+422,Maoshan,Male,4/11/2022,beach,1800k,44
+423,Kopen,Male,3/26/2022,beach,1800k,807
+424,Sekampung,Female,10/9/2022,beach,5500k,923
+425,Włocławek,Male,3/30/2022,beach,5500k,14
+426,Daxinshao,Female,8/13/2022,luxury,5500k,484
+427,Orsay,Genderfluid,9/29/2022,adventure,1800k,136
+428,Izingolweni,Male,4/12/2022,luxury,1800k,278
+429,Huazhu,Female,1/9/2022,beach,1800k,42
+430,Ungca,Female,9/19/2022,adventure,1800k,812
+431,Al ‘Awjā,Female,8/28/2022,adventure,3300k,653
+432,Gorki Vtoryye,Female,9/21/2022,adventure,1800k,973
+433,Tinogasta,Male,3/7/2022,beach,3300k,44
+434,Nanfeng,Female,11/20/2022,luxury,1800k,277
+435,El’brus,Female,10/6/2022,adventure,5500k,341
+436,Libofshë,Male,11/22/2022,beach,1800k,742
+437,Lukou,Male,1/23/2022,adventure,1800k,326
+438,Lianhua,Female,10/10/2022,adventure,5500k,543
+439,El Viejo,Male,3/10/2022,luxury,5500k,386
+440,Floresta,Male,8/4/2022,beach,5500k,218
+441,Malinaw,Male,7/19/2022,adventure,3300k,144
+442,Al Khamīs,Genderqueer,7/28/2022,beach,5500k,418
+443,Paoua,Male,8/27/2022,beach,5500k,848
+444,Buniaga,Female,2/16/2022,adventure,1800k,934
+445,Tangalla,Female,3/12/2022,luxury,3300k,4
+446,Bagou,Female,1/1/2022,beach,1800k,20
+447,Tamarindo,Female,11/28/2022,adventure,5500k,365
+448,Xiaoshiqiao,Male,5/20/2022,luxury,3300k,22
+449,Quva,Male,2/21/2022,luxury,5500k,970
+450,Wilamowice,Male,2/6/2022,luxury,5500k,531
+451,Weichanglu,Male,4/26/2022,adventure,5500k,897
+452,Piedra Blanca,Female,6/13/2022,adventure,5500k,385
+453,Sacramento,Male,5/26/2022,adventure,1800k,935
+454,Margos,Male,7/31/2022,luxury,3300k,596
+455,Tanumshede,Male,11/20/2022,beach,3300k,714
+456,Benito Juarez,Female,9/6/2022,luxury,5500k,24
+457,Beja,Male,2/10/2022,adventure,3300k,853
+458,Akaki,Female,1/31/2022,luxury,3300k,824
+459,Dajasongai,Female,2/21/2022,beach,5500k,764
+460,Ordóñez,Female,11/4/2022,beach,5500k,115
+461,Watulimo,Female,6/21/2022,luxury,1800k,931
+462,Tsagaannuur,Female,1/24/2022,luxury,1800k,238
+463,Pereval'noe,Female,2/27/2022,adventure,5500k,574
+464,Tiebukenwusan,Male,11/25/2022,luxury,1800k,991
+465,Jamaica,Female,5/5/2022,adventure,5500k,285
+466,Cibuah,Male,11/25/2022,beach,3300k,479
+467,Béziers,Female,1/27/2022,luxury,1800k,717
+468,Phetchaburi,Male,10/20/2022,luxury,1800k,300
+469,Boketu,Male,12/14/2022,luxury,3300k,149
+470,Ar Rumaythīyah,Bigender,12/15/2022,adventure,1800k,277
+471,Shihuang,Polygender,6/28/2022,adventure,5500k,582
+472,Podkumskiy,Female,8/17/2022,beach,5500k,155
+473,Karadaglije,Female,11/29/2022,luxury,5500k,916
+474,Portarlington,Female,2/9/2022,adventure,3300k,155
+475,Lidong,Male,7/16/2022,luxury,5500k,48
+476,Tikhvin,Male,2/14/2022,adventure,3300k,91
+477,Aldeia,Bigender,1/13/2022,adventure,3300k,56
+478,Ḩabūr,Male,2/15/2022,beach,5500k,804
+479,Kokkári,Male,10/3/2022,luxury,3300k,616
+480,Utarapasar,Genderqueer,4/2/2022,luxury,1800k,794
+481,El Matama,Male,7/8/2022,luxury,1800k,206
+482,Jabal os Saraj,Male,11/19/2022,beach,5500k,854
+483,Rio de Moinhos,Female,6/29/2022,beach,1800k,33
+484,Студеничани,Genderqueer,11/7/2022,beach,3300k,113
+485,Paris 08,Female,10/27/2022,adventure,5500k,946
+486,Woshui,Female,5/13/2022,beach,3300k,99
+487,Jianlong,Female,2/27/2022,beach,5500k,980
+488,Łętownia,Male,9/18/2022,beach,1800k,672
+489,Asempapak,Female,8/29/2022,luxury,3300k,156
+490,Fort-de-France,Male,9/3/2022,beach,5500k,388
+491,Vuhlehirs’k,Male,11/13/2022,beach,5500k,757
+492,West Jerusalem,Agender,6/13/2022,luxury,3300k,478
+493,Sandnes,Male,10/15/2022,luxury,3300k,133
+494,Mmathubudukwane,Male,9/2/2022,beach,3300k,927
+495,Cúcuta,Polygender,6/20/2022,adventure,5500k,927
+496,San Francisco,Female,1/12/2022,luxury,1800k,16
+497,Greensboro,Male,10/26/2022,adventure,1800k,793
+498,Ush-Tyube,Genderqueer,5/4/2022,beach,3300k,798
+499,São Pedro Gafanhoeira,Male,4/20/2022,beach,3300k,829
+500,Kajisara,Male,5/26/2022,adventure,5500k,115
