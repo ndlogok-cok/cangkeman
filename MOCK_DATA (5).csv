@@ -1,0 +1,501 @@
+customer_id,status_customer,income_customer,vocation_package,total_spend,origin_city
+1,Married,7268359,basic,39469014,Binlod
+2,Unmarried,31556113,basic,8165719,Oratorio
+3,Married,7786388,deluxe,44220524,Esperanza
+4,Unmarried,32991659,basic,6859033,Bonanza
+5,Unmarried,43324901,deluxe,39778586,Shingū
+6,Unmarried,42445019,deluxe,2954678,Buyant
+7,Married,41839586,basic,6242448,Jaguarão
+8,Unmarried,16812660,deluxe,24593099,Lishui
+9,Unmarried,29226019,premium,36099100,Caopie
+10,Unmarried,49044989,premium,11374784,Peer
+11,Married,36098852,basic,7966212,Quivilla
+12,Unmarried,7130738,premium,32233745,Bolinao
+13,Unmarried,24877835,basic,48840669,Palestina
+14,Married,29302864,basic,40199409,Węgliniec
+15,Married,47335038,basic,33335866,Muramatsu
+16,Unmarried,48310974,premium,27687926,Detupia
+17,Unmarried,33196356,premium,17330391,Suponevo
+18,Unmarried,45167717,basic,24924744,Krasnyy Profintern
+19,Married,24510584,basic,28372626,La Paz
+20,Unmarried,3270760,deluxe,30859046,Karangboyo
+21,Married,12151080,premium,12956214,Seshcha
+22,Married,30535157,basic,39904590,Santa Cruz
+23,Unmarried,36676199,premium,18733377,Vysoké nad Jizerou
+24,Married,24147008,basic,26664653,Motala
+25,Married,31174391,basic,48614985,Makar’yev
+26,Unmarried,21494687,basic,33582432,Nàng Mau
+27,Unmarried,26800516,premium,10938954,Wairinding
+28,Unmarried,20563664,premium,45324516,Despotovac
+29,Unmarried,33675446,premium,17840474,Chebba
+30,Unmarried,34682442,basic,15533081,Al Jumaylīyah
+31,Married,43253761,basic,27698194,Pirapozinho
+32,Unmarried,38028916,premium,24040574,Białobrzegi
+33,Married,24920932,deluxe,36905500,Heilongkou
+34,Unmarried,46625349,deluxe,33589633,Xiejiaya
+35,Married,8737935,premium,8631184,Meixi
+36,Married,36861654,premium,47341227,Seattle
+37,Unmarried,9320448,premium,20416991,Palma De Mallorca
+38,Married,22834606,basic,3908750,Gyangkar
+39,Unmarried,9897524,premium,35565382,Várzea de Sintra
+40,Married,35759328,premium,4478088,Pateros
+41,Married,3182383,basic,6558182,Nanterre
+42,Unmarried,18226384,deluxe,4379953,Santa Catalina
+43,Married,2910257,basic,44124593,Vale das Mós
+44,Married,15628889,deluxe,25798734,Altunemil
+45,Married,35552436,premium,44898485,Norrköping
+46,Married,2777074,basic,45727789,Xiaozhoushan
+47,Unmarried,28592680,basic,27616675,Libacao
+48,Unmarried,25299221,premium,22496690,Pitangui
+49,Unmarried,43773179,basic,49670954,Qiankou
+50,Unmarried,19928452,deluxe,19613138,Fonte de Angeão
+51,Married,44096532,premium,48976731,Valbonë
+52,Married,37589112,basic,49474172,Quimbaya
+53,Unmarried,48002087,deluxe,37758916,Chat Trakan
+54,Unmarried,8976064,basic,12611523,Gostyń
+55,Unmarried,33535262,deluxe,28697370,Mae Sot
+56,Married,24080833,premium,22866950,Dhanot
+57,Married,10414883,basic,17300108,Okhotsk
+58,Married,18912608,deluxe,42746031,Wanagiri
+59,Unmarried,34301530,premium,7533447,Arvidsjaur
+60,Married,4681553,basic,27164352,Garnich
+61,Married,12933651,premium,41730687,Chapultepec
+62,Married,28322809,premium,5832714,Chiquimulilla
+63,Married,13989478,premium,48690299,Owode
+64,Married,30101827,premium,8858328,Benito Juarez
+65,Unmarried,22133786,deluxe,29875203,Fuwen
+66,Unmarried,37199296,deluxe,1602777,Vojnić
+67,Married,31413107,deluxe,40439981,Yemva
+68,Married,9603298,deluxe,14182446,Linqu
+69,Married,27432645,premium,34298853,Siukh
+70,Married,27564601,basic,46342181,Kelowna
+71,Unmarried,24536302,deluxe,3928514,Chartres
+72,Married,47244315,basic,23944257,Nasilava
+73,Married,37623931,premium,47447368,Za‘tarah
+74,Unmarried,21478511,basic,10136523,Mehendiganj
+75,Married,7574407,deluxe,28901391,Karapyshi
+76,Unmarried,44813856,basic,19553129,Pyu
+77,Married,32279283,premium,17046612,Horki
+78,Married,26766749,deluxe,34139274,Kertamukti
+79,Unmarried,38946193,deluxe,35135368,Bamban
+80,Married,19114240,deluxe,41840310,Pingshan
+81,Unmarried,38156522,deluxe,2536422,Jönköping
+82,Married,33267627,deluxe,22824062,Otun
+83,Married,44403172,basic,30484704,Ledenice
+84,Married,11373019,basic,39477922,Cliza
+85,Unmarried,4394504,deluxe,21029893,Enköping
+86,Married,46091266,deluxe,12124046,Sambongmulyo
+87,Unmarried,23425267,deluxe,21813253,Shënmëri
+88,Married,20079539,basic,5412029,Mabu
+89,Unmarried,30291084,premium,9735241,Ţammūn
+90,Married,32927091,premium,22970852,Ранковце
+91,Unmarried,44765975,basic,29762209,Monywa
+92,Unmarried,44487746,basic,45379479,Belz
+93,Married,2470801,basic,44678494,Koanara
+94,Married,41872404,basic,47675093,Sukadana Selatan
+95,Married,19207350,deluxe,17353707,Itatskiy
+96,Married,40220528,premium,33074848,Jiangcun
+97,Married,12231859,premium,24347674,San Carlos
+98,Married,1275918,premium,17064871,Soweto
+99,Married,48809001,basic,20036851,La Victoria
+100,Unmarried,19575361,premium,32448145,Dongfanghong
+101,Married,37116305,basic,47334784,Peredovaya
+102,Unmarried,19569137,basic,41006692,Elbasan
+103,Unmarried,21417339,premium,35948945,Cuenca
+104,Unmarried,45014806,premium,23552185,Patenongan
+105,Married,9433823,premium,36869876,Kutasari
+106,Unmarried,40623643,premium,21390471,Shaxi
+107,Unmarried,30339276,premium,43866327,Postřelmov
+108,Married,25517101,deluxe,45918208,Leloboko
+109,Married,28538719,deluxe,31593437,Kamuli
+110,Unmarried,2998455,deluxe,41797252,Klek
+111,Unmarried,18877738,premium,32586931,Gupakan
+112,Unmarried,49409582,premium,24990756,North Shore
+113,Unmarried,1453201,deluxe,39982397,Hoboksar
+114,Unmarried,2475929,deluxe,32058477,Cova da Iria
+115,Married,31865496,basic,26511006,Youyun
+116,Unmarried,45801122,premium,31276201,El Viejo
+117,Unmarried,27581833,deluxe,18226364,Hellevoetsluis
+118,Unmarried,6228499,deluxe,3254674,Svetlanovskiy
+119,Married,47844787,basic,15066907,Quiaios
+120,Unmarried,16654002,deluxe,25802979,Dagohoy
+121,Married,28284625,deluxe,2703479,Villanueva
+122,Married,41923372,basic,26894973,Parkent
+123,Married,25515671,premium,18935892,Brodnica
+124,Married,36545479,basic,19397723,Pictou
+125,Married,7879500,basic,2591288,San Mariano
+126,Married,12941602,premium,44568590,Salinas
+127,Married,13259344,deluxe,40821352,Pombal
+128,Married,33228185,premium,32653392,Konstantynów
+129,Married,17874127,basic,13776449,Conceição da Barra
+130,Unmarried,20119930,premium,40007416,Tomohon
+131,Unmarried,48272934,deluxe,48785805,Lazaro Cardenas
+132,Unmarried,48412289,premium,15410049,Beiwucha
+133,Unmarried,15381813,basic,18066059,Henglan
+134,Unmarried,28417130,basic,41389365,Yanglinqiao
+135,Unmarried,5320032,deluxe,35210830,Tegalgunung
+136,Married,36085724,basic,49724971,Kaoma
+137,Unmarried,21539895,deluxe,47211601,Kirgili
+138,Married,36429849,basic,36336063,Nanjie
+139,Married,42798407,basic,34770434,Solomenskoye
+140,Unmarried,19948675,deluxe,13608471,Dobri Dol
+141,Unmarried,25801565,premium,41145092,Sabinópolis
+142,Married,24832546,deluxe,12720156,Masohi
+143,Unmarried,5096361,deluxe,37798908,Santa Gertrudes
+144,Unmarried,38589150,basic,1768336,Toužim
+145,Married,18972520,premium,27365209,Lebak Timur
+146,Married,30321758,deluxe,8184742,Sagasa
+147,Unmarried,19212279,basic,33802599,Shikou
+148,Married,10463982,premium,29137070,Al Fuwayliq
+149,Unmarried,12157409,deluxe,38129379,Sosnovyy Bor
+150,Married,8537196,premium,30363799,Jinzao
+151,Unmarried,21586993,premium,10363937,Sandakan
+152,Unmarried,44638317,deluxe,15876740,Libertador General San Martín
+153,Unmarried,4527146,deluxe,7678795,Iraquara
+154,Married,17487622,premium,39509233,Shahbā
+155,Married,2183265,premium,23902165,Rosebank
+156,Unmarried,5455548,basic,7957188,Shantou
+157,Unmarried,9353273,premium,46905710,Ustyuzhna
+158,Married,36949535,basic,12956409,Ciherang
+159,Married,41133531,premium,8819306,Hankazi
+160,Married,20764098,basic,40913537,Naguanagua
+161,Unmarried,27642337,premium,22630023,Kamárai
+162,Unmarried,9962943,basic,42731780,Ribeirópolis
+163,Married,43126117,premium,49865368,Sophia Antipolis
+164,Unmarried,7316524,premium,12911577,Bacnar
+165,Married,32388384,premium,41539896,Kasturi
+166,Unmarried,48579813,deluxe,26906772,Alhos Vedros
+167,Married,38649686,basic,22974872,Kae Dam
+168,Married,11999678,basic,19746623,Jimo
+169,Unmarried,41147861,basic,46714775,Feira de Santana
+170,Unmarried,5575589,deluxe,18083747,Shuibian
+171,Married,49631330,deluxe,16903674,Uji
+172,Unmarried,43421884,deluxe,26366822,Jiangdulu
+173,Married,8780841,premium,24055614,Montpellier
+174,Married,33163661,premium,49537794,Ocaña
+175,Unmarried,23040003,deluxe,8504485,Xijiao
+176,Married,41506056,basic,2222959,Quán Hành
+177,Married,11087466,premium,5285278,Yangjia
+178,Unmarried,27303572,deluxe,4351144,Kema
+179,Unmarried,35624907,basic,30461120,Carapicuíba
+180,Unmarried,6657384,deluxe,49587835,Kalidung
+181,Married,4997566,basic,20297907,Áthyra
+182,Married,7991783,deluxe,49688158,Nemours
+183,Unmarried,19492210,basic,15792702,Maracanaú
+184,Unmarried,25945033,deluxe,20629461,Thaton
+185,Married,37506862,basic,24710462,Baklashi
+186,Unmarried,33374432,premium,35037482,Bojonggaling
+187,Married,35712257,basic,29249890,Namboongan
+188,Married,2263082,basic,22630395,Nichinan
+189,Unmarried,13129663,premium,33179208,Kamloops
+190,Unmarried,40540504,basic,16864461,Hezhi
+191,Unmarried,22484085,basic,40820023,Shibetsu
+192,Married,15230578,basic,19838394,Sumurnanjung
+193,Married,9044184,basic,48196563,Qingshuihe
+194,Unmarried,13848853,deluxe,28307068,Lubei
+195,Married,29898795,deluxe,8124013,Perpignan
+196,Married,49726342,premium,30227354,Degan
+197,Unmarried,18619492,basic,29680948,Strážnice
+198,Unmarried,5879656,deluxe,45752230,Talalora
+199,Unmarried,16990324,premium,6999319,Guimarães
+200,Married,28602840,basic,30630024,Zheleznogorsk
+201,Married,4098311,basic,28730443,Khodasy
+202,Unmarried,20956617,deluxe,9283332,Ningyuan
+203,Married,49597122,premium,35287490,Gandoang
+204,Married,46690001,deluxe,17145978,Chengdong
+205,Unmarried,39293819,deluxe,6353528,Lentisqueira
+206,Unmarried,43639256,premium,33017809,Kadubera
+207,Married,5730588,deluxe,34955967,Wuxi
+208,Unmarried,49778248,basic,47576991,Guohuan
+209,Married,43176784,deluxe,15481248,Gibbons
+210,Unmarried,29305676,premium,2532196,San Ricardo
+211,Married,9168605,basic,15148294,Bakersfield
+212,Married,34680829,basic,44834965,Petung
+213,Married,28568467,basic,27215428,Magtangol
+214,Married,2774965,basic,7182067,Guiping
+215,Married,19050443,deluxe,5307899,Longtou’an
+216,Married,18455732,basic,27306311,Dinititi
+217,Unmarried,9365116,premium,49368277,Caronoan West
+218,Unmarried,10717869,deluxe,19539784,Weizhou
+219,Married,32924052,deluxe,7209391,Tsagaanchuluut
+220,Unmarried,14874389,deluxe,11636415,Butha-Buthe
+221,Married,32145616,basic,4270157,Starobelokurikha
+222,Married,24755057,deluxe,5848238,Henglu
+223,Unmarried,19921906,deluxe,41155975,Ratchasan
+224,Married,28847684,basic,11133841,Ladoeiro
+225,Unmarried,24487927,basic,43445353,Gândara de Aquém
+226,Married,22607199,basic,2301529,Kamnica
+227,Unmarried,33048968,deluxe,31249231,Béré
+228,Married,39108030,deluxe,43966309,Oeiras
+229,Married,27879495,deluxe,6561300,Nevesinje
+230,Married,25349421,deluxe,2954248,Cheremshan
+231,Married,4953644,premium,5330926,Omaha
+232,Unmarried,39078080,basic,34164063,Simpang
+233,Married,28612497,basic,36766929,Cajicá
+234,Married,21748714,deluxe,18897632,Port Washington
+235,Married,35808133,deluxe,19966079,Åmål
+236,Unmarried,28399077,deluxe,10211536,Kovářov
+237,Unmarried,13739846,deluxe,20225402,Biliran
+238,Married,27390361,basic,12648867,Changxing
+239,Married,43554854,premium,2440695,Dongyong
+240,Unmarried,17636638,basic,21173607,Miyang
+241,Married,28099760,deluxe,22916860,Bugembe
+242,Unmarried,12182946,basic,33195427,Khinjān
+243,Unmarried,6703438,basic,9145677,Laslovo
+244,Unmarried,6168513,basic,21475374,Changshou
+245,Unmarried,5080360,premium,23031813,Suya
+246,Unmarried,49576808,basic,21853172,Quillota
+247,Unmarried,38968846,basic,24619259,Načeradec
+248,Married,22734822,basic,47015143,Novokhopërsk
+249,Unmarried,6843176,deluxe,3887610,Paiçandu
+250,Married,8679159,premium,30109702,Olszyna
+251,Married,40474780,premium,7639495,Bugang
+252,Married,21983556,deluxe,13336225,Dongtang
+253,Unmarried,17596814,basic,41571531,Minian
+254,Married,14991386,premium,11599794,Nässjö
+255,Married,24786163,basic,35366344,Fentange
+256,Unmarried,8451064,basic,1299223,Zabaykal’sk
+257,Married,33807029,deluxe,30335078,Paupanda Bawah
+258,Married,38899525,basic,46311548,Shāhpur
+259,Unmarried,13250506,premium,29005458,Kletek
+260,Married,10673359,basic,16500261,Abū Tīj
+261,Married,25083734,deluxe,2862664,Pyapon
+262,Married,21470766,premium,29796109,Tambaksari
+263,Unmarried,13751475,premium,4509778,Helsingborg
+264,Married,10723781,premium,37261459,Melaka
+265,Unmarried,39044525,premium,36042907,Amaraji
+266,Married,22650198,basic,40654063,Semenivka
+267,Unmarried,4286157,premium,1025018,Cabañas
+268,Unmarried,16445844,basic,44260093,Krasnotur’insk
+269,Unmarried,25494204,basic,46190237,Huangpo
+270,Married,26106265,basic,7611514,Zhanghuban
+271,Unmarried,42008068,basic,3005417,Pasirmadang
+272,Married,35874253,premium,21663185,Loudi
+273,Married,40471588,deluxe,26645313,Sobreiro
+274,Unmarried,18789250,premium,24796565,Nancheng
+275,Married,29756666,premium,12882535,Acarigua
+276,Married,2298061,premium,1712990,Rumāh
+277,Unmarried,38523957,basic,16874873,Kigoma
+278,Married,7139706,basic,31679351,Sayansk
+279,Married,7179776,premium,27988359,Gävle
+280,Unmarried,12623781,basic,15324794,Changshengqiao
+281,Married,44523190,deluxe,16719948,Tver
+282,Married,21590534,deluxe,42613332,Silca
+283,Unmarried,25833521,basic,15284001,Marigot
+284,Married,3669635,deluxe,1467652,Kawangkoan
+285,Married,1251463,deluxe,5756247,Kohāt
+286,Married,7055626,premium,44843460,Nîmes
+287,Unmarried,36708421,deluxe,46367300,Xiangyangpu
+288,Unmarried,32047336,basic,24615468,Tonggoh
+289,Married,40012898,premium,14586158,Mizque
+290,Married,29271074,deluxe,7594497,Carletonville
+291,Unmarried,9599092,premium,21748405,Cherepovets
+292,Married,22484098,premium,9138739,Pau
+293,Unmarried,26193999,basic,15913115,Orange
+294,Married,22645536,premium,31866306,Jamao al Norte
+295,Unmarried,15948499,basic,17313662,Kotawaikabubak
+296,Married,4673747,deluxe,22317596,Shangshuai
+297,Married,34779060,deluxe,45805581,Boujniba
+298,Unmarried,28465180,deluxe,31077654,Kinalaglagan
+299,Unmarried,38111712,deluxe,4598091,Lhasa
+300,Married,39961091,deluxe,48390156,Natividade
+301,Married,24715738,premium,9939694,Eqbālīyeh
+302,Married,46013646,deluxe,48773470,Vredenburg
+303,Married,34802825,deluxe,3785882,Konary
+304,Married,43819940,basic,19292081,Villefranche-sur-Saône
+305,Married,31816362,deluxe,34441726,Zalishchyky
+306,Married,16259859,premium,45350480,Tadianjie
+307,Married,19113204,deluxe,34902046,Qaryat ad Da‘īs
+308,Unmarried,46291709,basic,31450085,Skövde
+309,Married,7086551,premium,47248937,Usab
+310,Unmarried,4077288,premium,33107605,Yushan
+311,Unmarried,22167528,basic,33608408,Yavne
+312,Unmarried,3146751,basic,25022564,Daxi
+313,Married,1788219,deluxe,26004508,Sanxing
+314,Unmarried,29592527,deluxe,14589837,Zhaxi
+315,Married,41576620,deluxe,36526727,Talin Hiag
+316,Married,9958040,premium,49669509,Prelog
+317,Unmarried,7133085,premium,42340819,Kortowo
+318,Married,7157193,premium,42497913,Haibeitou
+319,Married,14305774,deluxe,40286427,Seixo de Manhoses
+320,Married,47906366,basic,41697456,Bulualto
+321,Married,11910601,deluxe,38076065,Rimbo
+322,Married,41221951,premium,23749697,Tvarožná
+323,Unmarried,9388653,deluxe,6002019,Shuiyuesi
+324,Married,24776750,deluxe,25259147,Sergio Osmeña Sr
+325,Married,17524005,premium,14435376,Kitimat
+326,Married,43946080,premium,36695752,Dzaoudzi
+327,Married,25803821,basic,26064126,Cancas
+328,Unmarried,34821635,deluxe,2958239,Isfara
+329,Married,20929821,premium,24199993,Wanling
+330,Unmarried,4284677,premium,13776786,Sala
+331,Married,25077349,deluxe,25299898,Arjona
+332,Unmarried,9858729,basic,47720708,Shisui
+333,Unmarried,20344840,basic,29577451,Oumiao
+334,Unmarried,40847014,basic,43603193,Vuhlehirs’k
+335,Unmarried,6471269,basic,4509572,Muesanaik
+336,Unmarried,11866304,premium,11506697,Donetsk
+337,Unmarried,22455051,premium,13553825,Kezileboyi
+338,Unmarried,28360848,basic,43128229,Haligue
+339,Married,19927306,basic,37609415,Kurashiki
+340,Married,32854666,premium,18762509,Ifanes
+341,Married,28434374,deluxe,20282245,Yuntan
+342,Married,15456924,premium,29104263,Asíni
+343,Married,30150241,premium,42047274,Isla Verde
+344,Unmarried,44010869,premium,48741249,Bucay
+345,Married,15630057,deluxe,23457717,Barbosa
+346,Married,22778895,basic,29128008,Staraya Derevnya
+347,Unmarried,48904628,deluxe,18533636,Niitsu-honchō
+348,Unmarried,47195386,deluxe,37269016,Bago City
+349,Unmarried,46121898,deluxe,13218283,La Montañita
+350,Unmarried,13192426,premium,29074417,Huiwen
+351,Married,49203718,basic,2653943,Nepalgunj
+352,Unmarried,4261961,premium,28939278,Jabłonowo Pomorskie
+353,Unmarried,29189372,premium,3648713,Burns Lake
+354,Unmarried,10689304,basic,45983514,Keta
+355,Unmarried,28329867,basic,15922911,Alto de São Sebastião
+356,Unmarried,47205236,premium,9581701,Zhuanshui
+357,Unmarried,5934140,premium,16301421,Neuville
+358,Married,36344126,premium,42332147,Skutskär
+359,Married,41805623,premium,7347439,Phonphisai
+360,Married,24639177,premium,19257766,Gwadabawa
+361,Unmarried,26979153,basic,35804962,Mabusag
+362,Unmarried,31134633,deluxe,1904423,Duang
+363,Unmarried,28117058,deluxe,34311548,Sakaraha
+364,Married,5176584,premium,45561536,Lindong
+365,Married,28826791,basic,23441113,Belsk Duży
+366,Married,22684713,basic,15783796,Telgawah
+367,Unmarried,8377222,premium,18036847,San Antonio
+368,Married,28257053,basic,40760617,Xinji
+369,Married,1740138,basic,42660251,Jiworejo
+370,Unmarried,27883130,premium,5007259,Ameixoeira
+371,Unmarried,41886279,deluxe,24997218,Ikang
+372,Married,42283590,deluxe,8359578,Ríohacha
+373,Unmarried,15755479,premium,37893596,Gwoźnica Górna
+374,Unmarried,13413796,basic,4967921,Ash Shajarah
+375,Unmarried,14725618,basic,45271230,Varoška Rijeka
+376,Unmarried,40335162,deluxe,7117995,Sumiainen
+377,Married,34434225,deluxe,32340841,Mulyadadi
+378,Unmarried,28927245,basic,6383343,Dostoyevka
+379,Unmarried,34922342,premium,19354650,Loukísia
+380,Married,10744825,premium,49387393,Parakanpanjang
+381,Married,36581858,deluxe,32084570,Jiaxian Chengguanzhen
+382,Unmarried,14528782,basic,42879795,Serednye Vodyane
+383,Unmarried,41902629,premium,45637966,Dassa-Zoumé
+384,Married,28916546,premium,40304793,Eskilstuna
+385,Unmarried,36418811,basic,19390007,Mizi
+386,Unmarried,35731997,deluxe,8238097,Hörby
+387,Married,1954555,premium,1504179,Chulakivka
+388,Unmarried,35493605,deluxe,40270642,Hartford
+389,Unmarried,35926150,premium,37763100,Laocheng
+390,Married,33845796,deluxe,37855188,Kalýves Polygýrou
+391,Unmarried,39677441,deluxe,43248996,Cikalong
+392,Unmarried,20688517,basic,23377389,Paiisa
+393,Married,46834458,deluxe,47149030,Belogorsk
+394,Married,20398269,premium,21510490,Suchedniów
+395,Married,35638157,deluxe,19805310,Jilong
+396,Married,25054455,basic,15952902,Svrljig
+397,Married,31219835,deluxe,43723534,Junshan
+398,Married,7857202,premium,49278249,Próti
+399,Unmarried,31706590,basic,12882507,Dobre Miasto
+400,Married,41759966,basic,27111860,Lelydorp
+401,Married,48976097,premium,39624020,Syców
+402,Unmarried,17632163,deluxe,20465134,Jedlová
+403,Married,1383543,premium,34747525,Hamonggolele
+404,Married,25270332,premium,1136354,Coaraci
+405,Unmarried,6632445,basic,41493609,Wuli
+406,Married,14647369,basic,36067398,Abricots
+407,Married,13681596,deluxe,30390322,San Jerónimo
+408,Married,13849327,basic,36012821,Zhangaqorghan
+409,Married,29038650,premium,20980793,Saint Lucia
+410,Married,29609996,basic,1761728,Bantaeng
+411,Unmarried,2567718,premium,32576779,Kodra
+412,Unmarried,49251241,deluxe,24225173,Peddie
+413,Married,19163058,basic,8795781,Majagual
+414,Married,14205106,basic,21114670,Sarkanjut
+415,Married,4806607,basic,38833449,Wakayama-shi
+416,Unmarried,25772129,deluxe,12000661,San José de Barlovento
+417,Unmarried,8610930,deluxe,43723449,Pervoavgustovskiy
+418,Unmarried,25987201,basic,28794593,Fifi
+419,Married,18264991,premium,7205345,San Marcos
+420,Married,24995861,premium,13733347,Troyits’ke
+421,Married,32609547,basic,9228239,Thawi Watthana
+422,Married,1048692,basic,39869352,Bagikkedok Lauk
+423,Unmarried,17259956,deluxe,13001170,Nankang
+424,Married,18986551,deluxe,30496537,Pubal
+425,Married,37867839,premium,34834495,Firmat
+426,Married,7148001,basic,24715079,Changling
+427,Unmarried,14267850,premium,46450231,Wyszogród
+428,Unmarried,30979010,deluxe,21434659,Yonghe
+429,Married,45947168,premium,38563716,Pāshmūl
+430,Married,4943896,premium,22255800,Georgiyevsk
+431,Unmarried,13303740,basic,7756406,Zevgolateió
+432,Married,8761716,deluxe,3848079,New-Richmond
+433,Married,16415877,basic,21068012,Oka
+434,Unmarried,28810889,deluxe,33702118,Bergen
+435,Unmarried,15480046,deluxe,21498653,Mamali
+436,Married,28009626,premium,48394942,Machikou
+437,Unmarried,41693731,basic,4461177,Stupsk
+438,Unmarried,11814628,basic,10900354,Zaragoza
+439,Unmarried,8798344,premium,45258703,Tungao
+440,Married,2170657,premium,16731434,Tibiri
+441,Unmarried,39236971,premium,24815309,Haczów
+442,Married,38831052,premium,21033381,Quba
+443,Married,28442259,premium,40486128,Hualong
+444,Married,5393075,deluxe,35508686,Qianxu Zhen
+445,Married,31483144,deluxe,34017188,Proença-a-Nova
+446,Unmarried,3817521,premium,15287777,Bocana de Paiwas
+447,Married,11156487,basic,16925706,Huaishu
+448,Unmarried,8363100,premium,8072454,Bhadrapur
+449,Married,46031373,deluxe,10655782,Suci Kaler
+450,Unmarried,24515860,basic,33386350,Natu
+451,Unmarried,39231801,basic,12395700,Kupchino
+452,Unmarried,5554261,premium,12143219,Changping
+453,Unmarried,11668822,deluxe,49740939,Garmo
+454,Unmarried,23954489,basic,8646844,Sakura
+455,Unmarried,30144450,premium,23866546,Longtan
+456,Married,41911293,premium,11637664,Ar Rumaythah
+457,Married,27927711,basic,14699966,Shuidun
+458,Unmarried,34804808,basic,12037397,Shuanggang
+459,Married,4399992,deluxe,43907406,Sorochuco
+460,Unmarried,27551617,premium,49982884,Dujuuma
+461,Married,37429908,basic,11034357,Cairima
+462,Unmarried,13649057,deluxe,46872608,Nong Khaem
+463,Unmarried,1068525,basic,14314794,Pofadder
+464,Married,43455638,basic,9935973,Polo
+465,Unmarried,32463891,premium,23848732,Ozherel’ye
+466,Unmarried,1749081,basic,9774073,Mossel Bay
+467,Married,34151536,deluxe,1620069,Vila Franca
+468,Married,15312352,basic,8144571,Maniwaki
+469,Unmarried,30235973,basic,43087303,Saurama
+470,Married,13095995,deluxe,26524192,Tumbes
+471,Married,20694232,deluxe,11352087,Wahawaha
+472,Unmarried,24907200,deluxe,49358034,Huanuni
+473,Unmarried,21584243,deluxe,24353204,Bečej
+474,Unmarried,35770140,basic,2836898,Ash Shaykh Zuwayd
+475,Unmarried,13435051,deluxe,25716295,Aksu
+476,Married,7023579,deluxe,45678031,Alegre
+477,Married,9793780,deluxe,43297787,Springfield
+478,Unmarried,46654451,deluxe,35737259,Vilares
+479,Unmarried,29984676,deluxe,3899730,Paris 09
+480,Unmarried,37235441,basic,22151604,Ningyuan
+481,Married,1877914,basic,1826200,Barueri
+482,Married,39760712,premium,36394202,Ciénaga
+483,Unmarried,22211365,premium,23394508,Tayturka
+484,Married,25619998,deluxe,30733015,Xiying
+485,Married,5430825,basic,47216419,Itbayat
+486,Unmarried,19700045,premium,10889685,Martingança-Gare
+487,Married,21869782,premium,24307346,Santa Elena
+488,Unmarried,30971228,premium,10974453,Tal’ne
+489,Unmarried,27415034,deluxe,8927916,Varser
+490,Unmarried,25813357,premium,6699755,Banakaja
+491,Unmarried,40124841,deluxe,6416290,Zhangxi
+492,Married,39633704,basic,11601818,Tyukalinsk
+493,Unmarried,15972973,basic,33674295,Carangola
+494,Married,15590674,basic,30861516,Kakamega
+495,Married,29417508,deluxe,27485409,Haixing
+496,Unmarried,12012448,premium,20703139,Khe Tre
+497,Married,33970067,premium,45904864,Cochabamba
+498,Married,5151817,basic,37875394,Sundsvall
+499,Unmarried,20908994,basic,1947108,Alagoinhas
+500,Unmarried,28474042,deluxe,40246062,Ḥurfeish
