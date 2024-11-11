@@ -1,0 +1,601 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure(months),TravelFrequency,PreferredMode,LoyaltyProgram,DestinationType,OnlineBooking,TravelInsurance,PackageType,TechSupport,LocalGuides,HotelService,Contract,PaperlessBooking,PaymentMethod,BookingCharges($),TotalSpent($),Churn
+1,Female,false,false,true,32,Weekly,Train,true,City,false,true,Standard,true,false,false,One-time,true,Bank Transfer,174,773,true
+2,Female,true,true,false,5,Weekly,Car,true,City,true,false,Budget,false,true,false,One-time,false,Bank Transfer,153,920,false
+3,Female,false,false,true,8,Monthly,Train,true,Mountain,true,false,Standard,false,true,true,One-time,false,Bank Transfer,484,774,false
+4,Female,false,false,false,5,Yearly,Train,true,Mountain,true,false,Budget,true,false,true,Yearly,true,Cash,174,898,true
+5,Male,true,true,false,49,Weekly,Car,true,City,true,true,Luxury,true,true,true,Yearly,true,PayPal,239,695,false
+6,Non-binary,false,false,false,46,Yearly,Car,false,Mountain,true,true,Standard,true,false,false,Yearly,false,Bank Transfer,397,289,true
+7,Female,false,true,false,45,Yearly,Airplane,false,City,true,true,Luxury,false,false,false,Monthly,true,PayPal,344,671,false
+8,Agender,false,true,false,32,Weekly,Airplane,true,Beach,false,false,Budget,true,true,false,Monthly,false,Credit Card,237,453,false
+9,Male,true,false,false,27,Yearly,Airplane,false,City,true,true,Standard,true,false,true,Yearly,true,Credit Card,401,893,true
+10,Female,false,false,true,33,Yearly,Car,true,City,true,false,Standard,false,true,true,Yearly,false,Cash,126,500,true
+11,Female,false,false,true,16,Yearly,Airplane,false,City,false,true,Luxury,false,false,false,Monthly,false,Credit Card,429,313,false
+12,Female,false,true,true,19,Yearly,Airplane,true,City,true,false,Luxury,false,true,true,Yearly,false,Credit Card,296,155,true
+13,Male,false,false,true,4,Weekly,Car,false,City,false,false,Luxury,true,false,false,Yearly,false,Cash,284,775,false
+14,Male,true,true,true,26,Yearly,Car,true,City,true,true,Luxury,true,true,true,Yearly,true,Cash,211,183,true
+15,Male,false,false,true,47,Monthly,Airplane,false,Beach,true,false,Standard,false,false,false,Yearly,true,Credit Card,287,350,false
+16,Bigender,true,true,false,46,Weekly,Car,false,City,true,false,Luxury,false,true,false,One-time,false,Credit Card,160,887,true
+17,Male,true,true,false,2,Monthly,Train,true,Beach,false,true,Standard,false,false,false,Yearly,false,Bank Transfer,282,510,true
+18,Female,true,false,false,12,Yearly,Train,false,Mountain,false,true,Budget,false,false,true,Monthly,false,Cash,499,477,true
+19,Female,false,false,true,47,Weekly,Airplane,true,City,false,true,Budget,true,false,false,Monthly,true,Credit Card,419,511,false
+20,Genderfluid,false,false,true,41,Yearly,Car,false,City,true,false,Budget,false,true,true,Monthly,false,Bank Transfer,444,313,false
+21,Female,true,true,true,25,Monthly,Car,false,Beach,false,true,Standard,false,true,true,Yearly,true,PayPal,197,580,true
+22,Male,true,true,false,42,Weekly,Airplane,true,Beach,true,false,Standard,true,false,true,Monthly,true,Bank Transfer,420,1000,false
+23,Female,false,true,false,36,Monthly,Airplane,false,Beach,true,false,Luxury,false,false,false,Yearly,false,Cash,313,734,true
+24,Female,false,true,false,39,Yearly,Airplane,true,Mountain,false,false,Luxury,true,false,true,Monthly,true,Credit Card,251,204,true
+25,Bigender,true,true,false,20,Monthly,Airplane,true,City,true,true,Budget,false,true,true,One-time,false,PayPal,362,937,true
+26,Male,true,false,false,39,Yearly,Airplane,true,City,true,false,Budget,false,true,false,Yearly,true,Bank Transfer,194,199,true
+27,Male,true,true,false,3,Monthly,Train,true,Mountain,true,true,Budget,true,true,true,Monthly,true,Credit Card,220,133,true
+28,Male,true,true,false,23,Yearly,Train,false,Beach,true,true,Luxury,true,false,true,One-time,false,Bank Transfer,345,377,false
+29,Female,true,true,true,21,Weekly,Car,false,Mountain,false,false,Standard,false,false,false,Yearly,true,Cash,345,993,false
+30,Female,true,true,false,30,Monthly,Airplane,false,Mountain,true,true,Standard,false,false,false,One-time,false,Bank Transfer,294,392,true
+31,Female,false,true,true,32,Yearly,Airplane,true,Beach,false,false,Standard,true,true,true,Monthly,true,Credit Card,446,696,false
+32,Male,true,true,false,27,Monthly,Train,true,Mountain,true,true,Luxury,true,false,true,One-time,true,Cash,161,617,true
+33,Female,true,false,false,21,Weekly,Car,false,City,true,false,Luxury,false,true,false,Monthly,false,Credit Card,334,876,false
+34,Male,true,false,true,15,Weekly,Train,true,Beach,true,true,Standard,true,true,false,Monthly,true,PayPal,481,257,true
+35,Female,true,false,true,28,Monthly,Car,true,City,true,true,Luxury,false,true,false,Monthly,true,Credit Card,361,835,false
+36,Female,false,false,false,27,Weekly,Train,true,Mountain,false,true,Luxury,true,true,false,Monthly,false,PayPal,424,849,true
+37,Male,true,true,true,50,Yearly,Car,false,City,false,false,Luxury,true,false,true,Monthly,false,PayPal,486,168,true
+38,Female,true,true,true,21,Weekly,Airplane,true,Mountain,true,false,Luxury,true,false,true,One-time,true,PayPal,346,971,false
+39,Female,false,false,false,19,Monthly,Train,true,Beach,true,true,Standard,false,true,true,Monthly,false,PayPal,483,436,false
+40,Female,true,false,false,13,Weekly,Airplane,true,Beach,true,true,Standard,false,false,false,Monthly,false,Credit Card,126,903,false
+41,Male,false,true,false,32,Yearly,Train,true,Mountain,true,false,Luxury,false,false,true,Yearly,true,Bank Transfer,337,172,false
+42,Male,true,false,false,9,Monthly,Airplane,false,City,false,false,Luxury,true,false,true,Yearly,true,Cash,360,904,true
+43,Female,true,false,true,20,Monthly,Airplane,false,City,false,false,Standard,true,false,true,One-time,true,Bank Transfer,268,319,false
+44,Female,false,false,true,35,Weekly,Airplane,true,Beach,true,false,Luxury,false,false,true,Yearly,false,Cash,290,460,false
+45,Female,false,true,false,12,Yearly,Airplane,false,Mountain,true,false,Budget,true,true,false,One-time,true,Bank Transfer,307,176,true
+46,Female,false,true,true,6,Monthly,Airplane,false,City,true,true,Standard,false,true,false,Monthly,true,Cash,179,286,true
+47,Female,false,false,false,13,Yearly,Airplane,false,Mountain,true,true,Budget,true,false,false,One-time,true,Bank Transfer,251,991,false
+48,Male,false,true,false,36,Weekly,Airplane,false,City,true,true,Budget,false,true,true,Yearly,true,Cash,253,372,true
+49,Female,true,true,false,15,Weekly,Car,true,Beach,false,true,Budget,true,true,true,Yearly,false,Cash,413,223,false
+50,Bigender,true,false,false,5,Monthly,Airplane,false,Beach,false,true,Luxury,false,true,true,One-time,true,PayPal,400,840,false
+51,Female,true,false,false,37,Monthly,Airplane,false,Beach,false,true,Luxury,true,true,true,Yearly,false,Cash,458,529,false
+52,Female,false,false,false,30,Weekly,Car,true,City,false,true,Luxury,true,false,false,One-time,false,PayPal,434,863,true
+53,Male,true,false,false,17,Yearly,Car,false,Beach,false,false,Standard,true,false,false,Monthly,true,Credit Card,327,919,true
+54,Female,false,false,true,41,Monthly,Airplane,false,City,true,true,Luxury,false,false,true,Monthly,false,Cash,308,835,true
+55,Male,false,true,false,25,Monthly,Car,false,City,false,true,Budget,false,true,true,Monthly,false,Cash,252,407,false
+56,Female,true,true,true,40,Monthly,Car,true,City,false,false,Luxury,false,true,true,One-time,false,PayPal,318,178,false
+57,Male,false,true,false,43,Weekly,Car,false,Mountain,true,true,Budget,false,true,false,Monthly,false,PayPal,474,336,false
+58,Male,true,false,true,36,Monthly,Train,false,City,false,true,Budget,false,false,false,One-time,false,PayPal,256,454,true
+59,Female,true,false,false,48,Yearly,Car,true,Beach,false,false,Standard,true,true,false,Yearly,true,Bank Transfer,109,470,false
+60,Male,false,false,true,3,Yearly,Car,true,Mountain,false,true,Luxury,true,false,true,Monthly,true,PayPal,303,618,true
+61,Male,true,true,false,16,Yearly,Car,false,Beach,false,true,Luxury,false,false,false,Monthly,true,Cash,444,420,true
+62,Female,true,true,false,9,Yearly,Train,true,Beach,true,false,Budget,false,false,false,Monthly,false,PayPal,249,140,false
+63,Female,false,false,false,31,Weekly,Train,false,City,true,true,Budget,false,false,true,Yearly,true,Cash,104,623,true
+64,Male,false,true,true,12,Weekly,Airplane,true,Beach,true,true,Luxury,false,false,false,One-time,false,Credit Card,151,596,true
+65,Male,false,true,false,23,Weekly,Airplane,false,Mountain,true,false,Budget,true,false,true,Monthly,false,Credit Card,122,437,true
+66,Female,false,true,true,25,Weekly,Car,true,City,true,true,Budget,true,false,false,Yearly,true,Credit Card,468,940,true
+67,Female,false,true,true,5,Yearly,Car,true,Mountain,false,true,Budget,false,false,true,Yearly,true,Cash,399,560,true
+68,Bigender,false,false,false,15,Monthly,Car,true,Mountain,false,false,Luxury,true,true,true,Monthly,false,Bank Transfer,319,249,false
+69,Female,true,false,false,43,Weekly,Airplane,true,Beach,true,false,Luxury,false,false,true,Yearly,false,Bank Transfer,149,108,true
+70,Male,true,true,true,16,Monthly,Train,true,City,true,true,Luxury,true,false,true,One-time,true,Bank Transfer,217,120,false
+71,Male,true,true,true,49,Weekly,Airplane,true,Beach,false,true,Luxury,true,true,true,One-time,false,Credit Card,264,565,true
+72,Female,false,false,true,49,Monthly,Airplane,false,Beach,false,false,Standard,false,false,true,Yearly,false,Credit Card,376,585,false
+73,Agender,true,false,false,42,Monthly,Car,true,Mountain,false,false,Budget,false,true,false,Yearly,true,Credit Card,176,480,true
+74,Female,false,false,false,4,Monthly,Airplane,false,Beach,false,true,Budget,false,true,false,One-time,false,Cash,477,335,true
+75,Female,true,true,true,46,Weekly,Airplane,false,Mountain,true,false,Budget,false,false,false,Yearly,true,Cash,405,259,false
+76,Female,false,false,true,31,Monthly,Airplane,false,City,false,false,Budget,true,true,false,One-time,false,Credit Card,374,878,true
+77,Male,false,false,true,36,Monthly,Train,true,City,false,false,Standard,false,true,true,One-time,true,Credit Card,470,826,false
+78,Female,false,true,true,48,Yearly,Train,false,City,true,false,Standard,false,false,true,Monthly,false,PayPal,228,701,true
+79,Male,true,true,true,17,Monthly,Airplane,false,Beach,true,false,Luxury,false,true,true,Monthly,false,Cash,389,607,true
+80,Female,true,false,true,20,Monthly,Car,false,City,false,true,Budget,true,false,true,Monthly,false,Credit Card,432,628,true
+81,Female,true,false,false,23,Weekly,Train,true,Mountain,false,true,Luxury,false,true,true,Monthly,false,Bank Transfer,461,798,false
+82,Female,false,true,false,14,Weekly,Car,true,Beach,true,true,Luxury,true,true,true,One-time,false,Bank Transfer,306,382,false
+83,Male,false,true,true,28,Monthly,Train,false,Beach,true,false,Budget,false,true,false,Yearly,false,PayPal,366,490,false
+84,Male,true,false,false,22,Weekly,Car,false,Beach,false,false,Luxury,true,true,true,Monthly,false,Cash,315,407,true
+85,Female,true,true,false,35,Weekly,Airplane,true,Mountain,false,false,Luxury,true,false,false,Yearly,true,Credit Card,186,853,false
+86,Female,false,false,true,13,Weekly,Car,true,Mountain,false,false,Budget,false,false,true,Yearly,false,PayPal,496,874,true
+87,Male,false,true,true,8,Yearly,Train,true,Beach,true,true,Budget,true,false,false,Monthly,false,Cash,317,349,false
+88,Male,true,false,true,40,Monthly,Airplane,false,City,false,true,Luxury,true,false,true,Monthly,true,Cash,488,409,true
+89,Female,true,false,false,41,Weekly,Train,true,Mountain,true,true,Luxury,true,false,true,One-time,true,Cash,103,978,false
+90,Female,false,false,false,23,Yearly,Airplane,true,Beach,true,false,Budget,false,true,true,Monthly,false,Cash,350,805,true
+91,Polygender,true,false,false,47,Weekly,Car,true,Beach,false,true,Standard,false,true,true,Monthly,false,PayPal,287,865,true
+92,Female,true,true,false,12,Weekly,Train,false,Mountain,false,false,Luxury,false,false,false,One-time,true,Credit Card,250,727,true
+93,Male,true,false,true,22,Monthly,Car,false,Beach,false,true,Budget,false,true,false,Yearly,true,Bank Transfer,359,160,false
+94,Male,false,true,true,28,Monthly,Car,true,Mountain,false,false,Luxury,false,true,true,Yearly,true,Cash,161,618,false
+95,Male,true,false,true,49,Weekly,Airplane,true,Mountain,false,true,Luxury,false,false,true,One-time,true,Credit Card,284,994,true
+96,Male,false,false,false,45,Yearly,Car,false,Mountain,false,true,Standard,true,true,true,Monthly,false,Credit Card,377,103,true
+97,Male,true,false,false,2,Monthly,Car,false,Beach,true,true,Standard,true,true,false,Monthly,false,Credit Card,188,515,true
+98,Female,false,true,false,12,Yearly,Car,false,Mountain,false,true,Budget,false,true,true,Yearly,true,Bank Transfer,403,188,false
+99,Female,false,true,false,14,Weekly,Car,false,Mountain,true,false,Standard,true,false,true,Yearly,true,Credit Card,288,432,true
+100,Genderqueer,true,true,false,17,Weekly,Airplane,false,City,false,true,Standard,true,false,true,One-time,false,PayPal,211,222,false
+101,Female,false,false,true,45,Yearly,Airplane,false,Mountain,false,false,Standard,false,false,false,One-time,true,PayPal,233,992,true
+102,Female,false,true,true,24,Monthly,Train,true,Mountain,false,true,Budget,true,false,true,Yearly,false,Cash,162,730,false
+103,Male,true,false,false,44,Weekly,Airplane,false,City,true,true,Standard,true,true,true,Yearly,true,Bank Transfer,302,353,false
+104,Female,true,true,true,41,Yearly,Car,false,City,true,true,Luxury,false,true,false,Monthly,false,Credit Card,459,482,false
+105,Female,false,false,false,44,Monthly,Car,true,Beach,true,false,Standard,false,true,true,Yearly,true,Bank Transfer,472,809,true
+106,Male,false,true,true,34,Yearly,Car,true,Beach,false,true,Luxury,false,false,false,One-time,true,Bank Transfer,432,748,false
+107,Female,false,true,true,41,Yearly,Airplane,true,Mountain,false,true,Luxury,true,false,false,One-time,true,Cash,492,678,false
+108,Female,false,true,false,49,Yearly,Train,false,Mountain,true,true,Luxury,false,true,true,Yearly,true,Credit Card,434,845,false
+109,Male,false,false,false,44,Monthly,Train,false,Beach,false,true,Budget,true,false,true,Yearly,true,Bank Transfer,223,756,true
+110,Female,true,true,false,30,Monthly,Train,true,City,true,false,Standard,false,false,true,One-time,false,Cash,370,959,true
+111,Polygender,true,false,false,48,Monthly,Airplane,false,Beach,true,true,Standard,false,true,false,One-time,true,Cash,216,690,true
+112,Male,false,true,false,14,Monthly,Train,true,City,false,true,Luxury,false,false,false,One-time,false,Bank Transfer,160,590,true
+113,Female,false,true,true,47,Monthly,Airplane,false,Mountain,true,true,Standard,false,false,true,One-time,false,Bank Transfer,105,711,false
+114,Female,true,false,true,35,Yearly,Car,true,Beach,true,false,Budget,true,true,false,Monthly,false,Cash,403,631,false
+115,Male,true,true,false,17,Monthly,Train,true,Beach,false,true,Luxury,false,true,true,One-time,false,Cash,183,619,false
+116,Female,true,false,true,39,Weekly,Train,false,Mountain,false,true,Standard,false,false,true,Yearly,true,Credit Card,367,327,true
+117,Female,false,false,false,46,Yearly,Train,false,Mountain,true,true,Luxury,true,false,false,Yearly,false,PayPal,133,103,false
+118,Male,true,true,true,43,Monthly,Car,true,Mountain,false,false,Luxury,true,true,true,One-time,false,Credit Card,478,825,true
+119,Male,true,false,false,8,Weekly,Airplane,false,City,false,false,Budget,false,true,true,Yearly,true,Bank Transfer,284,886,true
+120,Female,false,false,false,40,Monthly,Airplane,true,Beach,false,true,Standard,false,false,true,Yearly,false,PayPal,409,694,true
+121,Genderfluid,false,true,false,34,Yearly,Airplane,true,Mountain,false,true,Luxury,false,false,false,Yearly,true,Bank Transfer,163,499,false
+122,Male,false,true,false,4,Yearly,Car,true,Mountain,false,true,Budget,true,true,false,Monthly,false,Credit Card,325,893,true
+123,Female,true,true,false,40,Yearly,Car,false,Beach,true,false,Budget,false,false,false,Monthly,false,Cash,184,460,true
+124,Female,true,false,true,29,Monthly,Airplane,true,Beach,true,false,Standard,false,true,false,One-time,true,Credit Card,392,832,false
+125,Female,false,false,true,12,Weekly,Train,true,Mountain,false,true,Luxury,false,false,true,Yearly,false,Bank Transfer,147,478,true
+126,Male,false,false,true,22,Monthly,Car,true,Mountain,true,true,Luxury,true,false,true,Yearly,false,Credit Card,349,654,true
+127,Male,true,true,true,35,Yearly,Airplane,true,Beach,true,true,Standard,false,true,true,Monthly,true,PayPal,242,865,false
+128,Female,true,true,false,41,Yearly,Airplane,false,Mountain,true,false,Standard,true,false,false,Yearly,false,PayPal,161,553,true
+129,Male,true,true,true,30,Yearly,Airplane,false,Mountain,true,false,Standard,false,false,false,One-time,false,Bank Transfer,388,810,true
+130,Female,false,false,true,8,Weekly,Train,false,City,true,true,Luxury,false,false,true,Yearly,false,PayPal,289,395,true
+131,Male,true,true,true,3,Weekly,Train,true,City,false,false,Luxury,true,true,false,Monthly,false,Credit Card,445,890,true
+132,Male,true,true,false,21,Weekly,Airplane,true,Mountain,true,false,Standard,true,true,false,One-time,false,PayPal,147,644,true
+133,Female,false,true,true,6,Weekly,Car,false,Beach,true,false,Budget,false,false,false,One-time,false,PayPal,123,383,false
+134,Male,true,false,true,50,Monthly,Car,false,Beach,false,false,Standard,true,true,true,Monthly,false,Cash,428,605,true
+135,Female,false,true,true,8,Weekly,Airplane,false,Mountain,false,false,Standard,true,false,true,Yearly,false,Cash,413,384,true
+136,Female,true,false,false,12,Weekly,Train,true,City,true,true,Standard,false,false,true,Monthly,true,Cash,275,255,false
+137,Female,false,false,false,27,Yearly,Train,false,Beach,false,false,Luxury,false,false,false,Yearly,true,PayPal,324,725,true
+138,Genderqueer,true,true,false,33,Weekly,Train,false,Mountain,false,false,Luxury,false,true,false,Yearly,false,Bank Transfer,416,588,true
+139,Male,false,true,true,24,Yearly,Train,false,Mountain,true,false,Luxury,true,true,true,One-time,true,Cash,395,337,false
+140,Female,false,true,true,45,Yearly,Car,false,Beach,true,false,Standard,false,true,false,One-time,false,Credit Card,324,413,true
+141,Female,true,false,true,13,Yearly,Airplane,true,Beach,false,false,Standard,false,false,true,One-time,false,Cash,364,264,true
+142,Female,true,false,true,33,Weekly,Airplane,false,City,true,true,Luxury,true,true,false,Monthly,true,Cash,164,609,true
+143,Female,false,true,true,12,Yearly,Train,true,City,false,true,Standard,true,false,false,One-time,false,Credit Card,400,653,false
+144,Non-binary,false,false,false,34,Weekly,Train,false,Mountain,false,true,Budget,false,true,false,Monthly,true,Cash,269,800,false
+145,Male,true,true,false,48,Yearly,Train,false,City,false,true,Standard,true,false,true,Monthly,true,Bank Transfer,356,200,false
+146,Female,false,true,true,35,Monthly,Car,false,Mountain,true,true,Budget,true,false,true,One-time,true,Cash,151,889,false
+147,Male,false,true,false,40,Monthly,Car,false,Beach,false,true,Standard,true,false,false,One-time,false,Credit Card,433,494,false
+148,Female,false,false,true,46,Monthly,Airplane,true,City,false,true,Luxury,true,true,false,Monthly,true,Cash,464,259,true
+149,Female,true,false,true,50,Weekly,Train,false,Beach,true,false,Standard,false,true,true,Monthly,false,Credit Card,359,362,false
+150,Female,true,false,true,10,Yearly,Car,false,Mountain,false,true,Standard,false,true,true,Yearly,false,Cash,190,214,true
+151,Male,true,false,true,7,Weekly,Car,false,City,false,true,Budget,true,true,false,Monthly,false,Credit Card,464,328,true
+152,Female,true,true,false,36,Monthly,Train,false,Mountain,true,true,Standard,true,false,false,Monthly,false,PayPal,231,441,true
+153,Female,false,true,true,5,Monthly,Car,true,Beach,true,false,Budget,true,true,false,Monthly,false,PayPal,181,712,false
+154,Male,false,true,true,18,Weekly,Car,true,Beach,false,false,Budget,true,true,false,Monthly,false,Credit Card,327,883,false
+155,Female,false,false,true,10,Yearly,Car,false,City,true,false,Luxury,true,false,false,Monthly,true,Bank Transfer,226,638,false
+156,Female,false,true,true,49,Monthly,Airplane,false,Beach,false,false,Luxury,false,false,true,Yearly,true,PayPal,197,784,true
+157,Genderfluid,false,true,false,23,Yearly,Car,true,Mountain,false,false,Budget,false,true,true,Monthly,false,Credit Card,499,548,false
+158,Female,true,false,false,30,Weekly,Airplane,false,Beach,false,true,Luxury,false,true,true,Yearly,true,Bank Transfer,432,544,false
+159,Male,true,true,true,36,Weekly,Car,true,City,false,false,Standard,false,true,true,One-time,false,Cash,106,937,true
+160,Female,true,true,true,3,Yearly,Car,true,City,false,true,Luxury,true,true,false,One-time,false,Bank Transfer,407,673,false
+161,Female,false,true,true,49,Monthly,Airplane,true,Beach,false,true,Budget,false,false,false,One-time,true,Cash,343,979,false
+162,Male,true,false,false,47,Yearly,Airplane,false,City,true,true,Budget,false,true,true,Monthly,true,Cash,466,898,true
+163,Female,true,false,false,35,Weekly,Airplane,false,City,false,false,Budget,true,false,true,Yearly,false,Credit Card,419,628,true
+164,Female,false,false,true,37,Monthly,Car,false,Mountain,false,true,Standard,true,true,true,One-time,false,Credit Card,323,657,true
+165,Male,true,true,false,28,Weekly,Train,false,Mountain,false,true,Luxury,true,false,true,Yearly,true,Credit Card,321,305,false
+166,Female,false,false,true,39,Weekly,Train,false,City,true,false,Luxury,true,false,true,Yearly,false,Credit Card,172,843,false
+167,Female,true,false,false,46,Weekly,Train,false,City,true,true,Luxury,false,true,true,Monthly,false,Cash,158,393,true
+168,Male,false,false,true,16,Yearly,Car,true,Beach,false,false,Luxury,true,true,false,Yearly,true,PayPal,427,614,true
+169,Male,true,true,true,49,Yearly,Airplane,false,City,false,false,Luxury,false,true,true,Monthly,false,PayPal,130,848,false
+170,Male,true,true,false,22,Monthly,Car,true,City,false,true,Budget,true,false,true,Monthly,true,Cash,493,532,true
+171,Male,false,false,false,23,Monthly,Train,true,City,false,false,Standard,true,false,true,Yearly,true,Cash,117,243,false
+172,Female,true,false,false,4,Weekly,Train,true,Beach,true,false,Luxury,true,true,true,Yearly,false,Credit Card,229,135,false
+173,Genderfluid,false,false,false,28,Weekly,Car,true,Beach,true,true,Standard,false,false,true,One-time,true,Credit Card,278,318,false
+174,Male,true,true,false,4,Yearly,Airplane,true,Mountain,true,false,Budget,false,false,false,One-time,true,Bank Transfer,310,956,false
+175,Female,true,false,true,46,Weekly,Car,true,Mountain,true,false,Standard,true,true,true,One-time,true,PayPal,414,453,true
+176,Female,true,false,false,14,Monthly,Train,true,Mountain,false,false,Budget,false,true,true,Monthly,true,Cash,131,609,false
+177,Female,true,true,false,45,Yearly,Train,false,City,false,true,Standard,false,false,true,Monthly,false,PayPal,298,258,true
+178,Female,true,true,true,24,Weekly,Airplane,true,Beach,true,false,Budget,true,false,false,Monthly,false,PayPal,371,761,true
+179,Female,false,false,false,40,Monthly,Airplane,true,City,true,true,Luxury,false,false,false,Yearly,true,Bank Transfer,238,844,true
+180,Female,true,true,true,1,Monthly,Airplane,true,Mountain,false,false,Standard,true,false,false,Yearly,false,Bank Transfer,158,574,true
+181,Male,true,false,false,34,Monthly,Car,false,Mountain,false,false,Standard,false,true,true,One-time,true,PayPal,210,351,true
+182,Male,true,false,false,18,Monthly,Car,false,Mountain,true,true,Luxury,false,true,false,One-time,false,Bank Transfer,319,736,true
+183,Female,true,true,true,8,Weekly,Car,true,Mountain,false,true,Budget,true,false,true,One-time,true,Bank Transfer,132,126,false
+184,Male,true,false,false,6,Monthly,Airplane,true,Mountain,true,true,Luxury,false,true,true,One-time,true,Credit Card,107,294,true
+185,Male,false,false,false,3,Weekly,Train,true,City,true,false,Standard,true,true,true,Monthly,false,Credit Card,177,931,false
+186,Female,true,true,true,21,Yearly,Train,true,Beach,false,false,Luxury,true,false,false,One-time,true,Cash,300,761,false
+187,Male,false,true,false,18,Weekly,Car,true,Beach,true,true,Standard,true,true,false,One-time,true,Cash,107,672,false
+188,Female,true,true,false,44,Monthly,Car,false,City,true,true,Luxury,true,true,true,Monthly,false,Cash,275,719,true
+189,Female,true,true,false,49,Monthly,Train,false,Mountain,false,true,Budget,false,false,false,Monthly,true,PayPal,448,964,true
+190,Genderqueer,true,true,true,4,Yearly,Airplane,false,Beach,false,true,Luxury,true,true,true,One-time,true,PayPal,161,811,true
+191,Male,true,false,true,9,Monthly,Airplane,true,Beach,true,false,Standard,true,true,false,Monthly,false,PayPal,457,312,true
+192,Female,true,false,true,13,Weekly,Car,false,Beach,false,true,Budget,true,true,true,Yearly,true,Bank Transfer,460,905,true
+193,Male,true,true,false,50,Weekly,Airplane,true,City,false,true,Luxury,true,false,false,Monthly,true,Bank Transfer,315,601,false
+194,Bigender,false,false,true,10,Yearly,Car,true,Beach,true,true,Standard,false,false,true,Yearly,false,PayPal,293,715,false
+195,Male,false,true,true,4,Yearly,Train,false,Beach,false,true,Budget,true,true,false,Monthly,true,Cash,416,783,false
+196,Female,false,true,false,34,Weekly,Airplane,false,Mountain,false,false,Standard,false,false,false,Yearly,true,Cash,274,569,true
+197,Female,true,false,false,28,Monthly,Airplane,false,Mountain,false,false,Luxury,false,false,true,One-time,true,Bank Transfer,130,126,true
+198,Male,true,true,true,36,Weekly,Train,true,Beach,false,false,Standard,false,false,false,One-time,false,Bank Transfer,425,948,true
+199,Female,true,false,true,31,Weekly,Car,false,Beach,false,true,Standard,false,true,true,One-time,true,Bank Transfer,197,947,false
+200,Female,true,true,true,35,Yearly,Airplane,false,Mountain,false,false,Luxury,false,true,false,Yearly,true,PayPal,141,741,true
+201,Male,false,true,true,2,Weekly,Car,false,Mountain,false,true,Budget,true,false,true,Yearly,true,Bank Transfer,245,298,false
+202,Female,false,true,false,6,Yearly,Car,false,Mountain,false,false,Budget,true,true,true,One-time,false,Cash,222,600,false
+203,Genderqueer,true,true,false,18,Monthly,Airplane,true,Beach,true,true,Budget,true,false,true,Yearly,true,Bank Transfer,184,745,true
+204,Female,false,true,true,31,Yearly,Airplane,true,Beach,false,false,Budget,true,true,true,Yearly,false,PayPal,377,375,false
+205,Female,false,true,true,19,Yearly,Train,false,City,false,false,Luxury,false,true,true,Yearly,false,Cash,220,749,false
+206,Male,false,true,false,1,Weekly,Car,false,Beach,true,false,Luxury,true,true,false,Monthly,true,Bank Transfer,461,728,true
+207,Female,false,true,false,48,Weekly,Train,true,City,false,true,Standard,true,true,true,Monthly,false,Credit Card,393,803,true
+208,Female,false,true,true,43,Weekly,Car,false,City,false,false,Standard,false,true,true,Monthly,true,Cash,455,589,false
+209,Male,false,true,false,30,Weekly,Airplane,true,City,false,true,Budget,true,true,true,Yearly,true,Bank Transfer,472,343,false
+210,Male,false,false,true,8,Weekly,Airplane,true,City,false,true,Standard,false,true,false,Yearly,false,Cash,198,372,true
+211,Male,false,false,false,29,Monthly,Airplane,true,City,true,true,Standard,true,true,true,One-time,true,Credit Card,240,437,false
+212,Female,false,true,true,48,Yearly,Train,false,City,true,true,Standard,true,true,false,Monthly,true,PayPal,111,511,true
+213,Genderfluid,true,false,false,19,Yearly,Train,false,Beach,false,true,Luxury,true,true,true,One-time,false,PayPal,461,778,false
+214,Female,true,true,true,15,Yearly,Car,false,Beach,false,false,Budget,true,true,false,Monthly,true,Cash,148,201,false
+215,Male,true,false,false,37,Yearly,Airplane,true,Mountain,true,true,Standard,true,true,true,Monthly,false,Cash,312,378,false
+216,Female,false,true,true,13,Yearly,Car,true,Mountain,false,false,Luxury,true,true,false,Yearly,true,PayPal,104,461,true
+217,Female,true,true,true,39,Monthly,Car,true,Beach,true,true,Standard,true,false,true,Monthly,false,PayPal,335,274,true
+218,Female,true,false,false,15,Monthly,Train,false,Beach,false,true,Luxury,true,false,false,Monthly,true,PayPal,437,587,true
+219,Female,false,true,true,30,Weekly,Train,true,Mountain,false,false,Luxury,false,true,true,Monthly,true,Credit Card,402,951,true
+220,Male,false,false,true,5,Monthly,Car,true,City,false,true,Budget,false,true,true,Monthly,true,Credit Card,259,959,false
+221,Female,true,false,true,8,Weekly,Car,true,City,true,false,Standard,true,false,false,Monthly,false,Cash,284,325,false
+222,Female,false,true,false,20,Yearly,Car,false,Beach,false,false,Budget,true,false,false,Yearly,false,Bank Transfer,122,299,true
+223,Male,true,true,false,5,Monthly,Airplane,false,Mountain,true,false,Luxury,false,true,false,Yearly,true,Cash,179,604,false
+224,Male,false,true,true,26,Yearly,Train,false,City,false,false,Luxury,true,false,false,One-time,false,Cash,382,737,false
+225,Male,false,false,true,19,Monthly,Airplane,true,Mountain,true,false,Standard,true,false,true,One-time,false,Cash,366,542,true
+226,Female,true,false,true,27,Yearly,Airplane,true,Beach,true,false,Standard,false,false,true,Yearly,false,PayPal,130,658,true
+227,Female,true,false,true,6,Weekly,Car,true,Beach,true,true,Budget,false,false,false,Yearly,false,PayPal,193,832,true
+228,Female,false,true,false,5,Weekly,Airplane,false,Beach,false,true,Budget,false,false,true,Monthly,false,Credit Card,355,456,true
+229,Female,true,true,true,46,Weekly,Airplane,false,Mountain,false,false,Luxury,false,true,false,Yearly,true,Credit Card,343,360,false
+230,Male,false,true,false,32,Yearly,Airplane,false,Beach,true,true,Budget,false,true,false,One-time,true,Bank Transfer,463,841,false
+231,Male,false,true,true,32,Weekly,Airplane,false,City,true,true,Standard,false,false,true,Yearly,true,Credit Card,314,842,false
+232,Female,true,true,true,16,Yearly,Train,false,Mountain,false,false,Luxury,true,false,true,One-time,true,PayPal,478,395,false
+233,Male,false,true,true,8,Yearly,Airplane,false,Mountain,true,true,Luxury,false,true,false,One-time,true,Bank Transfer,327,515,false
+234,Male,false,true,false,49,Yearly,Airplane,false,Beach,true,false,Budget,true,false,false,Monthly,false,Credit Card,282,769,false
+235,Female,true,true,true,22,Yearly,Car,true,Beach,true,true,Luxury,false,true,true,Monthly,true,Cash,147,332,false
+236,Male,true,true,true,12,Monthly,Train,true,City,true,true,Standard,false,false,true,Monthly,false,PayPal,401,130,true
+237,Male,true,true,false,14,Yearly,Car,true,Beach,false,false,Standard,false,true,false,One-time,true,PayPal,168,149,true
+238,Female,false,true,false,47,Weekly,Train,true,Mountain,false,true,Budget,false,false,true,Yearly,false,PayPal,252,117,false
+239,Female,false,true,false,34,Yearly,Airplane,false,Mountain,false,true,Luxury,true,false,true,Monthly,false,Credit Card,481,718,true
+240,Male,true,false,true,29,Yearly,Airplane,false,Beach,true,true,Luxury,false,false,false,Yearly,true,PayPal,105,844,false
+241,Female,false,true,true,34,Monthly,Train,false,Beach,false,false,Budget,false,false,false,Monthly,true,Bank Transfer,423,265,false
+242,Male,false,false,true,9,Yearly,Car,true,City,true,true,Standard,true,true,true,Monthly,true,Bank Transfer,315,465,false
+243,Polygender,false,true,true,30,Weekly,Car,true,City,false,true,Luxury,true,false,true,Yearly,false,Cash,379,220,false
+244,Male,true,false,false,48,Weekly,Car,false,Mountain,false,false,Standard,true,true,true,Yearly,true,Bank Transfer,253,372,true
+245,Male,true,false,true,31,Weekly,Car,false,City,true,true,Standard,false,true,false,Yearly,true,Credit Card,360,867,true
+246,Female,true,true,true,23,Yearly,Airplane,false,Beach,true,true,Standard,true,false,true,One-time,false,Bank Transfer,229,766,true
+247,Female,false,true,false,4,Monthly,Car,true,Mountain,true,false,Luxury,false,false,true,One-time,false,Cash,336,375,false
+248,Female,false,false,false,1,Yearly,Airplane,false,Mountain,true,false,Budget,false,false,false,Monthly,false,Bank Transfer,166,938,false
+249,Female,true,true,false,39,Monthly,Airplane,true,City,true,true,Standard,true,true,true,Monthly,true,Bank Transfer,368,886,false
+250,Male,true,true,true,6,Yearly,Train,false,City,false,false,Luxury,true,true,false,One-time,true,PayPal,192,381,true
+251,Genderfluid,true,false,true,47,Yearly,Train,false,Mountain,true,false,Luxury,true,true,false,Monthly,true,PayPal,326,165,false
+252,Male,false,true,false,48,Yearly,Car,false,Mountain,true,false,Budget,false,true,true,Monthly,true,Cash,359,586,true
+253,Female,false,true,false,30,Monthly,Car,false,Beach,false,false,Luxury,false,true,true,Monthly,false,Cash,473,840,true
+254,Male,false,true,true,8,Monthly,Airplane,true,Mountain,false,false,Budget,false,false,false,One-time,false,Bank Transfer,199,489,true
+255,Male,false,false,true,41,Yearly,Car,false,City,true,true,Luxury,false,false,true,One-time,true,PayPal,217,932,true
+256,Male,true,true,true,14,Monthly,Airplane,true,Mountain,true,true,Budget,true,false,false,Monthly,true,PayPal,169,313,false
+257,Non-binary,true,false,true,37,Yearly,Airplane,false,Beach,false,true,Standard,true,false,true,Yearly,true,Cash,392,190,true
+258,Female,false,true,false,8,Weekly,Airplane,false,City,false,true,Luxury,false,true,false,Monthly,false,PayPal,430,343,true
+259,Male,false,true,false,11,Yearly,Airplane,true,Beach,true,false,Luxury,false,true,true,Monthly,false,PayPal,200,878,false
+260,Male,false,true,true,9,Yearly,Airplane,true,Beach,false,true,Budget,true,true,false,Monthly,false,Bank Transfer,136,916,false
+261,Genderqueer,false,true,true,16,Yearly,Train,false,Mountain,false,false,Luxury,false,true,false,Monthly,true,Cash,104,846,true
+262,Male,false,false,false,34,Weekly,Airplane,true,Beach,false,false,Standard,true,true,false,Yearly,false,Credit Card,184,694,false
+263,Male,false,false,true,18,Yearly,Train,true,Beach,true,true,Standard,false,false,true,Yearly,false,Credit Card,351,939,false
+264,Male,false,false,false,23,Monthly,Airplane,false,City,false,true,Luxury,false,true,true,One-time,true,Bank Transfer,353,911,false
+265,Female,true,false,true,29,Weekly,Train,false,Beach,true,false,Luxury,true,false,false,Monthly,true,Credit Card,279,232,false
+266,Agender,false,false,true,49,Weekly,Car,false,Mountain,false,true,Luxury,true,true,false,One-time,false,Credit Card,273,915,false
+267,Male,true,true,false,13,Yearly,Car,false,Beach,true,false,Luxury,true,false,false,Yearly,true,PayPal,211,345,true
+268,Female,false,false,true,50,Yearly,Train,true,City,true,false,Budget,false,true,false,One-time,false,Bank Transfer,147,965,false
+269,Male,false,false,true,1,Monthly,Airplane,true,City,false,true,Budget,false,false,true,One-time,true,PayPal,219,825,false
+270,Female,true,false,true,22,Weekly,Airplane,false,Beach,false,true,Standard,false,true,true,Yearly,true,PayPal,347,553,false
+271,Female,false,false,true,10,Monthly,Airplane,true,Mountain,true,false,Luxury,true,true,true,Yearly,false,Cash,376,711,false
+272,Male,false,true,false,47,Yearly,Airplane,true,City,true,false,Budget,false,false,true,One-time,false,Cash,472,515,true
+273,Female,true,true,true,29,Monthly,Car,true,City,false,false,Luxury,false,true,true,Monthly,false,Bank Transfer,489,589,true
+274,Male,false,false,true,7,Weekly,Airplane,true,Beach,true,true,Luxury,true,false,false,Monthly,false,PayPal,452,386,false
+275,Male,true,false,false,28,Monthly,Train,true,City,true,false,Standard,false,true,false,Yearly,true,Cash,135,257,true
+276,Male,false,true,false,16,Monthly,Airplane,false,Mountain,true,false,Budget,false,false,true,Monthly,false,Bank Transfer,410,652,false
+277,Male,true,false,false,12,Yearly,Train,true,Mountain,false,true,Standard,true,false,true,Yearly,false,Credit Card,371,770,false
+278,Male,true,false,true,7,Yearly,Car,false,City,false,true,Luxury,true,true,true,Monthly,false,Bank Transfer,366,164,true
+279,Male,false,false,false,33,Monthly,Airplane,true,Mountain,false,true,Luxury,true,false,false,Monthly,true,PayPal,163,359,true
+280,Female,false,false,false,46,Monthly,Car,true,Beach,true,true,Standard,false,false,false,Yearly,true,Cash,203,999,false
+281,Bigender,false,true,true,18,Monthly,Airplane,true,Mountain,true,true,Luxury,false,true,true,One-time,true,Cash,462,836,true
+282,Male,false,false,false,25,Weekly,Car,true,Mountain,false,true,Standard,false,false,false,Monthly,true,PayPal,219,875,false
+283,Male,true,false,true,15,Weekly,Car,false,Beach,true,true,Luxury,true,true,true,Yearly,false,PayPal,461,385,false
+284,Female,false,true,false,1,Yearly,Car,false,Mountain,false,true,Budget,false,false,true,Monthly,true,Credit Card,468,388,false
+285,Female,true,false,false,16,Weekly,Airplane,false,Mountain,true,false,Budget,false,false,false,Yearly,true,Bank Transfer,381,299,true
+286,Female,true,true,false,43,Monthly,Airplane,true,Beach,true,false,Standard,true,true,false,Monthly,false,PayPal,372,116,false
+287,Female,false,true,false,17,Monthly,Train,false,City,false,true,Budget,true,false,true,Monthly,false,Credit Card,123,764,false
+288,Female,false,false,true,25,Weekly,Airplane,true,Mountain,true,true,Standard,false,true,false,Yearly,false,Bank Transfer,322,526,false
+289,Female,false,false,false,29,Yearly,Car,true,Beach,true,true,Standard,true,false,false,Monthly,true,Bank Transfer,444,333,false
+290,Female,false,true,false,11,Weekly,Train,false,City,false,false,Standard,true,false,false,Yearly,true,Bank Transfer,485,165,true
+291,Female,true,false,true,4,Yearly,Car,false,City,false,true,Standard,true,true,false,One-time,false,Bank Transfer,264,256,false
+292,Female,false,false,true,26,Yearly,Car,false,Beach,true,false,Budget,false,false,true,Monthly,true,PayPal,485,493,false
+293,Agender,false,true,false,7,Weekly,Car,true,Mountain,true,true,Luxury,false,false,false,Monthly,false,PayPal,146,108,false
+294,Female,false,true,true,2,Yearly,Car,true,Mountain,true,false,Luxury,true,false,false,Monthly,true,PayPal,218,998,false
+295,Bigender,true,true,true,27,Weekly,Car,true,City,true,true,Budget,false,false,true,One-time,false,Credit Card,401,654,false
+296,Female,false,false,true,13,Yearly,Airplane,true,Beach,false,true,Luxury,false,false,false,One-time,false,Bank Transfer,409,441,true
+297,Male,false,true,true,6,Monthly,Car,true,City,true,false,Standard,false,false,true,Yearly,false,Bank Transfer,112,395,false
+298,Male,false,true,true,42,Yearly,Car,false,Mountain,false,false,Luxury,false,false,false,Monthly,true,PayPal,277,667,false
+299,Female,true,false,true,3,Weekly,Airplane,true,Mountain,true,false,Standard,true,false,true,Monthly,false,Bank Transfer,462,960,false
+300,Male,true,true,true,4,Yearly,Train,false,Mountain,true,false,Luxury,true,false,true,Yearly,false,Bank Transfer,438,639,false
+301,Female,false,true,false,42,Monthly,Airplane,false,City,false,false,Luxury,true,false,false,One-time,true,PayPal,219,308,true
+302,Genderfluid,true,false,false,34,Monthly,Train,false,City,true,true,Standard,false,false,false,Monthly,true,PayPal,475,122,false
+303,Female,false,true,true,16,Weekly,Train,true,City,false,false,Budget,true,false,false,Yearly,true,PayPal,495,465,true
+304,Female,true,true,false,44,Monthly,Train,true,City,false,false,Standard,true,false,true,One-time,false,PayPal,211,270,false
+305,Female,true,true,false,11,Monthly,Airplane,false,City,true,true,Luxury,true,false,false,Monthly,false,Cash,463,674,true
+306,Male,true,true,true,24,Yearly,Airplane,false,Mountain,false,false,Budget,false,false,false,One-time,true,Cash,455,441,false
+307,Male,false,true,false,18,Monthly,Airplane,false,Beach,false,false,Budget,true,true,false,Monthly,true,Bank Transfer,211,473,false
+308,Male,false,false,false,28,Yearly,Airplane,true,City,false,false,Luxury,false,true,true,Yearly,true,Credit Card,386,765,false
+309,Female,true,false,true,26,Yearly,Train,true,Mountain,true,false,Luxury,true,true,true,Monthly,true,Bank Transfer,280,896,true
+310,Female,true,false,false,41,Weekly,Airplane,true,Beach,true,true,Budget,false,true,false,One-time,false,Bank Transfer,381,734,true
+311,Female,false,false,false,43,Monthly,Train,true,City,true,true,Budget,true,false,false,Monthly,false,Cash,291,451,false
+312,Agender,false,false,false,34,Monthly,Car,true,Beach,true,false,Budget,false,true,false,Yearly,false,Credit Card,279,523,true
+313,Female,false,false,true,4,Monthly,Car,true,City,true,true,Standard,false,true,false,One-time,false,Credit Card,454,972,false
+314,Female,false,false,true,40,Monthly,Train,true,Beach,false,true,Budget,false,true,true,Monthly,true,PayPal,431,287,true
+315,Male,true,false,false,49,Yearly,Airplane,true,Beach,true,false,Budget,true,true,false,Monthly,false,Bank Transfer,300,515,false
+316,Male,true,true,true,36,Monthly,Airplane,false,Beach,false,true,Standard,false,true,false,Yearly,true,Credit Card,236,539,true
+317,Male,true,true,false,39,Yearly,Airplane,true,Beach,true,false,Luxury,true,true,true,Monthly,true,Credit Card,433,135,true
+318,Male,true,false,false,10,Weekly,Train,true,City,true,true,Budget,true,true,false,Yearly,true,Credit Card,444,466,true
+319,Male,true,false,false,6,Weekly,Airplane,false,Mountain,true,true,Budget,false,true,true,One-time,true,Cash,491,950,true
+320,Bigender,true,true,false,44,Yearly,Train,true,Beach,false,true,Budget,true,false,false,One-time,true,Cash,123,613,true
+321,Male,true,false,true,14,Yearly,Car,true,City,true,true,Standard,true,false,true,Monthly,true,PayPal,477,211,true
+322,Female,true,false,true,46,Monthly,Train,false,City,false,false,Luxury,true,false,true,Yearly,true,Credit Card,416,346,false
+323,Female,false,true,true,18,Monthly,Train,false,Beach,false,false,Standard,false,false,true,One-time,true,Bank Transfer,175,332,true
+324,Male,true,true,false,16,Yearly,Train,false,Mountain,true,false,Luxury,false,false,true,One-time,true,PayPal,496,515,false
+325,Female,true,false,true,26,Yearly,Car,false,City,false,false,Luxury,true,false,false,Monthly,false,Credit Card,271,852,false
+326,Female,true,false,false,48,Yearly,Train,false,City,true,true,Budget,true,true,true,Monthly,false,PayPal,128,109,false
+327,Female,false,false,false,13,Monthly,Airplane,false,Beach,false,true,Standard,false,false,false,Monthly,true,Credit Card,434,400,false
+328,Male,false,false,false,39,Monthly,Airplane,false,Beach,false,true,Standard,false,true,false,One-time,false,Bank Transfer,137,366,true
+329,Female,false,false,true,44,Weekly,Train,true,Beach,true,false,Budget,true,false,false,Yearly,false,Cash,425,468,false
+330,Female,true,false,false,32,Yearly,Car,true,Mountain,true,false,Luxury,true,true,false,Monthly,false,Bank Transfer,246,935,false
+331,Female,false,false,true,23,Monthly,Airplane,false,Mountain,false,false,Budget,true,true,false,Monthly,false,PayPal,245,360,false
+332,Male,true,false,false,20,Yearly,Train,true,City,true,false,Budget,true,false,true,One-time,true,Credit Card,384,827,true
+333,Male,false,false,false,44,Weekly,Airplane,true,Beach,true,true,Budget,true,true,true,One-time,false,PayPal,198,554,false
+334,Female,true,true,true,40,Yearly,Train,true,Beach,false,true,Standard,false,true,true,Yearly,false,PayPal,290,741,false
+335,Female,true,true,false,35,Weekly,Train,true,Mountain,true,false,Standard,true,true,false,Yearly,false,Bank Transfer,213,721,false
+336,Genderqueer,true,true,true,16,Yearly,Train,false,City,false,true,Budget,false,true,true,Monthly,false,Cash,266,603,true
+337,Female,true,true,false,24,Yearly,Train,false,Mountain,false,true,Budget,false,false,true,Monthly,true,PayPal,314,796,true
+338,Male,true,true,false,50,Monthly,Airplane,false,Mountain,false,false,Standard,true,true,false,Yearly,false,Bank Transfer,256,805,true
+339,Male,false,false,false,32,Weekly,Airplane,true,Beach,false,true,Standard,true,false,true,Monthly,false,PayPal,237,482,true
+340,Female,true,false,false,28,Weekly,Train,true,Mountain,true,true,Budget,false,true,true,Monthly,false,Credit Card,294,260,true
+341,Male,false,true,true,40,Weekly,Train,true,Beach,true,true,Budget,false,true,true,Monthly,true,Bank Transfer,422,903,false
+342,Male,true,false,false,32,Weekly,Train,false,Mountain,true,true,Luxury,true,false,true,One-time,false,Credit Card,375,180,true
+343,Male,true,false,true,12,Monthly,Train,false,Mountain,true,true,Luxury,true,true,true,Monthly,false,Credit Card,346,137,true
+344,Male,true,true,true,19,Yearly,Car,true,City,false,false,Budget,true,true,false,Yearly,true,Bank Transfer,210,692,false
+345,Female,false,true,false,43,Monthly,Train,false,Mountain,false,false,Luxury,false,false,true,Monthly,false,Bank Transfer,197,624,false
+346,Male,false,true,true,5,Weekly,Airplane,true,City,true,true,Budget,true,true,true,Monthly,true,Credit Card,112,277,true
+347,Female,true,false,true,25,Yearly,Airplane,true,City,true,false,Luxury,false,true,false,Yearly,false,PayPal,242,595,false
+348,Female,false,true,true,47,Yearly,Airplane,true,City,false,false,Budget,true,false,false,Monthly,true,Cash,371,804,true
+349,Male,true,true,true,33,Monthly,Car,true,City,true,true,Budget,true,true,true,One-time,true,Bank Transfer,264,176,false
+350,Male,false,false,true,48,Yearly,Train,true,Beach,false,true,Budget,true,false,false,Yearly,true,Bank Transfer,293,761,false
+351,Male,true,false,false,13,Monthly,Airplane,true,City,false,false,Budget,false,true,false,Monthly,true,PayPal,206,418,false
+352,Male,false,true,false,41,Monthly,Train,false,City,false,true,Luxury,false,false,false,Monthly,false,Credit Card,149,124,false
+353,Male,true,false,false,28,Monthly,Train,false,Beach,true,false,Luxury,false,false,true,Monthly,true,Credit Card,451,418,true
+354,Male,true,true,true,45,Weekly,Train,false,Mountain,false,true,Budget,false,true,false,One-time,false,PayPal,267,746,false
+355,Female,true,false,true,23,Yearly,Car,true,Mountain,true,true,Standard,false,true,true,Yearly,false,Credit Card,187,177,true
+356,Female,false,false,true,37,Monthly,Car,false,Mountain,true,true,Luxury,true,false,false,Monthly,false,PayPal,174,256,true
+357,Female,false,true,true,8,Monthly,Car,false,Mountain,true,true,Budget,false,false,false,Monthly,true,Cash,241,692,false
+358,Female,false,true,false,26,Weekly,Car,true,Mountain,false,false,Luxury,false,true,false,Yearly,false,Credit Card,266,886,true
+359,Male,false,true,false,4,Weekly,Train,true,City,false,true,Luxury,true,false,true,Monthly,true,Cash,286,926,true
+360,Male,false,false,false,50,Weekly,Car,true,Mountain,false,true,Standard,false,true,false,One-time,true,Bank Transfer,491,337,false
+361,Male,true,false,true,49,Monthly,Car,false,Beach,false,false,Luxury,false,false,false,Yearly,true,Cash,162,856,false
+362,Male,true,true,false,11,Monthly,Airplane,false,City,false,true,Luxury,true,true,true,One-time,true,Bank Transfer,151,367,false
+363,Female,true,false,true,38,Yearly,Train,true,Mountain,true,false,Budget,false,true,true,One-time,false,Bank Transfer,374,790,false
+364,Female,true,true,false,14,Yearly,Airplane,false,City,false,false,Luxury,false,true,true,Yearly,true,Bank Transfer,381,872,true
+365,Female,false,true,false,18,Yearly,Car,false,Beach,false,false,Budget,false,false,true,Yearly,true,Cash,417,345,true
+366,Male,false,true,false,38,Yearly,Car,false,Beach,true,false,Luxury,true,false,true,Yearly,true,PayPal,444,794,true
+367,Male,false,false,false,30,Weekly,Train,false,Beach,true,true,Standard,false,true,false,Yearly,false,PayPal,281,278,true
+368,Female,true,true,false,27,Weekly,Airplane,true,Beach,true,true,Luxury,true,true,false,One-time,false,Cash,228,417,true
+369,Female,true,false,true,43,Yearly,Train,true,Mountain,false,false,Luxury,false,true,false,Yearly,false,Cash,113,480,true
+370,Female,false,false,false,29,Yearly,Car,false,Mountain,true,true,Luxury,true,true,true,One-time,false,Bank Transfer,351,831,false
+371,Non-binary,true,false,true,50,Weekly,Airplane,false,Mountain,false,false,Budget,true,true,true,Monthly,true,Credit Card,218,122,true
+372,Female,true,true,true,37,Monthly,Car,false,Mountain,true,true,Luxury,true,false,false,Monthly,false,PayPal,484,928,false
+373,Bigender,false,true,true,8,Yearly,Train,true,City,true,true,Luxury,false,true,true,Monthly,true,Cash,477,594,false
+374,Female,false,true,true,23,Monthly,Car,false,Beach,true,false,Budget,true,true,true,One-time,false,Credit Card,320,897,false
+375,Male,true,false,false,21,Weekly,Train,true,Mountain,true,false,Standard,false,true,true,Monthly,false,Credit Card,182,105,true
+376,Male,false,false,true,49,Weekly,Airplane,true,Mountain,true,false,Luxury,false,false,true,Monthly,true,Bank Transfer,104,366,true
+377,Bigender,false,false,true,39,Yearly,Train,true,Mountain,false,true,Luxury,true,true,false,One-time,false,Bank Transfer,178,873,true
+378,Genderqueer,true,false,true,26,Weekly,Car,false,Beach,false,true,Budget,true,false,true,Monthly,true,Credit Card,251,539,true
+379,Male,false,true,true,35,Monthly,Airplane,true,Mountain,false,false,Standard,true,false,false,One-time,false,Cash,392,901,true
+380,Male,true,true,false,42,Monthly,Train,false,Mountain,true,true,Luxury,false,false,true,One-time,false,PayPal,188,315,true
+381,Female,true,true,true,25,Yearly,Airplane,false,City,true,false,Budget,true,true,true,Yearly,false,Credit Card,108,112,false
+382,Female,true,true,true,23,Monthly,Car,true,City,false,true,Luxury,false,true,true,One-time,true,PayPal,407,188,true
+383,Male,false,false,true,1,Yearly,Train,false,Mountain,true,true,Luxury,true,true,false,Monthly,false,Bank Transfer,274,298,true
+384,Male,true,false,true,46,Yearly,Train,false,Mountain,false,false,Luxury,true,true,true,Yearly,true,Credit Card,177,417,true
+385,Male,false,false,false,30,Weekly,Train,true,Mountain,false,true,Budget,true,false,false,One-time,false,Bank Transfer,357,761,false
+386,Male,true,false,false,13,Weekly,Car,false,City,false,false,Luxury,true,false,true,Yearly,true,Bank Transfer,423,639,false
+387,Female,false,true,true,27,Weekly,Airplane,false,City,true,true,Budget,false,false,false,Yearly,false,Bank Transfer,145,804,true
+388,Female,true,false,false,17,Yearly,Car,true,Beach,true,false,Budget,true,false,false,Monthly,true,PayPal,474,857,true
+389,Male,false,false,true,25,Yearly,Train,true,Beach,false,true,Standard,false,true,false,Yearly,false,Credit Card,347,942,true
+390,Female,true,false,false,46,Monthly,Car,false,Beach,false,true,Budget,false,true,true,Yearly,false,Bank Transfer,381,829,true
+391,Male,true,false,true,22,Monthly,Car,true,City,true,false,Budget,false,false,true,One-time,true,Cash,149,363,true
+392,Female,false,true,false,36,Weekly,Airplane,true,Beach,false,false,Luxury,true,false,false,One-time,true,PayPal,186,416,false
+393,Male,true,false,true,3,Weekly,Train,true,City,true,true,Luxury,false,true,false,Monthly,true,PayPal,149,355,false
+394,Female,false,false,true,36,Yearly,Car,true,Beach,true,true,Budget,false,true,false,One-time,true,Bank Transfer,323,282,false
+395,Female,false,false,false,38,Weekly,Car,true,Mountain,false,true,Budget,true,true,true,Monthly,true,PayPal,435,454,false
+396,Female,false,false,true,45,Yearly,Airplane,false,Beach,false,false,Luxury,true,false,false,Yearly,true,Credit Card,385,141,false
+397,Female,true,false,true,1,Yearly,Train,true,Mountain,true,false,Budget,true,false,true,Monthly,false,PayPal,239,348,true
+398,Female,true,true,false,7,Weekly,Car,true,City,true,false,Standard,true,false,true,Yearly,false,PayPal,283,861,false
+399,Male,true,false,true,25,Monthly,Train,true,City,false,true,Luxury,false,true,false,Yearly,false,Cash,401,351,true
+400,Male,true,true,true,8,Monthly,Train,true,Mountain,false,true,Budget,true,false,false,Yearly,true,Credit Card,311,561,false
+401,Male,false,false,false,20,Monthly,Airplane,false,City,false,false,Budget,true,false,true,Monthly,true,Credit Card,484,254,false
+402,Agender,false,false,true,3,Yearly,Car,false,City,false,true,Standard,true,true,false,Yearly,false,Credit Card,481,964,true
+403,Male,false,false,false,31,Weekly,Train,true,Mountain,true,false,Budget,true,true,true,Yearly,true,Bank Transfer,349,718,false
+404,Female,true,true,false,50,Weekly,Airplane,false,City,false,true,Budget,false,true,true,Yearly,false,Bank Transfer,386,716,false
+405,Female,true,false,true,44,Weekly,Car,false,Beach,true,false,Luxury,false,true,false,One-time,true,Cash,154,668,true
+406,Female,true,false,true,43,Monthly,Airplane,true,Mountain,true,true,Luxury,true,false,false,Yearly,true,Credit Card,221,437,false
+407,Female,false,false,true,37,Weekly,Airplane,true,Mountain,false,false,Budget,true,true,true,Yearly,false,PayPal,342,124,false
+408,Female,false,false,false,11,Monthly,Airplane,false,Mountain,false,false,Standard,false,true,false,Yearly,true,Bank Transfer,278,755,false
+409,Female,false,false,true,18,Weekly,Car,true,Mountain,false,false,Luxury,false,false,false,One-time,true,Credit Card,154,276,false
+410,Female,true,false,false,12,Monthly,Train,true,Mountain,true,false,Luxury,true,false,true,Monthly,false,PayPal,127,971,false
+411,Male,false,false,false,4,Monthly,Airplane,false,City,true,false,Budget,false,false,true,Yearly,true,PayPal,221,261,true
+412,Female,true,true,false,42,Yearly,Airplane,true,Beach,false,false,Standard,true,false,false,One-time,false,Cash,457,668,false
+413,Female,true,true,false,1,Yearly,Airplane,true,Mountain,true,true,Budget,true,true,false,One-time,true,Cash,470,891,false
+414,Female,true,true,false,31,Weekly,Car,true,Mountain,false,false,Budget,false,true,false,Monthly,false,PayPal,307,992,true
+415,Female,false,false,true,42,Weekly,Airplane,true,Mountain,false,true,Budget,false,false,true,One-time,false,Credit Card,355,165,true
+416,Non-binary,true,true,false,18,Weekly,Airplane,false,Beach,true,true,Budget,false,true,false,One-time,false,PayPal,262,111,false
+417,Female,true,true,false,8,Weekly,Airplane,false,Mountain,false,false,Budget,true,true,false,One-time,false,Bank Transfer,108,913,false
+418,Male,false,false,true,38,Monthly,Car,true,Beach,false,false,Budget,false,false,false,Yearly,false,Cash,288,520,true
+419,Female,true,false,false,12,Monthly,Car,true,Mountain,false,false,Standard,true,true,false,One-time,true,Bank Transfer,255,776,false
+420,Genderfluid,true,true,false,5,Yearly,Train,true,City,true,true,Budget,false,true,true,Monthly,true,PayPal,277,972,true
+421,Male,true,true,false,22,Weekly,Airplane,true,City,true,true,Standard,false,true,false,One-time,true,PayPal,255,712,false
+422,Male,false,true,true,38,Weekly,Train,false,Beach,true,false,Standard,true,false,true,Yearly,true,Bank Transfer,346,888,true
+423,Male,false,false,false,19,Monthly,Car,true,Beach,true,true,Luxury,true,false,true,Monthly,true,Credit Card,210,948,true
+424,Female,false,false,true,3,Yearly,Airplane,true,City,false,true,Standard,false,false,false,Yearly,false,PayPal,285,980,true
+425,Male,true,false,true,18,Monthly,Train,false,Mountain,true,false,Budget,true,false,true,One-time,true,Cash,401,325,true
+426,Male,true,false,true,9,Yearly,Train,true,Beach,false,false,Luxury,false,false,true,Yearly,false,Cash,281,483,false
+427,Female,true,false,false,20,Weekly,Car,true,City,false,true,Standard,false,true,true,Yearly,false,Bank Transfer,233,313,false
+428,Male,true,false,false,16,Monthly,Airplane,true,Beach,false,false,Standard,false,true,true,Monthly,false,Credit Card,383,852,true
+429,Male,false,false,true,20,Weekly,Car,false,Beach,true,false,Budget,true,false,false,One-time,true,PayPal,185,754,true
+430,Male,false,false,false,5,Weekly,Car,true,City,false,false,Standard,false,false,false,Yearly,false,Bank Transfer,284,728,false
+431,Polygender,true,false,false,50,Yearly,Car,true,Mountain,true,false,Budget,true,false,true,Yearly,false,Cash,135,835,false
+432,Female,false,false,true,21,Weekly,Car,false,City,false,true,Budget,true,false,false,One-time,false,Credit Card,260,288,true
+433,Polygender,false,false,false,36,Yearly,Train,false,City,true,false,Budget,false,false,true,One-time,true,Cash,295,932,true
+434,Male,false,false,true,30,Weekly,Airplane,false,City,false,false,Luxury,false,false,true,One-time,true,PayPal,254,703,true
+435,Male,false,false,false,44,Weekly,Train,false,Mountain,false,true,Luxury,false,true,true,Monthly,false,PayPal,228,578,false
+436,Male,true,false,true,14,Monthly,Airplane,false,Mountain,false,false,Luxury,true,true,false,Yearly,false,Bank Transfer,383,128,false
+437,Female,true,false,false,6,Monthly,Car,false,Mountain,true,true,Budget,false,false,true,Monthly,false,PayPal,225,780,true
+438,Female,true,false,false,29,Yearly,Train,true,City,false,true,Budget,true,false,true,Monthly,false,Bank Transfer,140,542,true
+439,Non-binary,true,true,false,44,Weekly,Airplane,true,Beach,false,false,Luxury,true,false,true,One-time,false,Bank Transfer,111,923,false
+440,Female,false,true,false,16,Yearly,Airplane,false,Beach,true,true,Luxury,true,true,true,Yearly,false,Bank Transfer,389,183,true
+441,Female,true,true,false,4,Weekly,Train,true,Mountain,true,true,Standard,false,true,true,One-time,false,Credit Card,236,917,false
+442,Female,true,true,true,16,Monthly,Train,true,City,false,false,Standard,true,false,true,Yearly,true,Bank Transfer,404,431,false
+443,Male,true,true,true,4,Yearly,Airplane,false,City,false,true,Budget,true,false,true,Monthly,false,PayPal,334,789,true
+444,Female,false,true,false,22,Yearly,Train,false,City,true,true,Luxury,false,true,false,One-time,false,Credit Card,485,534,true
+445,Female,true,false,true,8,Monthly,Train,false,City,false,false,Budget,false,false,true,One-time,true,Cash,432,627,false
+446,Female,false,false,false,38,Yearly,Train,false,Beach,false,true,Standard,true,false,false,Monthly,true,Cash,454,565,false
+447,Male,true,true,true,5,Monthly,Car,false,Mountain,false,true,Budget,true,false,false,Monthly,false,Bank Transfer,429,929,false
+448,Female,false,false,false,21,Weekly,Car,false,Beach,false,true,Budget,false,true,true,One-time,true,Cash,491,351,true
+449,Male,true,true,false,32,Weekly,Train,true,City,true,true,Budget,true,true,false,Yearly,false,Bank Transfer,162,802,false
+450,Female,true,true,true,37,Yearly,Airplane,false,Beach,false,true,Luxury,false,true,true,Yearly,false,Cash,422,917,true
+451,Female,false,false,true,48,Monthly,Airplane,true,City,false,true,Budget,false,true,true,Monthly,false,PayPal,314,843,true
+452,Female,true,false,false,31,Weekly,Car,false,City,false,false,Standard,true,true,false,Monthly,true,Cash,200,156,false
+453,Male,true,true,true,7,Monthly,Train,false,Beach,false,true,Standard,true,false,false,Monthly,false,Cash,121,919,false
+454,Female,true,false,false,2,Monthly,Car,true,Mountain,false,true,Luxury,true,true,true,Monthly,false,Bank Transfer,249,491,true
+455,Male,false,true,false,22,Monthly,Airplane,false,Mountain,true,true,Standard,true,false,false,Yearly,true,PayPal,259,726,true
+456,Female,true,true,false,37,Monthly,Airplane,true,City,true,true,Standard,false,true,false,Monthly,true,Bank Transfer,289,943,true
+457,Male,true,false,false,44,Weekly,Car,true,Mountain,false,false,Budget,true,true,false,One-time,false,Credit Card,124,531,false
+458,Male,false,true,true,14,Monthly,Train,false,Beach,true,false,Budget,false,true,false,Monthly,true,Bank Transfer,109,916,true
+459,Male,true,false,false,39,Weekly,Airplane,true,City,false,true,Standard,true,false,false,Monthly,false,PayPal,476,112,false
+460,Female,true,true,false,10,Weekly,Car,false,Beach,true,false,Standard,true,false,true,Monthly,false,PayPal,378,605,true
+461,Male,true,true,false,14,Monthly,Car,false,Mountain,false,false,Luxury,true,false,true,One-time,false,Cash,331,741,true
+462,Genderfluid,true,true,false,25,Yearly,Car,false,Beach,true,true,Standard,true,true,true,One-time,false,Cash,316,898,false
+463,Non-binary,false,true,false,33,Weekly,Car,true,Mountain,false,true,Budget,false,false,false,Monthly,false,Bank Transfer,188,776,false
+464,Female,false,false,false,34,Monthly,Airplane,false,City,true,false,Standard,false,false,true,Monthly,false,PayPal,241,865,true
+465,Female,false,false,true,25,Weekly,Airplane,true,Mountain,false,true,Budget,false,true,true,Yearly,true,Bank Transfer,450,126,false
+466,Male,false,false,false,20,Yearly,Train,false,City,true,false,Budget,true,true,true,Monthly,true,Credit Card,291,890,true
+467,Male,true,false,false,14,Weekly,Train,true,Beach,true,false,Standard,false,false,false,Monthly,true,Credit Card,197,914,false
+468,Female,false,true,true,23,Yearly,Train,true,City,false,false,Standard,true,true,false,Monthly,true,Bank Transfer,336,494,true
+469,Genderqueer,false,true,true,32,Monthly,Car,true,Beach,true,true,Budget,true,true,true,Yearly,false,Cash,189,274,true
+470,Non-binary,true,false,false,23,Weekly,Airplane,true,City,true,false,Standard,false,false,true,One-time,false,PayPal,222,316,false
+471,Male,false,false,true,50,Weekly,Airplane,false,Beach,true,false,Standard,true,true,true,One-time,false,Bank Transfer,124,625,false
+472,Male,false,true,true,23,Weekly,Car,false,Beach,false,false,Standard,true,true,false,One-time,false,Cash,122,776,true
+473,Female,true,false,true,24,Monthly,Airplane,true,Beach,false,true,Standard,true,true,false,Monthly,true,Credit Card,458,753,false
+474,Genderqueer,true,true,true,24,Yearly,Airplane,false,Beach,true,true,Standard,false,false,true,Yearly,true,Credit Card,398,861,false
+475,Female,false,false,false,14,Monthly,Airplane,true,Beach,true,true,Luxury,false,false,true,Monthly,true,PayPal,157,459,false
+476,Female,false,true,true,30,Monthly,Airplane,true,Beach,true,true,Luxury,true,true,false,Yearly,false,Cash,402,308,true
+477,Female,false,true,true,1,Monthly,Airplane,true,Mountain,false,true,Luxury,true,true,false,Monthly,true,Credit Card,417,912,true
+478,Male,false,false,false,6,Weekly,Train,false,Beach,true,false,Budget,true,true,true,One-time,true,Credit Card,263,551,true
+479,Male,true,true,true,45,Yearly,Train,true,City,true,true,Budget,true,false,true,Monthly,false,Credit Card,254,731,true
+480,Male,true,true,false,42,Monthly,Train,true,City,true,false,Budget,true,false,true,Yearly,true,Bank Transfer,310,386,true
+481,Female,true,false,true,48,Weekly,Airplane,false,City,false,false,Luxury,false,false,false,Yearly,false,Bank Transfer,269,727,false
+482,Male,true,false,false,3,Yearly,Train,false,Mountain,true,true,Budget,false,false,false,Yearly,false,PayPal,276,440,true
+483,Male,true,true,true,17,Yearly,Train,true,Mountain,true,true,Standard,true,false,true,One-time,false,Credit Card,176,618,false
+484,Bigender,false,false,true,15,Monthly,Train,false,Beach,false,false,Budget,false,false,false,Yearly,false,Bank Transfer,324,612,false
+485,Male,true,true,true,7,Monthly,Train,true,Mountain,false,true,Budget,true,false,true,One-time,false,Credit Card,118,252,true
+486,Female,true,true,true,37,Weekly,Train,false,Mountain,false,true,Luxury,true,false,false,One-time,false,PayPal,312,761,true
+487,Male,false,true,false,13,Monthly,Car,false,City,true,false,Standard,false,true,true,One-time,false,Credit Card,290,273,true
+488,Female,true,false,true,8,Yearly,Train,false,Beach,false,false,Luxury,true,false,true,Monthly,true,Bank Transfer,129,598,false
+489,Male,false,false,false,45,Monthly,Train,false,Mountain,true,false,Standard,true,false,false,One-time,true,Credit Card,314,803,false
+490,Male,true,false,false,19,Monthly,Airplane,true,Mountain,false,false,Luxury,true,false,false,Yearly,true,PayPal,253,265,true
+491,Female,true,true,false,35,Monthly,Car,false,Mountain,false,false,Luxury,false,false,false,Yearly,true,Cash,411,231,true
+492,Male,true,false,false,26,Monthly,Airplane,true,City,false,true,Standard,true,false,true,Yearly,false,Cash,378,373,false
+493,Female,true,true,true,25,Yearly,Car,true,City,false,false,Standard,true,true,false,One-time,true,Credit Card,129,772,false
+494,Non-binary,true,true,false,20,Monthly,Train,false,Beach,true,false,Luxury,true,true,false,Yearly,false,PayPal,412,640,false
+495,Male,true,true,true,37,Weekly,Airplane,true,Beach,false,true,Luxury,false,false,true,One-time,true,Credit Card,404,966,true
+496,Female,true,false,false,22,Weekly,Airplane,true,Mountain,true,false,Budget,true,false,false,Yearly,true,Cash,413,597,false
+497,Female,false,false,false,20,Weekly,Car,false,City,true,false,Luxury,false,true,true,One-time,false,Cash,396,747,false
+498,Male,true,true,false,50,Yearly,Car,true,Mountain,false,true,Standard,true,false,true,One-time,true,Cash,166,205,true
+499,Male,false,true,true,29,Yearly,Train,true,Beach,false,false,Luxury,false,false,false,Yearly,true,PayPal,457,877,false
+500,Male,false,false,false,46,Monthly,Train,true,City,true,false,Budget,false,false,true,Yearly,true,PayPal,419,812,true
+501,Female,true,true,true,15,Yearly,Train,false,Beach,true,false,Standard,false,true,true,Monthly,false,Credit Card,189,636,false
+502,Male,true,true,true,26,Yearly,Airplane,false,City,false,true,Budget,false,false,false,Yearly,false,Credit Card,232,880,true
+503,Male,true,false,true,44,Monthly,Train,true,Mountain,true,true,Budget,true,false,true,One-time,true,Cash,424,629,true
+504,Male,false,false,false,20,Yearly,Airplane,true,City,true,false,Standard,false,false,true,One-time,false,PayPal,175,913,true
+505,Genderfluid,true,true,true,20,Yearly,Car,true,City,false,true,Budget,true,false,false,Yearly,false,Cash,489,625,false
+506,Genderfluid,true,false,true,23,Yearly,Car,true,City,true,false,Luxury,true,false,false,One-time,true,Bank Transfer,355,381,true
+507,Female,false,true,true,40,Yearly,Car,false,Beach,false,true,Standard,true,false,false,Yearly,false,Cash,313,117,true
+508,Male,false,true,true,42,Weekly,Car,false,Mountain,false,false,Luxury,true,false,false,Monthly,false,Credit Card,265,939,true
+509,Female,false,true,true,7,Monthly,Train,true,City,false,false,Budget,true,false,true,Yearly,true,Bank Transfer,457,760,false
+510,Polygender,false,true,false,19,Weekly,Airplane,true,Beach,false,true,Luxury,false,true,true,Yearly,false,Cash,500,865,false
+511,Male,true,false,false,46,Weekly,Car,false,Beach,true,true,Standard,true,false,false,Yearly,true,Credit Card,429,238,true
+512,Male,true,false,false,23,Monthly,Train,true,City,false,false,Standard,false,true,false,Yearly,false,PayPal,298,319,false
+513,Male,true,true,true,49,Weekly,Airplane,true,Mountain,false,false,Standard,false,true,true,Monthly,true,Bank Transfer,114,208,true
+514,Male,false,false,false,1,Yearly,Car,false,Mountain,false,true,Luxury,true,true,false,Yearly,true,Credit Card,321,434,false
+515,Female,true,false,false,42,Yearly,Car,true,Mountain,false,false,Luxury,false,false,true,Monthly,true,Cash,340,245,false
+516,Non-binary,true,false,false,10,Yearly,Train,false,Beach,false,true,Standard,true,true,false,One-time,true,PayPal,358,563,false
+517,Female,true,false,false,11,Yearly,Airplane,true,Beach,false,false,Standard,true,true,false,Yearly,false,Cash,187,820,true
+518,Female,true,true,true,41,Monthly,Airplane,false,City,true,false,Luxury,true,false,false,Monthly,false,Cash,157,857,false
+519,Male,true,true,false,26,Yearly,Airplane,false,Beach,true,true,Standard,false,false,true,Monthly,false,Credit Card,181,517,true
+520,Female,true,true,false,30,Weekly,Car,false,Beach,false,true,Budget,false,true,false,Yearly,true,PayPal,267,662,false
+521,Female,true,true,false,21,Yearly,Airplane,false,Mountain,false,true,Budget,false,false,true,Monthly,true,Cash,212,275,false
+522,Female,true,true,true,6,Weekly,Car,false,City,false,true,Luxury,false,true,false,One-time,false,Cash,203,544,false
+523,Male,false,true,false,18,Yearly,Airplane,true,City,false,false,Luxury,false,false,false,One-time,true,PayPal,149,198,false
+524,Male,false,false,false,32,Yearly,Airplane,false,City,false,false,Luxury,true,true,false,One-time,false,Bank Transfer,419,419,false
+525,Female,true,true,true,3,Monthly,Car,false,Beach,true,false,Budget,true,true,false,Yearly,false,Bank Transfer,330,115,false
+526,Male,false,true,true,38,Weekly,Train,false,Mountain,true,true,Budget,true,false,true,Yearly,false,Credit Card,376,463,true
+527,Male,true,false,true,43,Monthly,Train,false,City,false,true,Standard,false,true,false,Monthly,true,Bank Transfer,101,925,true
+528,Bigender,true,false,false,8,Weekly,Airplane,true,Mountain,true,false,Luxury,false,true,false,Yearly,true,PayPal,377,827,false
+529,Male,true,true,false,24,Monthly,Train,false,City,false,true,Standard,false,false,false,Yearly,false,PayPal,113,321,false
+530,Female,false,true,true,43,Yearly,Car,true,Beach,true,true,Budget,true,true,true,Monthly,true,Cash,414,448,false
+531,Male,false,true,false,21,Yearly,Train,true,Beach,false,false,Budget,false,true,false,Monthly,false,Bank Transfer,471,222,true
+532,Female,false,false,true,21,Yearly,Airplane,false,Beach,false,false,Budget,true,true,true,One-time,false,Credit Card,195,953,false
+533,Female,false,true,true,28,Weekly,Airplane,false,City,false,false,Budget,true,false,true,One-time,true,Cash,457,976,true
+534,Female,false,false,true,34,Monthly,Car,false,Mountain,true,true,Budget,false,false,true,Yearly,true,Bank Transfer,125,516,false
+535,Female,false,false,false,28,Monthly,Train,false,City,true,false,Budget,false,false,false,Yearly,false,PayPal,405,443,false
+536,Female,false,true,true,27,Monthly,Airplane,true,Beach,true,false,Luxury,true,true,true,One-time,true,Credit Card,153,664,false
+537,Male,true,false,true,21,Yearly,Car,false,City,false,false,Standard,false,false,true,One-time,false,Bank Transfer,177,600,true
+538,Male,false,false,true,48,Yearly,Airplane,true,Beach,true,true,Budget,true,true,true,Monthly,false,Bank Transfer,290,646,false
+539,Male,false,false,false,22,Yearly,Car,true,Beach,true,true,Budget,false,false,true,Yearly,false,PayPal,484,426,false
+540,Male,true,true,true,21,Yearly,Airplane,true,Mountain,true,false,Luxury,true,true,true,Yearly,false,PayPal,453,890,true
+541,Female,true,false,true,13,Weekly,Train,false,Beach,true,true,Standard,false,true,false,One-time,true,Credit Card,112,340,false
+542,Male,true,true,true,20,Weekly,Train,false,Beach,true,false,Budget,true,true,true,Monthly,false,Bank Transfer,167,700,true
+543,Male,false,true,false,20,Monthly,Airplane,false,Beach,true,true,Luxury,true,false,true,Monthly,true,Cash,101,944,true
+544,Male,true,true,true,26,Monthly,Airplane,false,City,true,false,Budget,false,true,true,Monthly,false,Credit Card,197,318,true
+545,Male,false,true,false,47,Yearly,Airplane,true,City,true,true,Luxury,false,true,true,One-time,false,Cash,388,737,false
+546,Female,true,true,true,17,Weekly,Train,true,Beach,false,true,Budget,true,true,false,Yearly,false,PayPal,198,303,false
+547,Female,true,true,true,46,Weekly,Airplane,false,City,false,true,Budget,false,true,true,One-time,false,Bank Transfer,347,947,false
+548,Female,false,true,true,21,Yearly,Car,true,Beach,true,false,Luxury,true,true,false,Yearly,false,PayPal,455,867,false
+549,Male,false,true,true,26,Yearly,Airplane,false,Mountain,true,true,Standard,true,false,false,Yearly,true,Credit Card,173,160,true
+550,Female,false,false,true,49,Weekly,Car,true,City,true,false,Budget,true,false,false,Monthly,false,Credit Card,409,202,true
+551,Male,true,true,true,32,Monthly,Train,false,Beach,true,false,Luxury,true,false,true,Monthly,true,PayPal,316,760,true
+552,Female,true,true,false,2,Monthly,Airplane,true,Mountain,false,true,Standard,true,true,true,Monthly,true,Bank Transfer,314,217,true
+553,Female,false,false,true,29,Monthly,Train,false,Beach,true,true,Budget,false,true,true,Yearly,true,Credit Card,279,589,true
+554,Male,true,false,true,13,Monthly,Train,true,Beach,false,false,Standard,true,true,false,Monthly,true,PayPal,407,214,false
+555,Agender,true,false,true,32,Weekly,Train,true,Mountain,false,true,Standard,true,false,false,Monthly,false,Cash,159,922,false
+556,Female,true,true,false,18,Yearly,Airplane,false,Mountain,true,true,Budget,false,true,true,Yearly,false,PayPal,355,631,false
+557,Female,false,false,false,40,Yearly,Airplane,true,Beach,false,true,Standard,true,false,false,Monthly,false,Cash,371,430,true
+558,Female,false,false,true,10,Monthly,Airplane,true,City,true,false,Luxury,true,false,false,Monthly,true,PayPal,488,696,true
+559,Female,false,true,true,44,Weekly,Train,true,Mountain,true,true,Luxury,true,false,false,One-time,false,Cash,385,153,true
+560,Male,true,true,false,10,Monthly,Airplane,true,City,true,true,Standard,false,true,false,Monthly,false,Credit Card,422,643,false
+561,Male,false,true,false,36,Yearly,Car,true,City,true,true,Budget,false,false,true,Yearly,false,Bank Transfer,129,679,true
+562,Female,false,true,true,13,Yearly,Train,false,Mountain,false,false,Luxury,true,false,false,Monthly,false,Cash,104,844,true
+563,Bigender,false,false,false,19,Weekly,Train,false,Beach,true,true,Luxury,false,true,false,One-time,true,PayPal,251,629,true
+564,Male,false,true,true,9,Monthly,Train,true,Mountain,false,true,Budget,true,true,false,Monthly,true,Bank Transfer,274,673,true
+565,Female,false,false,true,48,Yearly,Car,true,Beach,true,true,Budget,true,true,true,Yearly,true,Credit Card,237,459,true
+566,Female,true,true,true,20,Weekly,Train,false,Mountain,false,false,Budget,false,true,true,Yearly,false,Credit Card,308,557,false
+567,Male,true,false,true,37,Yearly,Car,false,City,true,true,Budget,true,false,false,One-time,true,PayPal,229,141,false
+568,Male,true,true,false,16,Weekly,Train,true,Mountain,true,true,Luxury,true,true,false,One-time,false,PayPal,255,367,true
+569,Bigender,true,false,false,40,Monthly,Car,false,City,true,true,Luxury,false,true,false,Monthly,true,Credit Card,295,930,false
+570,Genderqueer,true,false,false,25,Weekly,Car,true,City,true,false,Luxury,true,false,true,One-time,true,Credit Card,255,434,false
+571,Male,false,true,true,36,Weekly,Airplane,false,Mountain,true,false,Budget,false,false,true,Yearly,true,Bank Transfer,301,372,false
+572,Female,false,true,false,45,Weekly,Car,false,City,false,false,Standard,true,false,false,One-time,false,PayPal,105,483,true
+573,Male,false,false,true,7,Weekly,Airplane,false,Mountain,false,false,Luxury,false,true,false,One-time,true,Bank Transfer,331,270,true
+574,Male,true,true,true,44,Monthly,Airplane,false,Mountain,true,true,Budget,true,true,false,Monthly,false,Credit Card,298,661,true
+575,Male,true,false,true,5,Weekly,Airplane,true,City,true,false,Budget,true,true,false,Monthly,false,Cash,435,610,true
+576,Male,true,true,true,18,Monthly,Train,true,Beach,true,false,Luxury,false,false,false,Yearly,false,Cash,346,461,true
+577,Male,false,true,false,33,Yearly,Car,true,Beach,true,true,Standard,true,true,true,Monthly,false,Bank Transfer,408,522,true
+578,Male,true,false,false,14,Weekly,Airplane,true,Beach,false,false,Luxury,false,false,true,Yearly,false,Credit Card,456,912,false
+579,Male,false,false,false,45,Monthly,Airplane,true,Mountain,true,true,Luxury,true,false,true,Yearly,true,Bank Transfer,108,339,true
+580,Female,true,true,false,5,Monthly,Car,true,Mountain,true,true,Luxury,true,true,false,Yearly,false,Credit Card,202,911,true
+581,Female,true,true,false,1,Monthly,Car,false,Beach,false,true,Standard,false,true,false,One-time,true,PayPal,129,286,true
+582,Male,false,false,true,15,Weekly,Airplane,true,Mountain,false,false,Budget,false,false,false,One-time,true,PayPal,244,700,false
+583,Female,true,false,true,28,Monthly,Airplane,false,Beach,false,false,Budget,false,true,true,Yearly,true,Cash,303,968,true
+584,Male,false,false,true,20,Weekly,Airplane,false,City,true,true,Luxury,false,true,false,Yearly,false,Cash,286,736,true
+585,Male,false,true,true,2,Monthly,Car,true,Mountain,true,true,Luxury,true,true,true,Monthly,true,Cash,183,877,true
+586,Male,true,true,false,20,Weekly,Airplane,false,Mountain,false,true,Standard,true,true,false,Yearly,false,Cash,464,898,true
+587,Genderqueer,false,false,false,25,Yearly,Airplane,false,Mountain,false,false,Luxury,false,true,false,Yearly,false,Credit Card,229,183,false
+588,Male,true,false,false,35,Yearly,Airplane,false,Mountain,true,true,Standard,false,false,true,Monthly,false,PayPal,445,948,true
+589,Female,true,false,true,30,Monthly,Car,false,City,true,true,Budget,true,true,true,Yearly,true,Credit Card,179,949,true
+590,Female,false,false,true,29,Yearly,Train,false,City,false,false,Luxury,true,false,false,Monthly,false,Cash,325,294,false
+591,Female,true,true,false,1,Yearly,Train,true,City,true,false,Standard,false,true,true,Monthly,false,Credit Card,195,760,false
+592,Male,true,false,false,14,Yearly,Train,true,Beach,true,false,Luxury,true,true,true,Monthly,true,Bank Transfer,116,357,true
+593,Female,false,true,true,40,Yearly,Train,false,City,true,true,Luxury,true,false,true,Yearly,true,Bank Transfer,359,854,true
+594,Female,true,false,true,10,Yearly,Airplane,false,City,true,false,Standard,false,false,false,Yearly,false,Cash,314,475,false
+595,Female,true,true,true,13,Monthly,Train,false,Beach,true,true,Luxury,true,true,true,Monthly,false,Cash,390,404,true
+596,Male,false,true,false,19,Yearly,Airplane,true,City,false,false,Luxury,false,true,false,Monthly,true,Bank Transfer,336,402,false
+597,Agender,false,true,false,7,Monthly,Car,true,Mountain,false,true,Budget,true,false,false,One-time,true,Bank Transfer,198,563,true
+598,Female,true,true,true,10,Weekly,Airplane,false,City,false,false,Budget,false,false,true,Yearly,true,Cash,201,369,false
+599,Male,false,true,false,32,Yearly,Airplane,false,Mountain,false,true,Budget,true,true,true,Yearly,false,PayPal,496,240,false
+600,Male,true,true,false,24,Yearly,Car,true,Beach,false,true,Luxury,true,true,false,One-time,true,Cash,200,730,true
