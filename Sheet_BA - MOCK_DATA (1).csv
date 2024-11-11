@@ -1,0 +1,501 @@
+customer_id,status_customer,income_customer,vocation_package,total_spend,origin_city
+1,Married,"$7,268,359",basic,"$39,469,014",Binlod
+2,Unmarried,"$31,556,113",basic,"$8,165,719",Oratorio
+3,Married,"$7,786,388",deluxe,"$44,220,524",Esperanza
+4,Unmarried,"$32,991,659",basic,"$6,859,033",Bonanza
+5,Unmarried,"$43,324,901",deluxe,"$39,778,586",Shingū
+6,Unmarried,"$42,445,019",deluxe,"$2,954,678",Buyant
+7,Married,"$41,839,586",basic,"$6,242,448",Jaguarão
+8,Unmarried,"$16,812,660",deluxe,"$24,593,099",Lishui
+9,Unmarried,"$29,226,019",premium,"$36,099,100",Caopie
+10,Unmarried,"$49,044,989",premium,"$11,374,784",Peer
+11,Married,"$36,098,852",basic,"$7,966,212",Quivilla
+12,Unmarried,"$7,130,738",premium,"$32,233,745",Bolinao
+13,Unmarried,"$24,877,835",basic,"$48,840,669",Palestina
+14,Married,"$29,302,864",basic,"$40,199,409",Węgliniec
+15,Married,"$47,335,038",basic,"$33,335,866",Muramatsu
+16,Unmarried,"$48,310,974",premium,"$27,687,926",Detupia
+17,Unmarried,"$33,196,356",premium,"$17,330,391",Suponevo
+18,Unmarried,"$45,167,717",basic,"$24,924,744",Krasnyy Profintern
+19,Married,"$24,510,584",basic,"$28,372,626",La Paz
+20,Unmarried,"$3,270,760",deluxe,"$30,859,046",Karangboyo
+21,Married,"$12,151,080",premium,"$12,956,214",Seshcha
+22,Married,"$30,535,157",basic,"$39,904,590",Santa Cruz
+23,Unmarried,"$36,676,199",premium,"$18,733,377",Vysoké nad Jizerou
+24,Married,"$24,147,008",basic,"$26,664,653",Motala
+25,Married,"$31,174,391",basic,"$48,614,985",Makar’yev
+26,Unmarried,"$21,494,687",basic,"$33,582,432",Nàng Mau
+27,Unmarried,"$26,800,516",premium,"$10,938,954",Wairinding
+28,Unmarried,"$20,563,664",premium,"$45,324,516",Despotovac
+29,Unmarried,"$33,675,446",premium,"$17,840,474",Chebba
+30,Unmarried,"$34,682,442",basic,"$15,533,081",Al Jumaylīyah
+31,Married,"$43,253,761",basic,"$27,698,194",Pirapozinho
+32,Unmarried,"$38,028,916",premium,"$24,040,574",Białobrzegi
+33,Married,"$24,920,932",deluxe,"$36,905,500",Heilongkou
+34,Unmarried,"$46,625,349",deluxe,"$33,589,633",Xiejiaya
+35,Married,"$8,737,935",premium,"$8,631,184",Meixi
+36,Married,"$36,861,654",premium,"$47,341,227",Seattle
+37,Unmarried,"$9,320,448",premium,"$20,416,991",Palma De Mallorca
+38,Married,"$22,834,606",basic,"$3,908,750",Gyangkar
+39,Unmarried,"$9,897,524",premium,"$35,565,382",Várzea de Sintra
+40,Married,"$35,759,328",premium,"$4,478,088",Pateros
+41,Married,"$3,182,383",basic,"$6,558,182",Nanterre
+42,Unmarried,"$18,226,384",deluxe,"$4,379,953",Santa Catalina
+43,Married,"$2,910,257",basic,"$44,124,593",Vale das Mós
+44,Married,"$15,628,889",deluxe,"$25,798,734",Altunemil
+45,Married,"$35,552,436",premium,"$44,898,485",Norrköping
+46,Married,"$2,777,074",basic,"$45,727,789",Xiaozhoushan
+47,Unmarried,"$28,592,680",basic,"$27,616,675",Libacao
+48,Unmarried,"$25,299,221",premium,"$22,496,690",Pitangui
+49,Unmarried,"$43,773,179",basic,"$49,670,954",Qiankou
+50,Unmarried,"$19,928,452",deluxe,"$19,613,138",Fonte de Angeão
+51,Married,"$44,096,532",premium,"$48,976,731",Valbonë
+52,Married,"$37,589,112",basic,"$49,474,172",Quimbaya
+53,Unmarried,"$48,002,087",deluxe,"$37,758,916",Chat Trakan
+54,Unmarried,"$8,976,064",basic,"$12,611,523",Gostyń
+55,Unmarried,"$33,535,262",deluxe,"$28,697,370",Mae Sot
+56,Married,"$24,080,833",premium,"$22,866,950",Dhanot
+57,Married,"$10,414,883",basic,"$17,300,108",Okhotsk
+58,Married,"$18,912,608",deluxe,"$42,746,031",Wanagiri
+59,Unmarried,"$34,301,530",premium,"$7,533,447",Arvidsjaur
+60,Married,"$4,681,553",basic,"$27,164,352",Garnich
+61,Married,"$12,933,651",premium,"$41,730,687",Chapultepec
+62,Married,"$28,322,809",premium,"$5,832,714",Chiquimulilla
+63,Married,"$13,989,478",premium,"$48,690,299",Owode
+64,Married,"$30,101,827",premium,"$8,858,328",Benito Juarez
+65,Unmarried,"$22,133,786",deluxe,"$29,875,203",Fuwen
+66,Unmarried,"$37,199,296",deluxe,"$1,602,777",Vojnić
+67,Married,"$31,413,107",deluxe,"$40,439,981",Yemva
+68,Married,"$9,603,298",deluxe,"$14,182,446",Linqu
+69,Married,"$27,432,645",premium,"$34,298,853",Siukh
+70,Married,"$27,564,601",basic,"$46,342,181",Kelowna
+71,Unmarried,"$24,536,302",deluxe,"$3,928,514",Chartres
+72,Married,"$47,244,315",basic,"$23,944,257",Nasilava
+73,Married,"$37,623,931",premium,"$47,447,368",Za‘tarah
+74,Unmarried,"$21,478,511",basic,"$10,136,523",Mehendiganj
+75,Married,"$7,574,407",deluxe,"$28,901,391",Karapyshi
+76,Unmarried,"$44,813,856",basic,"$19,553,129",Pyu
+77,Married,"$32,279,283",premium,"$17,046,612",Horki
+78,Married,"$26,766,749",deluxe,"$34,139,274",Kertamukti
+79,Unmarried,"$38,946,193",deluxe,"$35,135,368",Bamban
+80,Married,"$19,114,240",deluxe,"$41,840,310",Pingshan
+81,Unmarried,"$38,156,522",deluxe,"$2,536,422",Jönköping
+82,Married,"$33,267,627",deluxe,"$22,824,062",Otun
+83,Married,"$44,403,172",basic,"$30,484,704",Ledenice
+84,Married,"$11,373,019",basic,"$39,477,922",Cliza
+85,Unmarried,"$4,394,504",deluxe,"$21,029,893",Enköping
+86,Married,"$46,091,266",deluxe,"$12,124,046",Sambongmulyo
+87,Unmarried,"$23,425,267",deluxe,"$21,813,253",Shënmëri
+88,Married,"$20,079,539",basic,"$5,412,029",Mabu
+89,Unmarried,"$30,291,084",premium,"$9,735,241",Ţammūn
+90,Married,"$32,927,091",premium,"$22,970,852",Ранковце
+91,Unmarried,"$44,765,975",basic,"$29,762,209",Monywa
+92,Unmarried,"$44,487,746",basic,"$45,379,479",Belz
+93,Married,"$2,470,801",basic,"$44,678,494",Koanara
+94,Married,"$41,872,404",basic,"$47,675,093",Sukadana Selatan
+95,Married,"$19,207,350",deluxe,"$17,353,707",Itatskiy
+96,Married,"$40,220,528",premium,"$33,074,848",Jiangcun
+97,Married,"$12,231,859",premium,"$24,347,674",San Carlos
+98,Married,"$1,275,918",premium,"$17,064,871",Soweto
+99,Married,"$48,809,001",basic,"$20,036,851",La Victoria
+100,Unmarried,"$19,575,361",premium,"$32,448,145",Dongfanghong
+101,Married,"$37,116,305",basic,"$47,334,784",Peredovaya
+102,Unmarried,"$19,569,137",basic,"$41,006,692",Elbasan
+103,Unmarried,"$21,417,339",premium,"$35,948,945",Cuenca
+104,Unmarried,"$45,014,806",premium,"$23,552,185",Patenongan
+105,Married,"$9,433,823",premium,"$36,869,876",Kutasari
+106,Unmarried,"$40,623,643",premium,"$21,390,471",Shaxi
+107,Unmarried,"$30,339,276",premium,"$43,866,327",Postřelmov
+108,Married,"$25,517,101",deluxe,"$45,918,208",Leloboko
+109,Married,"$28,538,719",deluxe,"$31,593,437",Kamuli
+110,Unmarried,"$2,998,455",deluxe,"$41,797,252",Klek
+111,Unmarried,"$18,877,738",premium,"$32,586,931",Gupakan
+112,Unmarried,"$49,409,582",premium,"$24,990,756",North Shore
+113,Unmarried,"$1,453,201",deluxe,"$39,982,397",Hoboksar
+114,Unmarried,"$2,475,929",deluxe,"$32,058,477",Cova da Iria
+115,Married,"$31,865,496",basic,"$26,511,006",Youyun
+116,Unmarried,"$45,801,122",premium,"$31,276,201",El Viejo
+117,Unmarried,"$27,581,833",deluxe,"$18,226,364",Hellevoetsluis
+118,Unmarried,"$6,228,499",deluxe,"$3,254,674",Svetlanovskiy
+119,Married,"$47,844,787",basic,"$15,066,907",Quiaios
+120,Unmarried,"$16,654,002",deluxe,"$25,802,979",Dagohoy
+121,Married,"$28,284,625",deluxe,"$2,703,479",Villanueva
+122,Married,"$41,923,372",basic,"$26,894,973",Parkent
+123,Married,"$25,515,671",premium,"$18,935,892",Brodnica
+124,Married,"$36,545,479",basic,"$19,397,723",Pictou
+125,Married,"$7,879,500",basic,"$2,591,288",San Mariano
+126,Married,"$12,941,602",premium,"$44,568,590",Salinas
+127,Married,"$13,259,344",deluxe,"$40,821,352",Pombal
+128,Married,"$33,228,185",premium,"$32,653,392",Konstantynów
+129,Married,"$17,874,127",basic,"$13,776,449",Conceição da Barra
+130,Unmarried,"$20,119,930",premium,"$40,007,416",Tomohon
+131,Unmarried,"$48,272,934",deluxe,"$48,785,805",Lazaro Cardenas
+132,Unmarried,"$48,412,289",premium,"$15,410,049",Beiwucha
+133,Unmarried,"$15,381,813",basic,"$18,066,059",Henglan
+134,Unmarried,"$28,417,130",basic,"$41,389,365",Yanglinqiao
+135,Unmarried,"$5,320,032",deluxe,"$35,210,830",Tegalgunung
+136,Married,"$36,085,724",basic,"$49,724,971",Kaoma
+137,Unmarried,"$21,539,895",deluxe,"$47,211,601",Kirgili
+138,Married,"$36,429,849",basic,"$36,336,063",Nanjie
+139,Married,"$42,798,407",basic,"$34,770,434",Solomenskoye
+140,Unmarried,"$19,948,675",deluxe,"$13,608,471",Dobri Dol
+141,Unmarried,"$25,801,565",premium,"$41,145,092",Sabinópolis
+142,Married,"$24,832,546",deluxe,"$12,720,156",Masohi
+143,Unmarried,"$5,096,361",deluxe,"$37,798,908",Santa Gertrudes
+144,Unmarried,"$38,589,150",basic,"$1,768,336",Toužim
+145,Married,"$18,972,520",premium,"$27,365,209",Lebak Timur
+146,Married,"$30,321,758",deluxe,"$8,184,742",Sagasa
+147,Unmarried,"$19,212,279",basic,"$33,802,599",Shikou
+148,Married,"$10,463,982",premium,"$29,137,070",Al Fuwayliq
+149,Unmarried,"$12,157,409",deluxe,"$38,129,379",Sosnovyy Bor
+150,Married,"$8,537,196",premium,"$30,363,799",Jinzao
+151,Unmarried,"$21,586,993",premium,"$10,363,937",Sandakan
+152,Unmarried,"$44,638,317",deluxe,"$15,876,740",Libertador General San Martín
+153,Unmarried,"$4,527,146",deluxe,"$7,678,795",Iraquara
+154,Married,"$17,487,622",premium,"$39,509,233",Shahbā
+155,Married,"$2,183,265",premium,"$23,902,165",Rosebank
+156,Unmarried,"$5,455,548",basic,"$7,957,188",Shantou
+157,Unmarried,"$9,353,273",premium,"$46,905,710",Ustyuzhna
+158,Married,"$36,949,535",basic,"$12,956,409",Ciherang
+159,Married,"$41,133,531",premium,"$8,819,306",Hankazi
+160,Married,"$20,764,098",basic,"$40,913,537",Naguanagua
+161,Unmarried,"$27,642,337",premium,"$22,630,023",Kamárai
+162,Unmarried,"$9,962,943",basic,"$42,731,780",Ribeirópolis
+163,Married,"$43,126,117",premium,"$49,865,368",Sophia Antipolis
+164,Unmarried,"$7,316,524",premium,"$12,911,577",Bacnar
+165,Married,"$32,388,384",premium,"$41,539,896",Kasturi
+166,Unmarried,"$48,579,813",deluxe,"$26,906,772",Alhos Vedros
+167,Married,"$38,649,686",basic,"$22,974,872",Kae Dam
+168,Married,"$11,999,678",basic,"$19,746,623",Jimo
+169,Unmarried,"$41,147,861",basic,"$46,714,775",Feira de Santana
+170,Unmarried,"$5,575,589",deluxe,"$18,083,747",Shuibian
+171,Married,"$49,631,330",deluxe,"$16,903,674",Uji
+172,Unmarried,"$43,421,884",deluxe,"$26,366,822",Jiangdulu
+173,Married,"$8,780,841",premium,"$24,055,614",Montpellier
+174,Married,"$33,163,661",premium,"$49,537,794",Ocaña
+175,Unmarried,"$23,040,003",deluxe,"$8,504,485",Xijiao
+176,Married,"$41,506,056",basic,"$2,222,959",Quán Hành
+177,Married,"$11,087,466",premium,"$5,285,278",Yangjia
+178,Unmarried,"$27,303,572",deluxe,"$4,351,144",Kema
+179,Unmarried,"$35,624,907",basic,"$30,461,120",Carapicuíba
+180,Unmarried,"$6,657,384",deluxe,"$49,587,835",Kalidung
+181,Married,"$4,997,566",basic,"$20,297,907",Áthyra
+182,Married,"$7,991,783",deluxe,"$49,688,158",Nemours
+183,Unmarried,"$19,492,210",basic,"$15,792,702",Maracanaú
+184,Unmarried,"$25,945,033",deluxe,"$20,629,461",Thaton
+185,Married,"$37,506,862",basic,"$24,710,462",Baklashi
+186,Unmarried,"$33,374,432",premium,"$35,037,482",Bojonggaling
+187,Married,"$35,712,257",basic,"$29,249,890",Namboongan
+188,Married,"$2,263,082",basic,"$22,630,395",Nichinan
+189,Unmarried,"$13,129,663",premium,"$33,179,208",Kamloops
+190,Unmarried,"$40,540,504",basic,"$16,864,461",Hezhi
+191,Unmarried,"$22,484,085",basic,"$40,820,023",Shibetsu
+192,Married,"$15,230,578",basic,"$19,838,394",Sumurnanjung
+193,Married,"$9,044,184",basic,"$48,196,563",Qingshuihe
+194,Unmarried,"$13,848,853",deluxe,"$28,307,068",Lubei
+195,Married,"$29,898,795",deluxe,"$8,124,013",Perpignan
+196,Married,"$49,726,342",premium,"$30,227,354",Degan
+197,Unmarried,"$18,619,492",basic,"$29,680,948",Strážnice
+198,Unmarried,"$5,879,656",deluxe,"$45,752,230",Talalora
+199,Unmarried,"$16,990,324",premium,"$6,999,319",Guimarães
+200,Married,"$28,602,840",basic,"$30,630,024",Zheleznogorsk
+201,Married,"$4,098,311",basic,"$28,730,443",Khodasy
+202,Unmarried,"$20,956,617",deluxe,"$9,283,332",Ningyuan
+203,Married,"$49,597,122",premium,"$35,287,490",Gandoang
+204,Married,"$46,690,001",deluxe,"$17,145,978",Chengdong
+205,Unmarried,"$39,293,819",deluxe,"$6,353,528",Lentisqueira
+206,Unmarried,"$43,639,256",premium,"$33,017,809",Kadubera
+207,Married,"$5,730,588",deluxe,"$34,955,967",Wuxi
+208,Unmarried,"$49,778,248",basic,"$47,576,991",Guohuan
+209,Married,"$43,176,784",deluxe,"$15,481,248",Gibbons
+210,Unmarried,"$29,305,676",premium,"$2,532,196",San Ricardo
+211,Married,"$9,168,605",basic,"$15,148,294",Bakersfield
+212,Married,"$34,680,829",basic,"$44,834,965",Petung
+213,Married,"$28,568,467",basic,"$27,215,428",Magtangol
+214,Married,"$2,774,965",basic,"$7,182,067",Guiping
+215,Married,"$19,050,443",deluxe,"$5,307,899",Longtou’an
+216,Married,"$18,455,732",basic,"$27,306,311",Dinititi
+217,Unmarried,"$9,365,116",premium,"$49,368,277",Caronoan West
+218,Unmarried,"$10,717,869",deluxe,"$19,539,784",Weizhou
+219,Married,"$32,924,052",deluxe,"$7,209,391",Tsagaanchuluut
+220,Unmarried,"$14,874,389",deluxe,"$11,636,415",Butha-Buthe
+221,Married,"$32,145,616",basic,"$4,270,157",Starobelokurikha
+222,Married,"$24,755,057",deluxe,"$5,848,238",Henglu
+223,Unmarried,"$19,921,906",deluxe,"$41,155,975",Ratchasan
+224,Married,"$28,847,684",basic,"$11,133,841",Ladoeiro
+225,Unmarried,"$24,487,927",basic,"$43,445,353",Gândara de Aquém
+226,Married,"$22,607,199",basic,"$2,301,529",Kamnica
+227,Unmarried,"$33,048,968",deluxe,"$31,249,231",Béré
+228,Married,"$39,108,030",deluxe,"$43,966,309",Oeiras
+229,Married,"$27,879,495",deluxe,"$6,561,300",Nevesinje
+230,Married,"$25,349,421",deluxe,"$2,954,248",Cheremshan
+231,Married,"$4,953,644",premium,"$5,330,926",Omaha
+232,Unmarried,"$39,078,080",basic,"$34,164,063",Simpang
+233,Married,"$28,612,497",basic,"$36,766,929",Cajicá
+234,Married,"$21,748,714",deluxe,"$18,897,632",Port Washington
+235,Married,"$35,808,133",deluxe,"$19,966,079",Åmål
+236,Unmarried,"$28,399,077",deluxe,"$10,211,536",Kovářov
+237,Unmarried,"$13,739,846",deluxe,"$20,225,402",Biliran
+238,Married,"$27,390,361",basic,"$12,648,867",Changxing
+239,Married,"$43,554,854",premium,"$2,440,695",Dongyong
+240,Unmarried,"$17,636,638",basic,"$21,173,607",Miyang
+241,Married,"$28,099,760",deluxe,"$22,916,860",Bugembe
+242,Unmarried,"$12,182,946",basic,"$33,195,427",Khinjān
+243,Unmarried,"$6,703,438",basic,"$9,145,677",Laslovo
+244,Unmarried,"$6,168,513",basic,"$21,475,374",Changshou
+245,Unmarried,"$5,080,360",premium,"$23,031,813",Suya
+246,Unmarried,"$49,576,808",basic,"$21,853,172",Quillota
+247,Unmarried,"$38,968,846",basic,"$24,619,259",Načeradec
+248,Married,"$22,734,822",basic,"$47,015,143",Novokhopërsk
+249,Unmarried,"$6,843,176",deluxe,"$3,887,610",Paiçandu
+250,Married,"$8,679,159",premium,"$30,109,702",Olszyna
+251,Married,"$40,474,780",premium,"$7,639,495",Bugang
+252,Married,"$21,983,556",deluxe,"$13,336,225",Dongtang
+253,Unmarried,"$17,596,814",basic,"$41,571,531",Minian
+254,Married,"$14,991,386",premium,"$11,599,794",Nässjö
+255,Married,"$24,786,163",basic,"$35,366,344",Fentange
+256,Unmarried,"$8,451,064",basic,"$1,299,223",Zabaykal’sk
+257,Married,"$33,807,029",deluxe,"$30,335,078",Paupanda Bawah
+258,Married,"$38,899,525",basic,"$46,311,548",Shāhpur
+259,Unmarried,"$13,250,506",premium,"$29,005,458",Kletek
+260,Married,"$10,673,359",basic,"$16,500,261",Abū Tīj
+261,Married,"$25,083,734",deluxe,"$2,862,664",Pyapon
+262,Married,"$21,470,766",premium,"$29,796,109",Tambaksari
+263,Unmarried,"$13,751,475",premium,"$4,509,778",Helsingborg
+264,Married,"$10,723,781",premium,"$37,261,459",Melaka
+265,Unmarried,"$39,044,525",premium,"$36,042,907",Amaraji
+266,Married,"$22,650,198",basic,"$40,654,063",Semenivka
+267,Unmarried,"$4,286,157",premium,"$1,025,018",Cabañas
+268,Unmarried,"$16,445,844",basic,"$44,260,093",Krasnotur’insk
+269,Unmarried,"$25,494,204",basic,"$46,190,237",Huangpo
+270,Married,"$26,106,265",basic,"$7,611,514",Zhanghuban
+271,Unmarried,"$42,008,068",basic,"$3,005,417",Pasirmadang
+272,Married,"$35,874,253",premium,"$21,663,185",Loudi
+273,Married,"$40,471,588",deluxe,"$26,645,313",Sobreiro
+274,Unmarried,"$18,789,250",premium,"$24,796,565",Nancheng
+275,Married,"$29,756,666",premium,"$12,882,535",Acarigua
+276,Married,"$2,298,061",premium,"$1,712,990",Rumāh
+277,Unmarried,"$38,523,957",basic,"$16,874,873",Kigoma
+278,Married,"$7,139,706",basic,"$31,679,351",Sayansk
+279,Married,"$7,179,776",premium,"$27,988,359",Gävle
+280,Unmarried,"$12,623,781",basic,"$15,324,794",Changshengqiao
+281,Married,"$44,523,190",deluxe,"$16,719,948",Tver
+282,Married,"$21,590,534",deluxe,"$42,613,332",Silca
+283,Unmarried,"$25,833,521",basic,"$15,284,001",Marigot
+284,Married,"$3,669,635",deluxe,"$1,467,652",Kawangkoan
+285,Married,"$1,251,463",deluxe,"$5,756,247",Kohāt
+286,Married,"$7,055,626",premium,"$44,843,460",Nîmes
+287,Unmarried,"$36,708,421",deluxe,"$46,367,300",Xiangyangpu
+288,Unmarried,"$32,047,336",basic,"$24,615,468",Tonggoh
+289,Married,"$40,012,898",premium,"$14,586,158",Mizque
+290,Married,"$29,271,074",deluxe,"$7,594,497",Carletonville
+291,Unmarried,"$9,599,092",premium,"$21,748,405",Cherepovets
+292,Married,"$22,484,098",premium,"$9,138,739",Pau
+293,Unmarried,"$26,193,999",basic,"$15,913,115",Orange
+294,Married,"$22,645,536",premium,"$31,866,306",Jamao al Norte
+295,Unmarried,"$15,948,499",basic,"$17,313,662",Kotawaikabubak
+296,Married,"$4,673,747",deluxe,"$22,317,596",Shangshuai
+297,Married,"$34,779,060",deluxe,"$45,805,581",Boujniba
+298,Unmarried,"$28,465,180",deluxe,"$31,077,654",Kinalaglagan
+299,Unmarried,"$38,111,712",deluxe,"$4,598,091",Lhasa
+300,Married,"$39,961,091",deluxe,"$48,390,156",Natividade
+301,Married,"$24,715,738",premium,"$9,939,694",Eqbālīyeh
+302,Married,"$46,013,646",deluxe,"$48,773,470",Vredenburg
+303,Married,"$34,802,825",deluxe,"$3,785,882",Konary
+304,Married,"$43,819,940",basic,"$19,292,081",Villefranche-sur-Saône
+305,Married,"$31,816,362",deluxe,"$34,441,726",Zalishchyky
+306,Married,"$16,259,859",premium,"$45,350,480",Tadianjie
+307,Married,"$19,113,204",deluxe,"$34,902,046",Qaryat ad Da‘īs
+308,Unmarried,"$46,291,709",basic,"$31,450,085",Skövde
+309,Married,"$7,086,551",premium,"$47,248,937",Usab
+310,Unmarried,"$4,077,288",premium,"$33,107,605",Yushan
+311,Unmarried,"$22,167,528",basic,"$33,608,408",Yavne
+312,Unmarried,"$3,146,751",basic,"$25,022,564",Daxi
+313,Married,"$1,788,219",deluxe,"$26,004,508",Sanxing
+314,Unmarried,"$29,592,527",deluxe,"$14,589,837",Zhaxi
+315,Married,"$41,576,620",deluxe,"$36,526,727",Talin Hiag
+316,Married,"$9,958,040",premium,"$49,669,509",Prelog
+317,Unmarried,"$7,133,085",premium,"$42,340,819",Kortowo
+318,Married,"$7,157,193",premium,"$42,497,913",Haibeitou
+319,Married,"$14,305,774",deluxe,"$40,286,427",Seixo de Manhoses
+320,Married,"$47,906,366",basic,"$41,697,456",Bulualto
+321,Married,"$11,910,601",deluxe,"$38,076,065",Rimbo
+322,Married,"$41,221,951",premium,"$23,749,697",Tvarožná
+323,Unmarried,"$9,388,653",deluxe,"$6,002,019",Shuiyuesi
+324,Married,"$24,776,750",deluxe,"$25,259,147",Sergio Osmeña Sr
+325,Married,"$17,524,005",premium,"$14,435,376",Kitimat
+326,Married,"$43,946,080",premium,"$36,695,752",Dzaoudzi
+327,Married,"$25,803,821",basic,"$26,064,126",Cancas
+328,Unmarried,"$34,821,635",deluxe,"$2,958,239",Isfara
+329,Married,"$20,929,821",premium,"$24,199,993",Wanling
+330,Unmarried,"$4,284,677",premium,"$13,776,786",Sala
+331,Married,"$25,077,349",deluxe,"$25,299,898",Arjona
+332,Unmarried,"$9,858,729",basic,"$47,720,708",Shisui
+333,Unmarried,"$20,344,840",basic,"$29,577,451",Oumiao
+334,Unmarried,"$40,847,014",basic,"$43,603,193",Vuhlehirs’k
+335,Unmarried,"$6,471,269",basic,"$4,509,572",Muesanaik
+336,Unmarried,"$11,866,304",premium,"$11,506,697",Donetsk
+337,Unmarried,"$22,455,051",premium,"$13,553,825",Kezileboyi
+338,Unmarried,"$28,360,848",basic,"$43,128,229",Haligue
+339,Married,"$19,927,306",basic,"$37,609,415",Kurashiki
+340,Married,"$32,854,666",premium,"$18,762,509",Ifanes
+341,Married,"$28,434,374",deluxe,"$20,282,245",Yuntan
+342,Married,"$15,456,924",premium,"$29,104,263",Asíni
+343,Married,"$30,150,241",premium,"$42,047,274",Isla Verde
+344,Unmarried,"$44,010,869",premium,"$48,741,249",Bucay
+345,Married,"$15,630,057",deluxe,"$23,457,717",Barbosa
+346,Married,"$22,778,895",basic,"$29,128,008",Staraya Derevnya
+347,Unmarried,"$48,904,628",deluxe,"$18,533,636",Niitsu-honchō
+348,Unmarried,"$47,195,386",deluxe,"$37,269,016",Bago City
+349,Unmarried,"$46,121,898",deluxe,"$13,218,283",La Montañita
+350,Unmarried,"$13,192,426",premium,"$29,074,417",Huiwen
+351,Married,"$49,203,718",basic,"$2,653,943",Nepalgunj
+352,Unmarried,"$4,261,961",premium,"$28,939,278",Jabłonowo Pomorskie
+353,Unmarried,"$29,189,372",premium,"$3,648,713",Burns Lake
+354,Unmarried,"$10,689,304",basic,"$45,983,514",Keta
+355,Unmarried,"$28,329,867",basic,"$15,922,911",Alto de São Sebastião
+356,Unmarried,"$47,205,236",premium,"$9,581,701",Zhuanshui
+357,Unmarried,"$5,934,140",premium,"$16,301,421",Neuville
+358,Married,"$36,344,126",premium,"$42,332,147",Skutskär
+359,Married,"$41,805,623",premium,"$7,347,439",Phonphisai
+360,Married,"$24,639,177",premium,"$19,257,766",Gwadabawa
+361,Unmarried,"$26,979,153",basic,"$35,804,962",Mabusag
+362,Unmarried,"$31,134,633",deluxe,"$1,904,423",Duang
+363,Unmarried,"$28,117,058",deluxe,"$34,311,548",Sakaraha
+364,Married,"$5,176,584",premium,"$45,561,536",Lindong
+365,Married,"$28,826,791",basic,"$23,441,113",Belsk Duży
+366,Married,"$22,684,713",basic,"$15,783,796",Telgawah
+367,Unmarried,"$8,377,222",premium,"$18,036,847",San Antonio
+368,Married,"$28,257,053",basic,"$40,760,617",Xinji
+369,Married,"$1,740,138",basic,"$42,660,251",Jiworejo
+370,Unmarried,"$27,883,130",premium,"$5,007,259",Ameixoeira
+371,Unmarried,"$41,886,279",deluxe,"$24,997,218",Ikang
+372,Married,"$42,283,590",deluxe,"$8,359,578",Ríohacha
+373,Unmarried,"$15,755,479",premium,"$37,893,596",Gwoźnica Górna
+374,Unmarried,"$13,413,796",basic,"$4,967,921",Ash Shajarah
+375,Unmarried,"$14,725,618",basic,"$45,271,230",Varoška Rijeka
+376,Unmarried,"$40,335,162",deluxe,"$7,117,995",Sumiainen
+377,Married,"$34,434,225",deluxe,"$32,340,841",Mulyadadi
+378,Unmarried,"$28,927,245",basic,"$6,383,343",Dostoyevka
+379,Unmarried,"$34,922,342",premium,"$19,354,650",Loukísia
+380,Married,"$10,744,825",premium,"$49,387,393",Parakanpanjang
+381,Married,"$36,581,858",deluxe,"$32,084,570",Jiaxian Chengguanzhen
+382,Unmarried,"$14,528,782",basic,"$42,879,795",Serednye Vodyane
+383,Unmarried,"$41,902,629",premium,"$45,637,966",Dassa-Zoumé
+384,Married,"$28,916,546",premium,"$40,304,793",Eskilstuna
+385,Unmarried,"$36,418,811",basic,"$19,390,007",Mizi
+386,Unmarried,"$35,731,997",deluxe,"$8,238,097",Hörby
+387,Married,"$1,954,555",premium,"$1,504,179",Chulakivka
+388,Unmarried,"$35,493,605",deluxe,"$40,270,642",Hartford
+389,Unmarried,"$35,926,150",premium,"$37,763,100",Laocheng
+390,Married,"$33,845,796",deluxe,"$37,855,188",Kalýves Polygýrou
+391,Unmarried,"$39,677,441",deluxe,"$43,248,996",Cikalong
+392,Unmarried,"$20,688,517",basic,"$23,377,389",Paiisa
+393,Married,"$46,834,458",deluxe,"$47,149,030",Belogorsk
+394,Married,"$20,398,269",premium,"$21,510,490",Suchedniów
+395,Married,"$35,638,157",deluxe,"$19,805,310",Jilong
+396,Married,"$25,054,455",basic,"$15,952,902",Svrljig
+397,Married,"$31,219,835",deluxe,"$43,723,534",Junshan
+398,Married,"$7,857,202",premium,"$49,278,249",Próti
+399,Unmarried,"$31,706,590",basic,"$12,882,507",Dobre Miasto
+400,Married,"$41,759,966",basic,"$27,111,860",Lelydorp
+401,Married,"$48,976,097",premium,"$39,624,020",Syców
+402,Unmarried,"$17,632,163",deluxe,"$20,465,134",Jedlová
+403,Married,"$1,383,543",premium,"$34,747,525",Hamonggolele
+404,Married,"$25,270,332",premium,"$1,136,354",Coaraci
+405,Unmarried,"$6,632,445",basic,"$41,493,609",Wuli
+406,Married,"$14,647,369",basic,"$36,067,398",Abricots
+407,Married,"$13,681,596",deluxe,"$30,390,322",San Jerónimo
+408,Married,"$13,849,327",basic,"$36,012,821",Zhangaqorghan
+409,Married,"$29,038,650",premium,"$20,980,793",Saint Lucia
+410,Married,"$29,609,996",basic,"$1,761,728",Bantaeng
+411,Unmarried,"$2,567,718",premium,"$32,576,779",Kodra
+412,Unmarried,"$49,251,241",deluxe,"$24,225,173",Peddie
+413,Married,"$19,163,058",basic,"$8,795,781",Majagual
+414,Married,"$14,205,106",basic,"$21,114,670",Sarkanjut
+415,Married,"$4,806,607",basic,"$38,833,449",Wakayama-shi
+416,Unmarried,"$25,772,129",deluxe,"$12,000,661",San José de Barlovento
+417,Unmarried,"$8,610,930",deluxe,"$43,723,449",Pervoavgustovskiy
+418,Unmarried,"$25,987,201",basic,"$28,794,593",Fifi
+419,Married,"$18,264,991",premium,"$7,205,345",San Marcos
+420,Married,"$24,995,861",premium,"$13,733,347",Troyits’ke
+421,Married,"$32,609,547",basic,"$9,228,239",Thawi Watthana
+422,Married,"$1,048,692",basic,"$39,869,352",Bagikkedok Lauk
+423,Unmarried,"$17,259,956",deluxe,"$13,001,170",Nankang
+424,Married,"$18,986,551",deluxe,"$30,496,537",Pubal
+425,Married,"$37,867,839",premium,"$34,834,495",Firmat
+426,Married,"$7,148,001",basic,"$24,715,079",Changling
+427,Unmarried,"$14,267,850",premium,"$46,450,231",Wyszogród
+428,Unmarried,"$30,979,010",deluxe,"$21,434,659",Yonghe
+429,Married,"$45,947,168",premium,"$38,563,716",Pāshmūl
+430,Married,"$4,943,896",premium,"$22,255,800",Georgiyevsk
+431,Unmarried,"$13,303,740",basic,"$7,756,406",Zevgolateió
+432,Married,"$8,761,716",deluxe,"$3,848,079",New-Richmond
+433,Married,"$16,415,877",basic,"$21,068,012",Oka
+434,Unmarried,"$28,810,889",deluxe,"$33,702,118",Bergen
+435,Unmarried,"$15,480,046",deluxe,"$21,498,653",Mamali
+436,Married,"$28,009,626",premium,"$48,394,942",Machikou
+437,Unmarried,"$41,693,731",basic,"$4,461,177",Stupsk
+438,Unmarried,"$11,814,628",basic,"$10,900,354",Zaragoza
+439,Unmarried,"$8,798,344",premium,"$45,258,703",Tungao
+440,Married,"$2,170,657",premium,"$16,731,434",Tibiri
+441,Unmarried,"$39,236,971",premium,"$24,815,309",Haczów
+442,Married,"$38,831,052",premium,"$21,033,381",Quba
+443,Married,"$28,442,259",premium,"$40,486,128",Hualong
+444,Married,"$5,393,075",deluxe,"$35,508,686",Qianxu Zhen
+445,Married,"$31,483,144",deluxe,"$34,017,188",Proença-a-Nova
+446,Unmarried,"$3,817,521",premium,"$15,287,777",Bocana de Paiwas
+447,Married,"$11,156,487",basic,"$16,925,706",Huaishu
+448,Unmarried,"$8,363,100",premium,"$8,072,454",Bhadrapur
+449,Married,"$46,031,373",deluxe,"$10,655,782",Suci Kaler
+450,Unmarried,"$24,515,860",basic,"$33,386,350",Natu
+451,Unmarried,"$39,231,801",basic,"$12,395,700",Kupchino
+452,Unmarried,"$5,554,261",premium,"$12,143,219",Changping
+453,Unmarried,"$11,668,822",deluxe,"$49,740,939",Garmo
+454,Unmarried,"$23,954,489",basic,"$8,646,844",Sakura
+455,Unmarried,"$30,144,450",premium,"$23,866,546",Longtan
+456,Married,"$41,911,293",premium,"$11,637,664",Ar Rumaythah
+457,Married,"$27,927,711",basic,"$14,699,966",Shuidun
+458,Unmarried,"$34,804,808",basic,"$12,037,397",Shuanggang
+459,Married,"$4,399,992",deluxe,"$43,907,406",Sorochuco
+460,Unmarried,"$27,551,617",premium,"$49,982,884",Dujuuma
+461,Married,"$37,429,908",basic,"$11,034,357",Cairima
+462,Unmarried,"$13,649,057",deluxe,"$46,872,608",Nong Khaem
+463,Unmarried,"$1,068,525",basic,"$14,314,794",Pofadder
+464,Married,"$43,455,638",basic,"$9,935,973",Polo
+465,Unmarried,"$32,463,891",premium,"$23,848,732",Ozherel’ye
+466,Unmarried,"$1,749,081",basic,"$9,774,073",Mossel Bay
+467,Married,"$34,151,536",deluxe,"$1,620,069",Vila Franca
+468,Married,"$15,312,352",basic,"$8,144,571",Maniwaki
+469,Unmarried,"$30,235,973",basic,"$43,087,303",Saurama
+470,Married,"$13,095,995",deluxe,"$26,524,192",Tumbes
+471,Married,"$20,694,232",deluxe,"$11,352,087",Wahawaha
+472,Unmarried,"$24,907,200",deluxe,"$49,358,034",Huanuni
+473,Unmarried,"$21,584,243",deluxe,"$24,353,204",Bečej
+474,Unmarried,"$35,770,140",basic,"$2,836,898",Ash Shaykh Zuwayd
+475,Unmarried,"$13,435,051",deluxe,"$25,716,295",Aksu
+476,Married,"$7,023,579",deluxe,"$45,678,031",Alegre
+477,Married,"$9,793,780",deluxe,"$43,297,787",Springfield
+478,Unmarried,"$46,654,451",deluxe,"$35,737,259",Vilares
+479,Unmarried,"$29,984,676",deluxe,"$3,899,730",Paris 09
+480,Unmarried,"$37,235,441",basic,"$22,151,604",Ningyuan
+481,Married,"$1,877,914",basic,"$1,826,200",Barueri
+482,Married,"$39,760,712",premium,"$36,394,202",Ciénaga
+483,Unmarried,"$22,211,365",premium,"$23,394,508",Tayturka
+484,Married,"$25,619,998",deluxe,"$30,733,015",Xiying
+485,Married,"$5,430,825",basic,"$47,216,419",Itbayat
+486,Unmarried,"$19,700,045",premium,"$10,889,685",Martingança-Gare
+487,Married,"$21,869,782",premium,"$24,307,346",Santa Elena
+488,Unmarried,"$30,971,228",premium,"$10,974,453",Tal’ne
+489,Unmarried,"$27,415,034",deluxe,"$8,927,916",Varser
+490,Unmarried,"$25,813,357",premium,"$6,699,755",Banakaja
+491,Unmarried,"$40,124,841",deluxe,"$6,416,290",Zhangxi
+492,Married,"$39,633,704",basic,"$11,601,818",Tyukalinsk
+493,Unmarried,"$15,972,973",basic,"$33,674,295",Carangola
+494,Married,"$15,590,674",basic,"$30,861,516",Kakamega
+495,Married,"$29,417,508",deluxe,"$27,485,409",Haixing
+496,Unmarried,"$12,012,448",premium,"$20,703,139",Khe Tre
+497,Married,"$33,970,067",premium,"$45,904,864",Cochabamba
+498,Married,"$5,151,817",basic,"$37,875,394",Sundsvall
+499,Unmarried,"$20,908,994",basic,"$1,947,108",Alagoinhas
+500,Unmarried,"$28,474,042",deluxe,"$40,246,062",Ḥurfeish
